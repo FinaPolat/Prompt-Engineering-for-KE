@@ -1,0 +1,162 @@
+[
+    {
+        "Relation": "country",
+        "Predicate number": 0,
+        "Wikidata ID": "P17"
+    },
+    {
+        "Relation": "place of birth",
+        "Predicate number": 1,
+        "Wikidata ID": "P19"
+    },
+    {
+        "Relation": "spouse",
+        "Predicate number": 2,
+        "Wikidata ID": "P26"
+    },
+    {
+        "Relation": "country of citizenship",
+        "Predicate number": 3,
+        "Wikidata ID": "P27"
+    },
+    {
+        "Relation": "instance of",
+        "Predicate number": 4,
+        "Wikidata ID": "P31"
+    },
+    {
+        "Relation": "capital",
+        "Predicate number": 5,
+        "Wikidata ID": "P36"
+    },
+    {
+        "Relation": "child",
+        "Predicate number": 6,
+        "Wikidata ID": "P40"
+    },
+    {
+        "Relation": "shares border with",
+        "Predicate number": 7,
+        "Wikidata ID": "P47"
+    },
+    {
+        "Relation": "author",
+        "Predicate number": 8,
+        "Wikidata ID": "P50"
+    },
+    {
+        "Relation": "director",
+        "Predicate number": 9,
+        "Wikidata ID": "P57"
+    },
+    {
+        "Relation": "occupation",
+        "Predicate number": 10,
+        "Wikidata ID": "P106"
+    },
+    {
+        "Relation": "founded by",
+        "Predicate number": 11,
+        "Wikidata ID": "P112"
+    },
+    {
+        "Relation": "league",
+        "Predicate number": 12,
+        "Wikidata ID": "P118"
+    },
+    {
+        "Relation": "owned by",
+        "Predicate number": 13,
+        "Wikidata ID": "P127"
+    },
+    {
+        "Relation": "genre",
+        "Predicate number": 14,
+        "Wikidata ID": "P136"
+    },
+    {
+        "Relation": "named after",
+        "Predicate number": 15,
+        "Wikidata ID": "P138"
+    },
+    {
+        "Relation": "follows",
+        "Predicate number": 16,
+        "Wikidata ID": "P155"
+    },
+    {
+        "Relation": "headquarters location",
+        "Predicate number": 17,
+        "Wikidata ID": "P159"
+    },
+    {
+        "Relation": "cast member",
+        "Predicate number": 18,
+        "Wikidata ID": "P161"
+    },
+    {
+        "Relation": "manufacturer",
+        "Predicate number": 19,
+        "Wikidata ID": "P176"
+    },
+    {
+        "Relation": "located in or next to body of water",
+        "Predicate number": 20,
+        "Wikidata ID": "P206"
+    },
+    {
+        "Relation": "location",
+        "Predicate number": 21,
+        "Wikidata ID": "P625"
+    },
+    {
+        "Relation": "part of",
+        "Predicate number": 22,
+        "Wikidata ID": "P361"
+    },
+    {
+        "Relation": "mouth of the watercourse",
+        "Predicate number": 23,
+        "Wikidata ID": "P403"
+    },
+    {
+        "Relation": "member of",
+        "Predicate number": 24,
+        "Wikidata ID": "P102"
+    },
+    {
+        "Relation": "sport",
+        "Predicate number": 25,
+        "Wikidata ID": "P641"
+    },
+    {
+        "Relation": "characters",
+        "Predicate number": 26,
+        "Wikidata ID": "P674"
+    },
+    {
+        "Relation": "participant",
+        "Predicate number": 27,
+        "Wikidata ID": "P710"
+    },
+    {
+        "Relation": "notable work",
+        "Predicate number": 28,
+        "Wikidata ID": "P800"
+    },
+    {
+        "Relation": "replaces",
+        "Predicate number": 29,
+        "Wikidata ID": "P1365"
+    },
+    {
+        "Relation": "sibling",
+        "Predicate number": 30,
+        "Wikidata ID": "P3373"
+    },
+    {
+        "Relation": "inception",
+        "Predicate number": 31,
+        "Wikidata ID": "P571"
+    }
+]

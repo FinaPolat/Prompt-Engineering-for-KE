@@ -1,0 +1,20 @@
+{
+    "Evaluated file": "post_processed_one_shot_CoT_selfconsitency_prompts_test.json",
+    "Evaluation time": "22.94 minutes",
+    "Number of extracted triples": 3177,
+    "Number of malformed triples": 107,
+    "Number of triples has domain&range in Wikidata": 904,
+    "Number of triples with matching domain&range in Wikidata": 330,
+    "Number of triples with zero hop match": 64,
+    "Number of triples with one hop match": 39,
+    "Number of triples with two hop match": 64,
+    "Number of triples with three hop match": 163,
+    "Number of triples has domain&range in Wikidata and only subject has wikiID (obj=no-wikiID)": 125,
+    "Number of triples has domain&range in Wikidata and only subject has wikiID (obj=no-wikiID) and the domain matches": 63,
+    "Number of triples has domain&range in Wikidata and only object has wikiID (sbj=no-wikiID)": 93,
+    "Number of triples has domain&range in Wikidata and only object has wikiID (sbj=no-wikiID) and range matches": 51,
+    "Number of triples has domain&range but subject and object both NOT found in Wikidata": 26,
+    "Number of triples with all components in Wikidata": 1332,
+    "Number of triples with matching statement in Wikidata": 260,
+    "Number of triples with both statement and domain&range in Wikidata": 191
+}

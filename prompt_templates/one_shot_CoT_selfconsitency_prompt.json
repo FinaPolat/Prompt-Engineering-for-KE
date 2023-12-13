@@ -1,0 +1,18 @@
+{
+    "prefix": "Your task is extracting knowledge triples from text. A knowledge triple consists of three elements: subject - predicate - object. Subjects and objects are entities and the predicate is the relation between them. Let's use an example:",
+    "formatter": "Text: {Text} Let's extract the entities first. Here is the list of the entities in this text: {Entities} What do you know about the entities? {Entity Types} Now we think about the potential relations between these entities: {Relations} Let's make a draft of the triples. {Mixed Triples} Now it is time to think and filter out incorrect triples if there is any. The following triples seem to be incorrect: {Corrupted Triples}. Here is the reason why I think these triples are incorrect: {Explanations} Therefore, final triples should be: {Triples} ",
+    "example variables": [
+        "Text",
+        "Entities",
+        "Relations",
+        "Entity Types",
+        "Mixed Triples",
+        "Corrupted Triples",
+        "Explanations",	
+        "Triples"
+    ],
+    "input variables": [
+        "Text"
+    ],
+    "suffix": "Think like a domain expert and check the validity of the triples. Keep track of your thinking as shown in the example and extract triples from the following text. Text: {Text} Your answer: "
+}

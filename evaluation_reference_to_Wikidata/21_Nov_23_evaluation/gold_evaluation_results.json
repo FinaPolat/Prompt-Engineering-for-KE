@@ -1,0 +1,70 @@
+[
+    {
+        "file_name": "post_processed_one_shot_CoT_prompts_test.json",
+        "nr_of_gold_match": 139
+    },
+    {
+        "file_name": "post_processed_one_shot_CoT_selfconsitency_prompts_test.json",
+        "nr_of_gold_match": 114
+    },
+    {
+        "file_name": "post_processed_one_shot_GenKnow_prompts_test.json",
+        "nr_of_gold_match": 135
+    },
+    {
+        "file_name": "post_processed_one_shot_prompts_test.json",
+        "nr_of_gold_match": 60
+    },
+    {
+        "file_name": "post_processed_one_shot_RAG_prompts_test.json",
+        "nr_of_gold_match": 193
+    },
+    {
+        "file_name": "post_processed_one_shot_ReAct_prompts_test.json",
+        "nr_of_gold_match": 124
+    },
+    {
+        "file_name": "post_processed_three_shot_CoT_prompts_test.json",
+        "nr_of_gold_match": 150
+    },
+    {
+        "file_name": "post_processed_three_shot_CoT_selfconsitency_prompts_test.json",
+        "nr_of_gold_match": 142
+    },
+    {
+        "file_name": "post_processed_three_shot_GenKnow_prompts_test.json",
+        "nr_of_gold_match": 197
+    },
+    {
+        "file_name": "post_processed_three_shot_prompts_test.json",
+        "nr_of_gold_match": 96
+    },
+    {
+        "file_name": "post_processed_three_shot_RAG_prompts_test.json",
+        "nr_of_gold_match": 249
+    },
+    {
+        "file_name": "post_processed_three_shot_ReAct_prompts_test.json",
+        "nr_of_gold_match": 140
+    },
+    {
+        "file_name": "post_processed_zero_shot_CoT_prompts_test.json",
+        "nr_of_gold_match": 1
+    },
+    {
+        "file_name": "post_processed_zero_shot_CoT_selfconsistency_prompts_test.json",
+        "nr_of_gold_match": 0
+    },
+    {
+        "file_name": "post_processed_zero_shot_GenKnow_prompts_test.json",
+        "nr_of_gold_match": 0
+    },
+    {
+        "file_name": "post_processed_zero_shot_prompts_test.json",
+        "nr_of_gold_match": 0
+    },
+    {
+        "file_name": "post_processed_zero_shot_ReAct_prompts_test.json",
+        "nr_of_gold_match": 0
+    }
+]

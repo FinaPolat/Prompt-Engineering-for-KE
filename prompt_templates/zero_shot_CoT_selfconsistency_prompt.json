@@ -1,0 +1,6 @@
+{
+    "formatter": "Your task is extracting knowledge triples from text. A knowledge triple consists of three elements: subject - predicate - object. Subjects and objects are entities and the predicate is the relation between them. First, think about entities and relations that you want to extract from the text. Then, look at the potential triples. Think like a domain expert and check the validity of the triples. Filter out the invalid triples. Return the valid triples in json format. Here is the text to extract triples. {Text} Your answer: ",
+    "input variables": [
+        "Text"
+    ]
+}
