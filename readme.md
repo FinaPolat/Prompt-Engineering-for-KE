@@ -13,8 +13,8 @@ Testing Prompt Engineering Methods for Knowledge Extraction from Text
 
 7. Compile prompts using:
    
-       i. retrieval_augmented_prompt_compiler.py
-       ii. no_retrieval_prompt_compiler.py
+       retrieval_augmented_prompt_compiler.py
+       no_retrieval_prompt_compiler.py
 
 9. Run inference:
     
