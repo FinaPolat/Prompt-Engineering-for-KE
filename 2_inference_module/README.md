@@ -29,27 +29,29 @@ Post-processing
 ---------------
 Extracted triples come in various formats such as lists, dictionaries, enumerated lists, enumerated strings with separators, JSON strings, and other complex structures.
 
-Parsing Script
---------------
 To handle these different formats, the parsing script works as follows:
 
-Scenario 1: Assume the generated text is a structured format
-- Action: Attempt to load it directly. It can be:
-- List of lists
-- List of dicts
-- Dictionary of triples where values are lists of dicts
-- JSON string
+Scenario 1: Assume the generated text is a structured format.
 
-Scenario 2: Structure is embedded in the generated text
-- Action: Use REGEX to extract the structured span and then load it. It can be:
-- List of lists
-- List of dicts
-- Dictionary of triples where values are lists of dicts
-- JSON string
-- Enumerated items
-- Lists
-- Dicts
-- Other formats
+Action: Attempt to load it directly. It can be:
+
+  - List of lists
+  - List of dicts
+  - Dictionary of triples where values are lists of dicts
+  - JSON string
+
+Scenario 2: Structure is embedded in the generated text.
+
+Action: Use REGEX to extract the structured span and then load it. It can be:
+
+  - List of lists
+  - List of dicts
+  - Dictionary of triples where values are lists of dicts
+  - JSON string
+  - Enumerated items
+  - Lists
+  - Dicts
+  - Other formats
 
 Post-processing Script
 ----------------------
