@@ -1,0 +1,96 @@
+{
+    "Text": "The Porsche Panamera is a mid/full-sized luxury vehicle (E-segment in Europe) manufactured by the German automobile manufacturer Porsche. It is front-engined and has a rear-wheel-drive layout, with all-wheel drive versions also available.",
+    "Entities": [
+        "Porsche Panamera",
+        "luxury vehicle",
+        "E-segment",
+        "Europe",
+        "German",
+        "Porsche",
+        "front-engined",
+        "rear-wheel-drive",
+        "all-wheel drive"
+    ],
+    "Entity Types": [
+        "Luxury vehicle is a/an concept.",
+        "Front-engined is a/an unknown.",
+        "Rear-wheel-drive is a/an concept.",
+        "All-wheel drive is a/an unknown."
+    ],
+    "Entity wiki ids": [
+        "Luxury vehicle has a Wikidata ID of Q5581707.",
+        "Front-engined has a Wikidata ID of Q9460131.",
+        "Rear-wheel-drive has a Wikidata ID of Q1070558.",
+        "All-wheel drive has a Wikidata ID of Q12211810."
+    ],
+    "Relations": [
+        "manufacturer",
+        "country"
+    ],
+    "Relation wiki ids": [
+        "Manufacturer has the Wikidata ID of P176.",
+        "Country has the Wikidata ID of P17."
+    ],
+    "Triples": [
+        [
+            "Porsche Panamera",
+            "Manufacturer",
+            "Porsche"
+        ],
+        [
+            "Porsche",
+            "Country",
+            "German"
+        ]
+    ],
+    "Wiki Triples": [
+        [
+            "Q501349",
+            "P176",
+            "Q40993"
+        ],
+        [
+            "Q40993",
+            "P17",
+            "Q183"
+        ]
+    ],
+    "Mixed Triples": [
+        [
+            "Porsche",
+            "country",
+            "luxury vehicle"
+        ],
+        [
+            "Porsche",
+            "Country",
+            "German"
+        ],
+        [
+            "luxury vehicle",
+            "manufacturer",
+            "rear-wheel-drive"
+        ],
+        [
+            "Porsche Panamera",
+            "Manufacturer",
+            "Porsche"
+        ]
+    ],
+    "Corrupted Triples": [
+        [
+            "luxury vehicle",
+            "manufacturer",
+            "rear-wheel-drive"
+        ],
+        [
+            "Porsche",
+            "country",
+            "luxury vehicle"
+        ]
+    ],
+    "Explanations": [
+        "The relation - manufacturer - does not hold between luxury vehicle and rear-wheel-drive.",
+        "The relation - country - does not hold between Porsche and luxury vehicle."
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "docid": "1755878-0",
+    "title": "Porsche Panamera",
+    "uri": "Q501349",
+    "text": "The Porsche Panamera is a mid/full-sized luxury vehicle (E-segment in Europe) manufactured by the German automobile manufacturer Porsche. It is front-engined and has a rear-wheel-drive layout, with all-wheel drive versions also available.",
+    "entities": [
+        {
+            "uri": "Q501349",
+            "surfaceform": "Porsche Panamera",
+            "type": "MISC",
+            "start": 4,
+            "end": 20
+        },
+        {
+            "uri": "Q5581707",
+            "surfaceform": "luxury vehicle",
+            "type": "Concept",
+            "start": 41,
+            "end": 55
+        },
+        {
+            "uri": "Q17105090",
+            "surfaceform": "E-segment",
+            "type": "MISC",
+            "start": 57,
+            "end": 66
+        },
+        {
+            "uri": "Q46",
+            "surfaceform": "Europe",
+            "type": "LOC",
+            "start": 70,
+            "end": 76
+        },
+        {
+            "uri": "Q183",
+            "surfaceform": "German",
+            "type": "LOC",
+            "start": 98,
+            "end": 104
+        },
+        {
+            "uri": "Q40993",
+            "surfaceform": "Porsche",
+            "type": "LOC",
+            "start": 129,
+            "end": 136
+        },
+        {
+            "uri": "Q9460131",
+            "surfaceform": "front-engined",
+            "type": "UNK",
+            "start": 144,
+            "end": 157
+        },
+        {
+            "uri": "Q1070558",
+            "surfaceform": "rear-wheel-drive",
+            "type": "Concept",
+            "start": 168,
+            "end": 184
+        },
+        {
+            "uri": "Q12211810",
+            "surfaceform": "all-wheel drive",
+            "type": "UNK",
+            "start": 198,
+            "end": 213
+        }
+    ],
+    "relations": [
+        {
+            "subject": {
+                "uri": "Q501349",
+                "surfaceform": "Porsche Panamera",
+                "type": "MISC",
+                "start": 4,
+                "end": 20
+            },
+            "predicate": 19,
+            "object": {
+                "uri": "Q40993",
+                "surfaceform": "Porsche",
+                "type": "LOC",
+                "start": 129,
+                "end": 136
+            }
+        },
+        {
+            "subject": {
+                "uri": "Q40993",
+                "surfaceform": "Porsche",
+                "type": "LOC",
+                "start": 129,
+                "end": 136
+            },
+            "predicate": 0,
+            "object": {
+                "uri": "Q183",
+                "surfaceform": "German",
+                "type": "LOC",
+                "start": 98,
+                "end": 104
+            }
+        }
+    ]
+}
