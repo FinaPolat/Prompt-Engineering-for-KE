@@ -1,4 +1,4 @@
-Data Module Documentation
+Data Module
 ==========================
 
 The Data Module contains two sub-modules:
