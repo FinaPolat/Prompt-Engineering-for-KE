@@ -13,7 +13,7 @@ Repository:
 evaluation_reference_to_annotations
 
 Script:
-evaluate.py
+  `evaluate.py`
 
 Usage:
 python 3_evaluation_module/evaluation_reference_to_annotations/evaluate.py --input_dir <input_directory> --gold_file <gold_standard_file> --out_dir <output_directory>
