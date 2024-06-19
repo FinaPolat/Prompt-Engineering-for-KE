@@ -243,29 +243,29 @@ Five prompting strategies combined with different example incorporation choices 
 **Simple instruction:**
 - No task demonstration (zero-shot)
 - 1 canonical task demonstration (one-shot)
-- 3 canonical task demonstrations (few-shot)
-- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric
-- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric
+- 3 canonical task demonstrations (few-shots)
+- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (RAG one-shot)
+- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (RAG few-shots)
 
 **Chain of thought:**
-- No task demonstration (zero-shot)
-- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (RAG one-shot)
-- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (RAG three-shot)
+- No task demonstration (CoT zero-shot)
+- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (CoT one-shot)
+- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (CoT few-shots)
 
 **Chain of thought with self-consistency:**
 - No task demonstration (zero-shot)
-- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (one-shot)
-- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (few-shot)
+- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (CoT self-cons one-shot)
+- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (CoT self-cons few-shots)
 
 **Generated Knowledge:**
 - No task demonstration (zero-shot)
-- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (one-shot)
-- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (few-shot)
+- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (GenKnow one-shot)
+- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (GenKnow few-shots)
 
 **Reason and Act:**
 - No task demonstration (zero-shot)
-- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (one-shot)
-- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (few-shot)
+- 1 task demonstration retrieved from the training corpus based on the maximum marginal relevance metric (ReAct one-shot)
+- 3 task demonstrations retrieved from the training corpus based on the maximum marginal relevance metric (ReAct few-shots)
 
 Prompt templates can be created manually or using `1_data_module/2_creating_prompts/template_creator.py`
 
