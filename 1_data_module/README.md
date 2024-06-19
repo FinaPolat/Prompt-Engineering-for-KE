@@ -272,14 +272,16 @@ Prompt templates can be created manually or using `1_data_module/2_creating_prom
 To place the data into our prompt templates, there are two options:
 
 **No Retrieval Prompt Compiler:**
-Run 
+
+Run: 
 
 `1_data_module/2_creating_prompts/no_retrieval_prompt_compiler.py`
 
 This script works with no demonstration (zero-shot) and fixed canonical task demonstration (example) setting. It places data variables into assigned placeholder areas.
 
 **Retrieval Augmented Prompt Compiler:**
-Run 
+
+Run:
 
 `1_data_module/2_creating_prompts/retrieval_augmented_prompt_compiler.py`
 
