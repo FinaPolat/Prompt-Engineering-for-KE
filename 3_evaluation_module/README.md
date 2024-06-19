@@ -10,7 +10,8 @@ Sub-module 1: Evaluation of Reference to Annotations
 This sub-module calculates the precision, recall, and F1-score for your model's outputs.
 
 Repository:
-evaluation_reference_to_annotations
+
+`evaluation_reference_to_annotations`
 
 Script:
 
@@ -18,7 +19,9 @@ Script:
 
 Usage:
 
-  `python 3_evaluation_module/evaluation_reference_to_annotations/evaluate.py --input_dir <input_directory> --gold_file <gold_standard_file> --out_dir <output_directory>`
+```
+  python 3_evaluation_module/evaluation_reference_to_annotations/evaluate.py --input_dir <input_directory> --gold_file <gold_standard_file> --out_dir <output_directory>
+```
 
 Default Values:
 
@@ -37,14 +40,15 @@ Repository:
 
   `3_evaluation_module/evaluation_reference_to_Wikidata`
 
-Scripts:
-Wikidata Analysis:
+Script:
 
   `wikidata_analysis.py`
 
 Usage:
 
-  `python 3_evaluation_module/evaluation_reference_to_Wikidata/wikidata_analysis.py --input_dir <input_directory> --gold_file <gold_standard_file> --out_dir <output_directory>`
+  ```
+  python 3_evaluation_module/evaluation_reference_to_Wikidata/wikidata_analysis.py --input_dir <input_directory> --gold_file <gold_standard_file> --out_dir <output_directory>
+```
 
 Default Values:
 
@@ -54,7 +58,8 @@ Default Values:
   
   `--out_dir: 3_evaluation_module/evaluation_reference_to_Wikidata/{evaluation_date}_evaluation_{model_name}`
 
-Results Storage:
+----------------------------------------------
+Results Storage: 
 
 Wikidata analysis results are stored in three sub-directories:
 
@@ -62,19 +67,24 @@ Wikidata analysis results are stored in three sub-directories:
 2. results
 3. triples
 
+----------------------------------------------
 Additional Analysis Scripts:
 
-Entity and Relation Linking Rates:
+* Entity and Relation Linking Rates:
 
 To calculate the entity and relation linking rates, run:
 
-`python 3_evaluation_module/evaluation_reference_to_Wikidata/count_linked_items.py --input_dir <input_directory>`
+```
+python 3_evaluation_module/evaluation_reference_to_Wikidata/count_linked_items.py --input_dir <input_directory>
+```
 
-Domain and Range Annotation Check:
+* Domain and Range Annotation Check:
 
 To verify if relations have domain and range annotations in Wikidata, run:
 
-`python 3_evaluation_module/evaluation_reference_to_Wikidata/get_domain_range_info.py --input_dir <input_directory>`
+```
+python 3_evaluation_module/evaluation_reference_to_Wikidata/get_domain_range_info.py --input_dir <input_directory>
+```
 
 Default input_dir:
 
