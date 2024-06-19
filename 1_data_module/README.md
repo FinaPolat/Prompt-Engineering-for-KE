@@ -7,7 +7,7 @@ The Data Module contains two sub-modules:
 ----------------------
 Downloading RED-fm and shaping it according to our needs.
 
-A data instance from the training set before preprocessing:
+A data instance from the test set before preprocessing:
 
 ```{
     "docid": "1755878-0",
@@ -120,7 +120,7 @@ A data instance from the training set before preprocessing:
 
 Run `1_data_module/1_data_preprocessing/convert_REDFM.py`
 
-A data instance after preprocessing:
+The same data instance after preprocessing:
 
 ```
 {
