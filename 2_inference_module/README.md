@@ -1,4 +1,4 @@
-# Inference Module Documentation
+# Inference Module
 ==============================
 
 This module contains scripts for running inference using the OpenAI API and LangChain Huggingface API.
