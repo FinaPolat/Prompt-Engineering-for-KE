@@ -1,4 +1,4 @@
-Evaluation Module Documentation
+Evaluation Module
 ===============================
 
 This documentation provides an overview of the evaluation sub-modules and instructions for running the various scripts with their respective default values.
