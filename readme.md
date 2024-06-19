@@ -24,5 +24,6 @@ This module provides scripts to:
 This module contains code for:
 - Postprocessing extracted data
 - Evaluating extracted triples
+---------------------
 
 Each module has its own README file with detailed explanations and instructions on how to run the code. For more information on reproducing our results, please refer to the README file in the respective module.
