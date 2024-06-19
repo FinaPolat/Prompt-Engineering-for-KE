@@ -8,7 +8,8 @@ The Data Module contains two sub-modules:
 Downloading RED-fm and shaping it according to our needs.
 
 A data instance from the training set before preprocessing:
-{
+
+```{
     "docid": "1755878-0",
     "title": "Porsche Panamera",
     "uri": "Q501349",
@@ -115,10 +116,13 @@ A data instance from the training set before preprocessing:
         }
     ]
 }
+```
 
 Run `1_data_module/1_data_preprocessing/convert_REDFM.py`
 
 A data instance after preprocessing:
+
+```
 {
     "Text": "The Porsche Panamera is a mid/full-sized luxury vehicle (E-segment in Europe) manufactured by the German automobile manufacturer Porsche. It is front-engined and has a rear-wheel-drive layout, with all-wheel drive versions also available.",
     "Entities": [
@@ -215,6 +219,7 @@ A data instance after preprocessing:
         "The relation - country - does not hold between Porsche and luxury vehicle."
     ]
 }
+```
 
 2. Creating Prompts
 --------------------
@@ -267,12 +272,16 @@ Prompt templates can be created manually or using `1_data_module/2_creating_prom
 To place the data into our prompt templates, there are two options:
 
 **No Retrieval Prompt Compiler:**
-Run `1_data_module/2_creating_prompts/no_retrieval_prompt_compiler.py`
+Run 
+
+`1_data_module/2_creating_prompts/no_retrieval_prompt_compiler.py`
 
 This script works with no demonstration (zero-shot) and fixed canonical task demonstration (example) setting. It places data variables into assigned placeholder areas.
 
 **Retrieval Augmented Prompt Compiler:**
-Run `1_data_module/2_creating_prompts/retrieval_augmented_prompt_compiler.py`
+Run 
+
+`1_data_module/2_creating_prompts/retrieval_augmented_prompt_compiler.py`
 
 This script dynamically selects task demonstrations using the "maximum marginal relevance" example selector among example vectors embedded by InstructorEmbeddings.
 
