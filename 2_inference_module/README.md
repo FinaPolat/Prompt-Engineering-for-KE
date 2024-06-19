@@ -31,7 +31,7 @@ Extracted triples come in various formats such as lists, dictionaries, enumerate
 
 Parsing Script
 --------------
-To handle these different formats, use the parsing script as follows:
+To handle these different formats, the parsing script works as follows:
 
 Scenario 1: Assume the generated text is a structured format
 - Action: Attempt to load it directly. It can be:
