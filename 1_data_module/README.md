@@ -232,11 +232,11 @@ Prompting strategies employed:
 
 Adding examples (task demonstrations) to selected prompt templates:
 - Canonical example
-- One canonical example
-- Three canonical examples
+    - One canonical example
+    - Three canonical examples
 - Similarity-based example selection mechanism
-- One selected example
-- Three selected examples
+    - One selected example
+    - Three selected examples
 
 Five prompting strategies combined with different example incorporation choices result in 17 different prompts.
 
