@@ -1,0 +1,104 @@
+[
+    {
+        "file": "relations_from_one_shot_CoT_prompts_test.json",
+        "relations with domain": 421,
+        "relations with range": 364,
+        "relations with domain and range": 305
+    },
+    {
+        "file": "relations_from_one_shot_CoT_selfconsitency_prompts_test.json",
+        "relations with domain": 394,
+        "relations with range": 328,
+        "relations with domain and range": 272
+    },
+    {
+        "file": "relations_from_one_shot_GenKnow_prompts_test.json",
+        "relations with domain": 357,
+        "relations with range": 307,
+        "relations with domain and range": 252
+    },
+    {
+        "file": "relations_from_one_shot_RAG_prompts_test.json",
+        "relations with domain": 429,
+        "relations with range": 354,
+        "relations with domain and range": 298
+    },
+    {
+        "file": "relations_from_one_shot_ReAct_prompts_test.json",
+        "relations with domain": 421,
+        "relations with range": 353,
+        "relations with domain and range": 298
+    },
+    {
+        "file": "relations_from_one_shot_prompts_test.json",
+        "relations with domain": 351,
+        "relations with range": 275,
+        "relations with domain and range": 226
+    },
+    {
+        "file": "relations_from_three_shot_CoT_prompts_test.json",
+        "relations with domain": 412,
+        "relations with range": 349,
+        "relations with domain and range": 287
+    },
+    {
+        "file": "relations_from_three_shot_CoT_selfconsitency_prompts_test.json",
+        "relations with domain": 348,
+        "relations with range": 288,
+        "relations with domain and range": 242
+    },
+    {
+        "file": "relations_from_three_shot_GenKnow_prompts_test.json",
+        "relations with domain": 348,
+        "relations with range": 296,
+        "relations with domain and range": 242
+    },
+    {
+        "file": "relations_from_three_shot_RAG_prompts_test.json",
+        "relations with domain": 369,
+        "relations with range": 291,
+        "relations with domain and range": 243
+    },
+    {
+        "file": "relations_from_three_shot_ReAct_prompts_test.json",
+        "relations with domain": 434,
+        "relations with range": 336,
+        "relations with domain and range": 293
+    },
+    {
+        "file": "relations_from_three_shot_prompts_test.json",
+        "relations with domain": 313,
+        "relations with range": 253,
+        "relations with domain and range": 210
+    },
+    {
+        "file": "relations_from_zero_shot_CoT_prompts_test.json",
+        "relations with domain": 308,
+        "relations with range": 269,
+        "relations with domain and range": 228
+    },
+    {
+        "file": "relations_from_zero_shot_CoT_selfconsistency_prompts_test.json",
+        "relations with domain": 331,
+        "relations with range": 307,
+        "relations with domain and range": 247
+    },
+    {
+        "file": "relations_from_zero_shot_GenKnow_prompts_test.json",
+        "relations with domain": 330,
+        "relations with range": 293,
+        "relations with domain and range": 240
+    },
+    {
+        "file": "relations_from_zero_shot_ReAct_prompts_test.json",
+        "relations with domain": 185,
+        "relations with range": 169,
+        "relations with domain and range": 134
+    },
+    {
+        "file": "relations_from_zero_shot_prompts_test.json",
+        "relations with domain": 288,
+        "relations with range": 242,
+        "relations with domain and range": 192
+    }
+]

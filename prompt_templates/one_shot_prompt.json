@@ -1,6 +1,0 @@
-{
-    "formatter": "Extract knowledge triples from the text. Return the triples in json format. Here is an example. Text: The Amazon River flows through Brazil and Peru. Triples: [['Amazon River', 'country', 'Brazil'], ['Amazon River', 'country', 'Peru']]. Text: {Text} Your answer: ",
-    "input variables": [
-        "Text"
-    ]
-}

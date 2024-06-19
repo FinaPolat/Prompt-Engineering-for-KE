@@ -1,0 +1,21 @@
+{
+    "Evaluated file": "post_processed_one_shot_GenKnow_prompts_test.json",
+    "Evaluation time": "24.07 minutes",
+    "Number of extracted triples": 3633,
+    "Number of malformed triples": 31,
+    "Number of triples has domain&range in Wikidata": 979,
+    "Number of triples with matching domain&range in Wikidata": 396,
+    "Number of triples with zero hop match": 72,
+    "Number of triples with one hop match": 64,
+    "Number of triples with two hop match": 91,
+    "Number of triples with three hop match": 169,
+    "Number of triples has domain&range in Wikidata and only subject has wikiID (obj=no-wikiID)": 168,
+    "Number of triples has domain&range in Wikidata and only subject has wikiID (obj=no-wikiID) and the domain matches": 87,
+    "Number of triples has domain&range in Wikidata and only object has wikiID (sbj=no-wikiID)": 53,
+    "Number of triples has domain&range in Wikidata and only object has wikiID (sbj=no-wikiID) and range matches": 27,
+    "Number of triples has domain&range but subject and object both NOT found in Wikidata": 23,
+    "Number of triples has domain&range in Wikidata and both subject and object have wikiID": 735,
+    "Number of triples with all components in Wikidata": 1646,
+    "Number of triples with matching statement in Wikidata": 364,
+    "Number of triples with both statement and domain&range in Wikidata": 203
+}

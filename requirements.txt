@@ -1,9 +1,14 @@
 torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu121
 transformers
+pyproject-toml
+flash-attn===1.0.4 --no-build-isolation
 langchain
+langchain_huggingface
 chromadb
 sentence-transformers
 InstructorEmbedding
 datasets
 accelerate
 openai
+protobuf
+sentencepiece

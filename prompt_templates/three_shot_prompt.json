@@ -1,6 +1,0 @@
-{
-    "formatter": "Extract knowledge triples from the text. Return the triples in json format. Here are a few examples. Text: The Amazon River flows through Brazil and Peru. Triples: [['Amazon River', 'country', 'Brazil'], ['Amazon River', 'country', 'Peru']]. Text: COVID-19 symptoms include fever, cough, and shortness of breath. Triples[['COVID-19', 'symptom', 'fever'], ['COVID-19', 'symptom', 'cough'], ['COVID-19', 'symptom', 'shortness of breath']]  Text: The American Civil War took place from 1861 to 1865. Triples: [['American Civil War', 'start date', '1861'], ['American Civil War', 'end date', '1865']] Text: {Text} Your answer: ",
-    "input variables": [
-        "Text"
-    ]
-}

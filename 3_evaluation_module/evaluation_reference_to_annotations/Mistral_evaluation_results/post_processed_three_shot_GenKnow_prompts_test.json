@@ -1,0 +1,8 @@
+{
+    "Averaged results": {
+        "precision": 0.052983019131237215,
+        "recall": 0.1221431968629278,
+        "f1": 0.07390687110323448
+    },
+    "Number of gold matches": 181
+}

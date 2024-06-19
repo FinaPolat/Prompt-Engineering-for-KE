@@ -1,0 +1,4362 @@
+[
+    [
+        "compete",
+        "P1344"
+    ],
+    [
+        "comprises",
+        "P2635"
+    ],
+    [
+        "shares an arena with",
+        "no-wikiID"
+    ],
+    [
+        "was recorded",
+        "no-wikiID"
+    ],
+    [
+        "'1900')",
+        "no-wikiID"
+    ],
+    [
+        "is described as",
+        "no-wikiID"
+    ],
+    [
+        "changed its name",
+        "no-wikiID"
+    ],
+    [
+        "is the general manager",
+        "no-wikiID"
+    ],
+    [
+        "had a record of",
+        "no-wikiID"
+    ],
+    [
+        "competed with",
+        "no-wikiID"
+    ],
+    [
+        "suspects",
+        "no-wikiID"
+    ],
+    [
+        "was illustrated by",
+        "no-wikiID"
+    ],
+    [
+        "first flew in",
+        "no-wikiID"
+    ],
+    [
+        "is one of",
+        "no-wikiID"
+    ],
+    [
+        "written by",
+        "P50"
+    ],
+    [
+        "addition",
+        "no-wikiID"
+    ],
+    [
+        "is used",
+        "no-wikiID"
+    ],
+    [
+        "began on",
+        "no-wikiID"
+    ],
+    [
+        "“contains”",
+        "no-wikiID"
+    ],
+    [
+        "is an episode of",
+        "no-wikiID"
+    ],
+    [
+        "can choose",
+        "no-wikiID"
+    ],
+    [
+        "plays for",
+        "P54"
+    ],
+    [
+        "had good relations with",
+        "no-wikiID"
+    ],
+    [
+        "\"84 Charing Cross Road\" (1987)",
+        "no-wikiID"
+    ],
+    [
+        "allows",
+        "P2505"
+    ],
+    [
+        "first played at",
+        "no-wikiID"
+    ],
+    [
+        "is the location of",
+        "no-wikiID"
+    ],
+    [
+        "king of",
+        "no-wikiID"
+    ],
+    [
+        "starring",
+        "P161"
+    ],
+    [
+        "played by",
+        "P175"
+    ],
+    [
+        "is the 20th studio album",
+        "no-wikiID"
+    ],
+    [
+        "mentored",
+        "no-wikiID"
+    ],
+    [
+        "holds the record for",
+        "no-wikiID"
+    ],
+    [
+        "identify the subject and object entities.  I will identify the subject and object entities by looking at the sentence structure and identifying the nouns and noun phrases. 4. Identify the predicate relation between the subject and object.  I will identify the predicate relation by looking at the sentence structure and identifying the verb or verb phrase. 5. Represent the knowledge triples in JSON format.  I will represent the knowledge triples in JSON format by creating a list of objects",
+        "no-wikiID"
+    ],
+    [
+        "delivered to",
+        "no-wikiID"
+    ],
+    [
+        "has users",
+        "no-wikiID"
+    ],
+    [
+        "withdrew",
+        "no-wikiID"
+    ],
+    [
+        "was bitten by",
+        "no-wikiID"
+    ],
+    [
+        "\"\" (1995)",
+        "no-wikiID"
+    ],
+    [
+        "write",
+        "P50"
+    ],
+    [
+        "survived",
+        "no-wikiID"
+    ],
+    [
+        "had",
+        "P527"
+    ],
+    [
+        "translated",
+        "P655"
+    ],
+    [
+        "“generally those with a more”",
+        "no-wikiID"
+    ],
+    [
+        "during the",
+        "no-wikiID"
+    ],
+    [
+        "is a manufacturer",
+        "no-wikiID"
+    ],
+    [
+        "is one of the largest",
+        "no-wikiID"
+    ],
+    [
+        "is situated",
+        "no-wikiID"
+    ],
+    [
+        "was forced to resign",
+        "no-wikiID"
+    ],
+    [
+        "was designed by",
+        "no-wikiID"
+    ],
+    [
+        "was to be divided",
+        "no-wikiID"
+    ],
+    [
+        "team",
+        "P54"
+    ],
+    [
+        "has cross streets",
+        "no-wikiID"
+    ],
+    [
+        "is recognized with",
+        "no-wikiID"
+    ],
+    [
+        "verb",
+        "P9970"
+    ],
+    [
+        "west",
+        "P1335"
+    ],
+    [
+        "inhabitant_of",
+        "no-wikiID"
+    ],
+    [
+        "was rapidly Hellenized",
+        "no-wikiID"
+    ],
+    [
+        "conquered",
+        "no-wikiID"
+    ],
+    [
+        "the city is a thriving cultural and regional hub. It became well known through the Maastricht Treaty and as the birthplace of the euro. Maastricht has 1677 national heritage buildings (\"Rijksmonumenten\")",
+        "no-wikiID"
+    ],
+    [
+        "born",
+        "P569"
+    ],
+    [
+        "born_in",
+        "P19"
+    ],
+    [
+        "credited",
+        "P1932"
+    ],
+    [
+        "owned",
+        "P127"
+    ],
+    [
+        "videotapes",
+        "no-wikiID"
+    ],
+    [
+        "was meant as",
+        "no-wikiID"
+    ],
+    [
+        "be not a sovereign state",
+        "no-wikiID"
+    ],
+    [
+        "dobj",
+        "no-wikiID"
+    ],
+    [
+        "was briefly occupied by",
+        "no-wikiID"
+    ],
+    [
+        "locations",
+        "no-wikiID"
+    ],
+    [
+        "includes an integrated intelligent personal assistant system",
+        "no-wikiID"
+    ],
+    [
+        "revolted",
+        "no-wikiID"
+    ],
+    [
+        "date",
+        "P585"
+    ],
+    [
+        "starred in",
+        "no-wikiID"
+    ],
+    [
+        "was the year",
+        "no-wikiID"
+    ],
+    [
+        "queen of",
+        "no-wikiID"
+    ],
+    [
+        "seceded",
+        "P807"
+    ],
+    [
+        "released in",
+        "P577"
+    ],
+    [
+        "is distributed by",
+        "no-wikiID"
+    ],
+    [
+        "is the world's fifth-largest by prescription sales",
+        "no-wikiID"
+    ],
+    [
+        "was re-titled",
+        "no-wikiID"
+    ],
+    [
+        "\"predicate\": predicate",
+        "no-wikiID"
+    ],
+    [
+        "death",
+        "P570"
+    ],
+    [
+        "was formed",
+        "no-wikiID"
+    ],
+    [
+        "is published on",
+        "no-wikiID"
+    ],
+    [
+        "object) and the relations (predicate)?  Please let me know your thoughts and we can proceed with the task.  I will be happy to help you with your task. Let's start with the first step. Please let me know what you think about the task. Do you have any questions or concerns? Do you want to start with the text and identify the entities (subject",
+        "no-wikiID"
+    ],
+    [
+        "featured on",
+        "no-wikiID"
+    ],
+    [
+        "Predicate: was",
+        "no-wikiID"
+    ],
+    [
+        "\"and\"",
+        "no-wikiID"
+    ],
+    [
+        "Brothers Grimm",
+        "no-wikiID"
+    ],
+    [
+        "agreed to license premium videos",
+        "no-wikiID"
+    ],
+    [
+        "built with",
+        "no-wikiID"
+    ],
+    [
+        "has played at",
+        "no-wikiID"
+    ],
+    [
+        "was overrun by",
+        "no-wikiID"
+    ],
+    [
+        "is a regional jet produced by",
+        "no-wikiID"
+    ],
+    [
+        "was planned",
+        "no-wikiID"
+    ],
+    [
+        "can be",
+        "P366"
+    ],
+    [
+        "was selected by",
+        "no-wikiID"
+    ],
+    [
+        "is a type of",
+        "P279"
+    ],
+    [
+        "first flew",
+        "no-wikiID"
+    ],
+    [
+        "\"did not play\"",
+        "no-wikiID"
+    ],
+    [
+        "replaced",
+        "P1365"
+    ],
+    [
+        "prophesied",
+        "no-wikiID"
+    ],
+    [
+        "co-wrote",
+        "no-wikiID"
+    ],
+    [
+        "is-a",
+        "P31"
+    ],
+    [
+        "first published on",
+        "no-wikiID"
+    ],
+    [
+        "losing to",
+        "no-wikiID"
+    ],
+    [
+        "travels",
+        "no-wikiID"
+    ],
+    [
+        "founders and most of the team members",
+        "no-wikiID"
+    ],
+    [
+        "\"are a member of\"",
+        "no-wikiID"
+    ],
+    [
+        "was known as",
+        "no-wikiID"
+    ],
+    [
+        "has owned",
+        "no-wikiID"
+    ],
+    [
+        "be a member of",
+        "no-wikiID"
+    ],
+    [
+        "was shot",
+        "no-wikiID"
+    ],
+    [
+        "prepares",
+        "no-wikiID"
+    ],
+    [
+        "together",
+        "P1706"
+    ],
+    [
+        "connect",
+        "P81"
+    ],
+    [
+        "provide",
+        "P137"
+    ],
+    [
+        "stars",
+        "P25"
+    ],
+    [
+        "has been",
+        "no-wikiID"
+    ],
+    [
+        "'",
+        "P9073"
+    ],
+    [
+        "supports",
+        "P8956"
+    ],
+    [
+        "Igor Sikorsky",
+        "no-wikiID"
+    ],
+    [
+        "\"is shared with\"",
+        "no-wikiID"
+    ],
+    [
+        "\"island\"",
+        "no-wikiID"
+    ],
+    [
+        "is manufactured in",
+        "no-wikiID"
+    ],
+    [
+        "was president",
+        "no-wikiID"
+    ],
+    [
+        "played at",
+        "no-wikiID"
+    ],
+    [
+        "gave",
+        "P7904"
+    ],
+    [
+        "win",
+        "P166"
+    ],
+    [
+        "in",
+        "P131"
+    ],
+    [
+        "as a member of",
+        "no-wikiID"
+    ],
+    [
+        "object) and the relations (predicate) in the text. 2. Identify the sentences in the text. 3. For each sentence",
+        "no-wikiID"
+    ],
+    [
+        "used",
+        "P2283"
+    ],
+    [
+        "\"predicate\": \"is a\"",
+        "no-wikiID"
+    ],
+    [
+        "is one of the most successful basketball teams in",
+        "no-wikiID"
+    ],
+    [
+        "'2008–2015'",
+        "no-wikiID"
+    ],
+    [
+        "set to premiere",
+        "no-wikiID"
+    ],
+    [
+        "\"is defined by\"",
+        "no-wikiID"
+    ],
+    [
+        "songwriter",
+        "P86"
+    ],
+    [
+        "extension_of",
+        "no-wikiID"
+    ],
+    [
+        "means",
+        "P5137"
+    ],
+    [
+        "Identify entities in the text using named entity recognition (NER)",
+        "no-wikiID"
+    ],
+    [
+        "animated television series",
+        "no-wikiID"
+    ],
+    [
+        "plays as a midfielder",
+        "no-wikiID"
+    ],
+    [
+        "have inhabited",
+        "no-wikiID"
+    ],
+    [
+        "located_in",
+        "P276"
+    ],
+    [
+        "overlooks the campus of",
+        "no-wikiID"
+    ],
+    [
+        "is one of the two Grand Prix",
+        "no-wikiID"
+    ],
+    [
+        "controlled",
+        "P10719"
+    ],
+    [
+        "was shot at",
+        "no-wikiID"
+    ],
+    [
+        "carried",
+        "no-wikiID"
+    ],
+    [
+        "is the most populous city",
+        "no-wikiID"
+    ],
+    [
+        "version",
+        "P747"
+    ],
+    [
+        "became title sponsor",
+        "no-wikiID"
+    ],
+    [
+        "is a stretched and faster variant of",
+        "no-wikiID"
+    ],
+    [
+        "meaning",
+        "no-wikiID"
+    ],
+    [
+        "mortally wounds",
+        "no-wikiID"
+    ],
+    [
+        "won Obie Award",
+        "no-wikiID"
+    ],
+    [
+        "such as people",
+        "no-wikiID"
+    ],
+    [
+        "genre",
+        "P136"
+    ],
+    [
+        "co-operate",
+        "no-wikiID"
+    ],
+    [
+        "merged",
+        "P7888"
+    ],
+    [
+        "has a layout",
+        "no-wikiID"
+    ],
+    [
+        "can sell",
+        "no-wikiID"
+    ],
+    [
+        "has_features",
+        "no-wikiID"
+    ],
+    [
+        "is jointly owned by",
+        "no-wikiID"
+    ],
+    [
+        "license premium videos",
+        "no-wikiID"
+    ],
+    [
+        "one of only five in the NFL to record over",
+        "no-wikiID"
+    ],
+    [
+        "can be freely explored by",
+        "no-wikiID"
+    ],
+    [
+        "was likely abandoned",
+        "no-wikiID"
+    ],
+    [
+        "is a successor to",
+        "no-wikiID"
+    ],
+    [
+        "is a co-production between",
+        "no-wikiID"
+    ],
+    [
+        "\"born\"",
+        "no-wikiID"
+    ],
+    [
+        "'joined'",
+        "no-wikiID"
+    ],
+    [
+        "driven",
+        "no-wikiID"
+    ],
+    [
+        "headquarters and training facility are in",
+        "no-wikiID"
+    ],
+    [
+        "was from",
+        "no-wikiID"
+    ],
+    [
+        "has a wide-field reflecting telescope",
+        "no-wikiID"
+    ],
+    [
+        "“was published in”",
+        "no-wikiID"
+    ],
+    [
+        "\"played\"",
+        "no-wikiID"
+    ],
+    [
+        "was the home of",
+        "no-wikiID"
+    ],
+    [
+        "starred",
+        "no-wikiID"
+    ],
+    [
+        "imbibes",
+        "no-wikiID"
+    ],
+    [
+        "\"rejoined\"",
+        "no-wikiID"
+    ],
+    [
+        "was the season during which",
+        "no-wikiID"
+    ],
+    [
+        "was originally located",
+        "no-wikiID"
+    ],
+    [
+        "word",
+        "P154"
+    ],
+    [
+        "belonging",
+        "no-wikiID"
+    ],
+    [
+        "was the richest city of",
+        "no-wikiID"
+    ],
+    [
+        "has purchased",
+        "no-wikiID"
+    ],
+    [
+        "african",
+        "P2036"
+    ],
+    [
+        "occupied",
+        "no-wikiID"
+    ],
+    [
+        "targeted",
+        "no-wikiID"
+    ],
+    [
+        "is a product of a Dutch company",
+        "no-wikiID"
+    ],
+    [
+        "nationality",
+        "no-wikiID"
+    ],
+    [
+        "do not replace",
+        "no-wikiID"
+    ],
+    [
+        "accommodates",
+        "no-wikiID"
+    ],
+    [
+        "is based in",
+        "no-wikiID"
+    ],
+    [
+        "was announced in",
+        "no-wikiID"
+    ],
+    [
+        "recorded",
+        "P175"
+    ],
+    [
+        "China (1)",
+        "no-wikiID"
+    ],
+    [
+        "manufactured",
+        "P186"
+    ],
+    [
+        "took place at",
+        "no-wikiID"
+    ],
+    [
+        "object) and the relations (predicate) between them. 2. Identify the entities and their types (e.g.",
+        "no-wikiID"
+    ],
+    [
+        "supported_by",
+        "P3680"
+    ],
+    [
+        "led",
+        "P286"
+    ],
+    [
+        "has a plastic'metallic skin'",
+        "no-wikiID"
+    ],
+    [
+        "meets",
+        "P2789"
+    ],
+    [
+        "conceived",
+        "no-wikiID"
+    ],
+    [
+        "received a nomination",
+        "no-wikiID"
+    ],
+    [
+        "popularizing",
+        "no-wikiID"
+    ],
+    [
+        "year",
+        "P585"
+    ],
+    [
+        "Bill Prater",
+        "no-wikiID"
+    ],
+    [
+        "known for",
+        "P793"
+    ],
+    [
+        "provides",
+        "P1056"
+    ],
+    [
+        "available_on",
+        "no-wikiID"
+    ],
+    [
+        "finished",
+        "no-wikiID"
+    ],
+    [
+        "was one of the early pioneers of the Internet",
+        "no-wikiID"
+    ],
+    [
+        "published",
+        "P577"
+    ],
+    [
+        "owns",
+        "P355"
+    ],
+    [
+        "became best known for",
+        "no-wikiID"
+    ],
+    [
+        "NNS",
+        "no-wikiID"
+    ],
+    [
+        "was the most recognized brand on the web",
+        "no-wikiID"
+    ],
+    [
+        "is a state",
+        "no-wikiID"
+    ],
+    [
+        "is located at",
+        "no-wikiID"
+    ],
+    [
+        "'played'",
+        "no-wikiID"
+    ],
+    [
+        "left",
+        "P582"
+    ],
+    [
+        "explain",
+        "P11641"
+    ],
+    [
+        "was written by",
+        "no-wikiID"
+    ],
+    [
+        "be located",
+        "no-wikiID"
+    ],
+    [
+        "“film distribution label of”",
+        "no-wikiID"
+    ],
+    [
+        "is a sub-unit of",
+        "no-wikiID"
+    ],
+    [
+        "has company",
+        "no-wikiID"
+    ],
+    [
+        "licensed from",
+        "no-wikiID"
+    ],
+    [
+        "ruled",
+        "no-wikiID"
+    ],
+    [
+        "is completed in",
+        "no-wikiID"
+    ],
+    [
+        "closed",
+        "P582"
+    ],
+    [
+        "appointed",
+        "P748"
+    ],
+    [
+        "triple[1]",
+        "no-wikiID"
+    ],
+    [
+        "is a king of",
+        "no-wikiID"
+    ],
+    [
+        "has_released",
+        "no-wikiID"
+    ],
+    [
+        "sells",
+        "P7163"
+    ],
+    [
+        "devote",
+        "P140"
+    ],
+    [
+        "is a part of",
+        "no-wikiID"
+    ],
+    [
+        "\"predicate\": \"written by\"",
+        "no-wikiID"
+    ],
+    [
+        "written and illustrated by",
+        "no-wikiID"
+    ],
+    [
+        "used_in",
+        "P366"
+    ],
+    [
+        "'founded'",
+        "no-wikiID"
+    ],
+    [
+        "is a company",
+        "no-wikiID"
+    ],
+    [
+        "conception",
+        "P2515"
+    ],
+    [
+        "disbanded",
+        "P576"
+    ],
+    [
+        "have local broadcasting rights held by",
+        "no-wikiID"
+    ],
+    [
+        "defeated",
+        "no-wikiID"
+    ],
+    [
+        "serves",
+        "P2541"
+    ],
+    [
+        "died",
+        "P570"
+    ],
+    [
+        "represented",
+        "P1875"
+    ],
+    [
+        "with the highest preferential votes after",
+        "no-wikiID"
+    ],
+    [
+        "Georgia Bulldogs",
+        "no-wikiID"
+    ],
+    [
+        "inspired_by",
+        "P144"
+    ],
+    [
+        "following",
+        "P10809"
+    ],
+    [
+        "has won",
+        "no-wikiID"
+    ],
+    [
+        "used in",
+        "P366"
+    ],
+    [
+        "is the longest karst river in",
+        "no-wikiID"
+    ],
+    [
+        "name in Greek",
+        "no-wikiID"
+    ],
+    [
+        "principal activity is",
+        "no-wikiID"
+    ],
+    [
+        "after",
+        "P1319"
+    ],
+    [
+        "uses",
+        "P4510"
+    ],
+    [
+        "economy",
+        "P8744"
+    ],
+    [
+        "consolidate",
+        "P3390"
+    ],
+    [
+        "was mostly developed and marketed by",
+        "no-wikiID"
+    ],
+    [
+        "ended",
+        "P576"
+    ],
+    [
+        "were in airline service",
+        "no-wikiID"
+    ],
+    [
+        "married",
+        "P26"
+    ],
+    [
+        "killed",
+        "P20"
+    ],
+    [
+        "\"Honus Wagner\"",
+        "no-wikiID"
+    ],
+    [
+        "is directed by",
+        "no-wikiID"
+    ],
+    [
+        "lies",
+        "P4810"
+    ],
+    [
+        "currently playing as",
+        "no-wikiID"
+    ],
+    [
+        "suggest",
+        "P1963"
+    ],
+    [
+        "controls",
+        "P121"
+    ],
+    [
+        "portrayed by",
+        "P175"
+    ],
+    [
+        "chose to use",
+        "no-wikiID"
+    ],
+    [
+        "“is a geologic era”",
+        "no-wikiID"
+    ],
+    [
+        "prequel to",
+        "no-wikiID"
+    ],
+    [
+        "written",
+        "P50"
+    ],
+    [
+        "Latin name",
+        "P225"
+    ],
+    [
+        "“do not enter into”",
+        "no-wikiID"
+    ],
+    [
+        "organised by",
+        "P664"
+    ],
+    [
+        "was the team that compiled a",
+        "no-wikiID"
+    ],
+    [
+        "was demolished",
+        "no-wikiID"
+    ],
+    [
+        "is not modelled on",
+        "no-wikiID"
+    ],
+    [
+        "formed",
+        "P571"
+    ],
+    [
+        "offered affordable mobility to",
+        "no-wikiID"
+    ],
+    [
+        "acquired",
+        "P7888"
+    ],
+    [
+        "emerged",
+        "no-wikiID"
+    ],
+    [
+        "has a'simpler' user interface",
+        "no-wikiID"
+    ],
+    [
+        "had one of the highest average attendances in",
+        "no-wikiID"
+    ],
+    [
+        "income",
+        "P2139"
+    ],
+    [
+        "employ",
+        "P106"
+    ],
+    [
+        "is a sequel to",
+        "no-wikiID"
+    ],
+    [
+        "scheduled to return to",
+        "no-wikiID"
+    ],
+    [
+        "WNBA",
+        "P3588"
+    ],
+    [
+        "turns to",
+        "no-wikiID"
+    ],
+    [
+        "is headquartered in",
+        "no-wikiID"
+    ],
+    [
+        "was published",
+        "P577"
+    ],
+    [
+        "supported by",
+        "P3680"
+    ],
+    [
+        "led by",
+        "P286"
+    ],
+    [
+        "be incorporated into",
+        "no-wikiID"
+    ],
+    [
+        "was",
+        "P577"
+    ],
+    [
+        "has_colours",
+        "no-wikiID"
+    ],
+    [
+        "included",
+        "P5008"
+    ],
+    [
+        "sang",
+        "P854"
+    ],
+    [
+        "struggled",
+        "no-wikiID"
+    ],
+    [
+        "became the fastest expansion team in major league history to win a championship",
+        "no-wikiID"
+    ],
+    [
+        "venture",
+        "no-wikiID"
+    ],
+    [
+        "can get",
+        "no-wikiID"
+    ],
+    [
+        "ordered by",
+        "P8004"
+    ],
+    [
+        "is a Dutch company",
+        "no-wikiID"
+    ],
+    [
+        "currently compete in",
+        "no-wikiID"
+    ],
+    [
+        "recognized",
+        "P3680"
+    ],
+    [
+        "“is defined chronometrically”",
+        "no-wikiID"
+    ],
+    [
+        "with",
+        "P1706"
+    ],
+    [
+        "was considered by",
+        "no-wikiID"
+    ],
+    [
+        "previously played at",
+        "no-wikiID"
+    ],
+    [
+        "head coach",
+        "P286"
+    ],
+    [
+        "headquartered at",
+        "no-wikiID"
+    ],
+    [
+        "was the team that played during",
+        "no-wikiID"
+    ],
+    [
+        "was elected to",
+        "no-wikiID"
+    ],
+    [
+        "was the capital of",
+        "no-wikiID"
+    ],
+    [
+        "was created as an extension of",
+        "no-wikiID"
+    ],
+    [
+        "President of",
+        "no-wikiID"
+    ],
+    [
+        "has a removable battery",
+        "no-wikiID"
+    ],
+    [
+        "constitute",
+        "P2670"
+    ],
+    [
+        "was an advocate of",
+        "no-wikiID"
+    ],
+    [
+        "responsible for",
+        "P101"
+    ],
+    [
+        "resulted from",
+        "no-wikiID"
+    ],
+    [
+        "established",
+        "P571"
+    ],
+    [
+        "was released physically",
+        "no-wikiID"
+    ],
+    [
+        "published year",
+        "no-wikiID"
+    ],
+    [
+        "fell to",
+        "no-wikiID"
+    ],
+    [
+        "designed by",
+        "P287"
+    ],
+    [
+        "predicate",
+        "P9970"
+    ],
+    [
+        "remaining on order",
+        "no-wikiID"
+    ],
+    [
+        "main rival is",
+        "no-wikiID"
+    ],
+    [
+        "headed",
+        "P488"
+    ],
+    [
+        "missed",
+        "no-wikiID"
+    ],
+    [
+        "is the location",
+        "no-wikiID"
+    ],
+    [
+        "won Tony Award",
+        "no-wikiID"
+    ],
+    [
+        "directed_by",
+        "P57"
+    ],
+    [
+        "is published in",
+        "no-wikiID"
+    ],
+    [
+        "Use the entities and their corresponding types to generate knowledge triples",
+        "no-wikiID"
+    ],
+    [
+        "ceased operations",
+        "no-wikiID"
+    ],
+    [
+        "plays its home games at",
+        "no-wikiID"
+    ],
+    [
+        "reached",
+        "no-wikiID"
+    ],
+    [
+        "directed the planning and development of",
+        "no-wikiID"
+    ],
+    [
+        "is the third staging of",
+        "no-wikiID"
+    ],
+    [
+        "originated as",
+        "no-wikiID"
+    ],
+    [
+        "production run",
+        "no-wikiID"
+    ],
+    [
+        "enacted",
+        "P467"
+    ],
+    [
+        "visited",
+        "P813"
+    ],
+    [
+        "name in Hebrew",
+        "no-wikiID"
+    ],
+    [
+        "\"is the son of\"",
+        "no-wikiID"
+    ],
+    [
+        "are owned and operated by",
+        "no-wikiID"
+    ],
+    [
+        "ascension of",
+        "no-wikiID"
+    ],
+    [
+        "associated with",
+        "P1416"
+    ],
+    [
+        "was born",
+        "no-wikiID"
+    ],
+    [
+        "\"are one of\"",
+        "no-wikiID"
+    ],
+    [
+        "is to be played",
+        "no-wikiID"
+    ],
+    [
+        "“owned by”",
+        "no-wikiID"
+    ],
+    [
+        "belonged to",
+        "P127"
+    ],
+    [
+        "has produced a regional jet",
+        "no-wikiID"
+    ],
+    [
+        "\"is located in\"",
+        "no-wikiID"
+    ],
+    [
+        "sound",
+        "P4733"
+    ],
+    [
+        "at",
+        "P585"
+    ],
+    [
+        "received",
+        "P166"
+    ],
+    [
+        "is within",
+        "no-wikiID"
+    ],
+    [
+        "are known as",
+        "no-wikiID"
+    ],
+    [
+        "for",
+        "P518"
+    ],
+    [
+        "reunited",
+        "no-wikiID"
+    ],
+    [
+        "'related_to'",
+        "no-wikiID"
+    ],
+    [
+        "is a novel by",
+        "no-wikiID"
+    ],
+    [
+        "marriage",
+        "P26"
+    ],
+    [
+        "is notable for being",
+        "no-wikiID"
+    ],
+    [
+        "moved from",
+        "no-wikiID"
+    ],
+    [
+        "joined",
+        "P580"
+    ],
+    [
+        "did not take place",
+        "no-wikiID"
+    ],
+    [
+        "co-edited",
+        "no-wikiID"
+    ],
+    [
+        "based",
+        "P887"
+    ],
+    [
+        "is a footballer",
+        "no-wikiID"
+    ],
+    [
+        "was renamed from",
+        "no-wikiID"
+    ],
+    [
+        "consolidated",
+        "P3390"
+    ],
+    [
+        "Kazakhstan (1)",
+        "no-wikiID"
+    ],
+    [
+        "successor",
+        "P156"
+    ],
+    [
+        "t[1]",
+        "no-wikiID"
+    ],
+    [
+        "is managed and operated by",
+        "no-wikiID"
+    ],
+    [
+        "fronted by",
+        "no-wikiID"
+    ],
+    [
+        "'directed'",
+        "no-wikiID"
+    ],
+    [
+        "was spun off from",
+        "no-wikiID"
+    ],
+    [
+        "be played",
+        "no-wikiID"
+    ],
+    [
+        "has broadcasting rights",
+        "no-wikiID"
+    ],
+    [
+        "must escape",
+        "no-wikiID"
+    ],
+    [
+        "support",
+        "P945"
+    ],
+    [
+        "including the cover slogan to differentiate it from",
+        "no-wikiID"
+    ],
+    [
+        "developed",
+        "P61"
+    ],
+    [
+        "is the fifth oldest national Grand Prix",
+        "no-wikiID"
+    ],
+    [
+        "has_power_of",
+        "no-wikiID"
+    ],
+    [
+        "is established in",
+        "no-wikiID"
+    ],
+    [
+        "relocated",
+        "no-wikiID"
+    ],
+    [
+        "declared",
+        "P2218"
+    ],
+    [
+        "was elected",
+        "no-wikiID"
+    ],
+    [
+        "governing body of",
+        "no-wikiID"
+    ],
+    [
+        "is the state capital",
+        "no-wikiID"
+    ],
+    [
+        "purchased",
+        "P7888"
+    ],
+    [
+        "was one of the most popular German premium models",
+        "no-wikiID"
+    ],
+    [
+        "based_in",
+        "P276"
+    ],
+    [
+        "has spent most of its history in",
+        "no-wikiID"
+    ],
+    [
+        "based in",
+        "P276"
+    ],
+    [
+        "entity2",
+        "no-wikiID"
+    ],
+    [
+        "was co-founded",
+        "no-wikiID"
+    ],
+    [
+        "uses a",
+        "no-wikiID"
+    ],
+    [
+        "contributed",
+        "P3919"
+    ],
+    [
+        "tags_baserunner",
+        "no-wikiID"
+    ],
+    [
+        "was the team that had head coach",
+        "no-wikiID"
+    ],
+    [
+        "sold cars to",
+        "no-wikiID"
+    ],
+    [
+        "has a large and expanding user base",
+        "no-wikiID"
+    ],
+    [
+        "maintain",
+        "P137"
+    ],
+    [
+        "ancestral_home_of",
+        "no-wikiID"
+    ],
+    [
+        "is a",
+        "P31"
+    ],
+    [
+        "is manufactured by",
+        "no-wikiID"
+    ],
+    [
+        "built",
+        "P571"
+    ],
+    [
+        "member club of",
+        "no-wikiID"
+    ],
+    [
+        "combine",
+        "P971"
+    ],
+    [
+        "completed",
+        "P571"
+    ],
+    [
+        "Poland",
+        "P1653"
+    ],
+    [
+        "protagonist",
+        "P9199"
+    ],
+    [
+        "place of formation",
+        "P740"
+    ],
+    [
+        "recommended",
+        "P8111"
+    ],
+    [
+        "is bordered by",
+        "no-wikiID"
+    ],
+    [
+        "a World Biosphere Reserve. Crete forms a significant part of the economy and cultural heritage of Greece",
+        "no-wikiID"
+    ],
+    [
+        "result",
+        "P1542"
+    ],
+    [
+        "holds",
+        "P4330"
+    ],
+    [
+        "merged into",
+        "P7888"
+    ],
+    [
+        "became the capital of",
+        "no-wikiID"
+    ],
+    [
+        "published a survey",
+        "no-wikiID"
+    ],
+    [
+        "reigned",
+        "no-wikiID"
+    ],
+    [
+        "“attempted to commit the perfect crime”",
+        "no-wikiID"
+    ],
+    [
+        "besieged",
+        "no-wikiID"
+    ],
+    [
+        "was directed by",
+        "no-wikiID"
+    ],
+    [
+        "was originally published in",
+        "no-wikiID"
+    ],
+    [
+        "earned nomination",
+        "no-wikiID"
+    ],
+    [
+        "aired",
+        "P449"
+    ],
+    [
+        "compilated",
+        "no-wikiID"
+    ],
+    [
+        "had also been previously available",
+        "no-wikiID"
+    ],
+    [
+        "announced",
+        "P6949"
+    ],
+    [
+        "created_by",
+        "P170"
+    ],
+    [
+        "R&B falsetto",
+        "P31"
+    ],
+    [
+        "are based",
+        "no-wikiID"
+    ],
+    [
+        "is','serving",
+        "no-wikiID"
+    ],
+    [
+        "referred to",
+        "P2561"
+    ],
+    [
+        "voiced",
+        "P725"
+    ],
+    [
+        "enjoyed its first golden age in",
+        "no-wikiID"
+    ],
+    [
+        "was the season in which",
+        "no-wikiID"
+    ],
+    [
+        "'stars'",
+        "no-wikiID"
+    ],
+    [
+        "be surrounded by",
+        "no-wikiID"
+    ],
+    [
+        "canton_in",
+        "no-wikiID"
+    ],
+    [
+        "combines",
+        "P5238"
+    ],
+    [
+        "are governed by",
+        "no-wikiID"
+    ],
+    [
+        "Peninsula",
+        "no-wikiID"
+    ],
+    [
+        "relate to",
+        "no-wikiID"
+    ],
+    [
+        "impact",
+        "P5520"
+    ],
+    [
+        "goes to",
+        "no-wikiID"
+    ],
+    [
+        "plays",
+        "P641"
+    ],
+    [
+        "“committed a murder”",
+        "no-wikiID"
+    ],
+    [
+        "allow",
+        "P2305"
+    ],
+    [
+        "competing",
+        "no-wikiID"
+    ],
+    [
+        "returned to",
+        "no-wikiID"
+    ],
+    [
+        "takes place in",
+        "P840"
+    ],
+    [
+        "dates",
+        "P622"
+    ],
+    [
+        "plays on loan from",
+        "no-wikiID"
+    ],
+    [
+        "offers",
+        "P3173"
+    ],
+    [
+        "described",
+        "P405"
+    ],
+    [
+        "commenced delivery on",
+        "no-wikiID"
+    ],
+    [
+        "overthrew",
+        "no-wikiID"
+    ],
+    [
+        "is at sea",
+        "no-wikiID"
+    ],
+    [
+        "is a version of",
+        "no-wikiID"
+    ],
+    [
+        "must not",
+        "no-wikiID"
+    ],
+    [
+        "won",
+        "P1355"
+    ],
+    [
+        "thanked",
+        "P7137"
+    ],
+    [
+        "took over",
+        "no-wikiID"
+    ],
+    [
+        "aired on",
+        "P449"
+    ],
+    [
+        "co-write",
+        "no-wikiID"
+    ],
+    [
+        "warn off",
+        "no-wikiID"
+    ],
+    [
+        "type",
+        "P31"
+    ],
+    [
+        "was acquired by",
+        "no-wikiID"
+    ],
+    [
+        "best known for",
+        "no-wikiID"
+    ],
+    [
+        "was founded",
+        "no-wikiID"
+    ],
+    [
+        "was the 89th",
+        "no-wikiID"
+    ],
+    [
+        "shares with",
+        "no-wikiID"
+    ],
+    [
+        "work",
+        "P1433"
+    ],
+    [
+        "began acting career",
+        "no-wikiID"
+    ],
+    [
+        "“is a”",
+        "no-wikiID"
+    ],
+    [
+        "hope to create a society",
+        "no-wikiID"
+    ],
+    [
+        "has_partner",
+        "no-wikiID"
+    ],
+    [
+        "is the",
+        "P279"
+    ],
+    [
+        "\"are based in\"",
+        "no-wikiID"
+    ],
+    [
+        "is managed by",
+        "no-wikiID"
+    ],
+    [
+        "apply",
+        "P518"
+    ],
+    [
+        "is designed by",
+        "no-wikiID"
+    ],
+    [
+        "organizations",
+        "no-wikiID"
+    ],
+    [
+        "belonged",
+        "P127"
+    ],
+    [
+        "dedicated_to",
+        "P825"
+    ],
+    [
+        "Mars, Incorporated",
+        "no-wikiID"
+    ],
+    [
+        "featuring",
+        "P1706"
+    ],
+    [
+        "features",
+        "P180"
+    ],
+    [
+        "'1898')",
+        "no-wikiID"
+    ],
+    [
+        "was voted by",
+        "no-wikiID"
+    ],
+    [
+        "played for",
+        "P54"
+    ],
+    [
+        "prohibited",
+        "no-wikiID"
+    ],
+    [
+        "was a member of",
+        "no-wikiID"
+    ],
+    [
+        "wrote",
+        "P800"
+    ],
+    [
+        "located",
+        "P276"
+    ],
+    [
+        "is a midfielder",
+        "no-wikiID"
+    ],
+    [
+        "follows",
+        "P155"
+    ],
+    [
+        "was the team that compiled",
+        "no-wikiID"
+    ],
+    [
+        "is released in",
+        "no-wikiID"
+    ],
+    [
+        "created",
+        "P571"
+    ],
+    [
+        "\"predicate\": \"is also known as\"",
+        "no-wikiID"
+    ],
+    [
+        "were built",
+        "no-wikiID"
+    ],
+    [
+        "including for the television films \"Broadway Bound\" (1992)",
+        "no-wikiID"
+    ],
+    [
+        "ran on",
+        "no-wikiID"
+    ],
+    [
+        "was considered a failure by",
+        "no-wikiID"
+    ],
+    [
+        "\\(\\)\\\"]'",
+        "no-wikiID"
+    ],
+    [
+        "was first announced on",
+        "no-wikiID"
+    ],
+    [
+        "was inherited by",
+        "no-wikiID"
+    ],
+    [
+        "took back control",
+        "no-wikiID"
+    ],
+    [
+        "finds himself",
+        "no-wikiID"
+    ],
+    [
+        "was certified",
+        "no-wikiID"
+    ],
+    [
+        "won the",
+        "no-wikiID"
+    ],
+    [
+        "connects to",
+        "P2789"
+    ],
+    [
+        "has_statistic",
+        "no-wikiID"
+    ],
+    [
+        "Great Royal Wife",
+        "no-wikiID"
+    ],
+    [
+        "made",
+        "P571"
+    ],
+    [
+        "lead vocals",
+        "no-wikiID"
+    ],
+    [
+        "organization",
+        "P108"
+    ],
+    [
+        "governed",
+        "P797"
+    ],
+    [
+        "recognised by",
+        "no-wikiID"
+    ],
+    [
+        "grew in size and importance due to",
+        "no-wikiID"
+    ],
+    [
+        "is a member of",
+        "no-wikiID"
+    ],
+    [
+        "prequel",
+        "P5940"
+    ],
+    [
+        "had a nickname",
+        "no-wikiID"
+    ],
+    [
+        "premiered on",
+        "no-wikiID"
+    ],
+    [
+        "plays as a forward",
+        "no-wikiID"
+    ],
+    [
+        "had been built",
+        "no-wikiID"
+    ],
+    [
+        "intended",
+        "P2360"
+    ],
+    [
+        "has been held",
+        "no-wikiID"
+    ],
+    [
+        "headquartered in",
+        "no-wikiID"
+    ],
+    [
+        "]*\\b'",
+        "no-wikiID"
+    ],
+    [
+        "“originally known as”",
+        "no-wikiID"
+    ],
+    [
+        "was launched as part of",
+        "no-wikiID"
+    ],
+    [
+        "were designed by",
+        "no-wikiID"
+    ],
+    [
+        "progenitor",
+        "P22"
+    ],
+    [
+        "\"are located in\"",
+        "no-wikiID"
+    ],
+    [
+        "published by",
+        "P123"
+    ],
+    [
+        "is used by",
+        "no-wikiID"
+    ],
+    [
+        "released",
+        "P577"
+    ],
+    [
+        "release date",
+        "P577"
+    ],
+    [
+        "has produced",
+        "no-wikiID"
+    ],
+    [
+        "take place",
+        "P837"
+    ],
+    [
+        "hibernation experiment",
+        "no-wikiID"
+    ],
+    [
+        "based on",
+        "P144"
+    ],
+    [
+        "fell",
+        "P2070"
+    ],
+    [
+        "first released",
+        "P577"
+    ],
+    [
+        "also known as",
+        "P2561"
+    ],
+    [
+        "causes",
+        "P1542"
+    ],
+    [
+        "was delivered",
+        "no-wikiID"
+    ],
+    [
+        "is accessed",
+        "no-wikiID"
+    ],
+    [
+        "represents",
+        "P180"
+    ],
+    [
+        "evolved",
+        "P3094"
+    ],
+    [
+        "rebel against",
+        "no-wikiID"
+    ],
+    [
+        "has style",
+        "no-wikiID"
+    ],
+    [
+        "is a regional jet produced by a company",
+        "no-wikiID"
+    ],
+    [
+        "includes",
+        "P527"
+    ],
+    [
+        "result of an agreement with",
+        "no-wikiID"
+    ],
+    [
+        "became the most held Grand Prix",
+        "no-wikiID"
+    ],
+    [
+        "is scheduled to end on",
+        "no-wikiID"
+    ],
+    [
+        "starring roles",
+        "no-wikiID"
+    ],
+    [
+        "is the 58th staging overall",
+        "no-wikiID"
+    ],
+    [
+        "administered",
+        "P126"
+    ],
+    [
+        "designs",
+        "no-wikiID"
+    ],
+    [
+        "played",
+        "P54"
+    ],
+    [
+        "designed",
+        "P287"
+    ],
+    [
+        "was introduced",
+        "no-wikiID"
+    ],
+    [
+        "manufactures Boeing 747",
+        "no-wikiID"
+    ],
+    [
+        "developed and used primarily by",
+        "no-wikiID"
+    ],
+    [
+        "venerated",
+        "no-wikiID"
+    ],
+    [
+        "is made by",
+        "no-wikiID"
+    ],
+    [
+        "part-of",
+        "P361"
+    ],
+    [
+        "“broke up during”",
+        "no-wikiID"
+    ],
+    [
+        "writes",
+        "P1412"
+    ],
+    [
+        "casts",
+        "no-wikiID"
+    ],
+    [
+        "debuted",
+        "no-wikiID"
+    ],
+    [
+        "was conquered by",
+        "no-wikiID"
+    ],
+    [
+        "remained in",
+        "no-wikiID"
+    ],
+    [
+        "was reelected in",
+        "no-wikiID"
+    ],
+    [
+        "available for",
+        "no-wikiID"
+    ],
+    [
+        "“is the author of”",
+        "no-wikiID"
+    ],
+    [
+        "appeared",
+        "P1441"
+    ],
+    [
+        "fighters",
+        "no-wikiID"
+    ],
+    [
+        "is manufactured by Boeing Commercial Airplanes",
+        "no-wikiID"
+    ],
+    [
+        "commonly known as Atlético Mineiro or Atlético",
+        "no-wikiID"
+    ],
+    [
+        "has a friend",
+        "no-wikiID"
+    ],
+    [
+        "incorporated",
+        "P10786"
+    ],
+    [
+        "was carved out of",
+        "no-wikiID"
+    ],
+    [
+        "remained",
+        "no-wikiID"
+    ],
+    [
+        "is a regional jet produced by a Dutch company",
+        "no-wikiID"
+    ],
+    [
+        "is bounded by",
+        "no-wikiID"
+    ],
+    [
+        "object) and the relations (predicate) between them. 2. Identify the entities by looking for proper nouns",
+        "no-wikiID"
+    ],
+    [
+        "covers",
+        "no-wikiID"
+    ],
+    [
+        "a predicate (relationship)",
+        "no-wikiID"
+    ],
+    [
+        "is planned to release on",
+        "no-wikiID"
+    ],
+    [
+        "fears",
+        "no-wikiID"
+    ],
+    [
+        "is a group of",
+        "no-wikiID"
+    ],
+    [
+        "lasted",
+        "no-wikiID"
+    ],
+    [
+        "have television broadcasting rights held by",
+        "no-wikiID"
+    ],
+    [
+        "fell in the Battle of",
+        "no-wikiID"
+    ],
+    [
+        "instructed to migrate",
+        "no-wikiID"
+    ],
+    [
+        "passed_to",
+        "no-wikiID"
+    ],
+    [
+        "have radio broadcasting rights held by",
+        "no-wikiID"
+    ],
+    [
+        "is different from",
+        "P1889"
+    ],
+    [
+        "“is a short story by”",
+        "no-wikiID"
+    ],
+    [
+        "is a regional jet",
+        "no-wikiID"
+    ],
+    [
+        "officially released",
+        "no-wikiID"
+    ],
+    [
+        "is an astronomical observatory",
+        "no-wikiID"
+    ],
+    [
+        "VBD",
+        "no-wikiID"
+    ],
+    [
+        "taken over",
+        "no-wikiID"
+    ],
+    [
+        "backed by",
+        "no-wikiID"
+    ],
+    [
+        "manufacture",
+        "P186"
+    ],
+    [
+        "took place",
+        "P837"
+    ],
+    [
+        "earned",
+        "P9548"
+    ],
+    [
+        "draws inspiration from",
+        "no-wikiID"
+    ],
+    [
+        "implemented",
+        "P3095"
+    ],
+    [
+        "daughter",
+        "P40"
+    ],
+    [
+        "'has'",
+        "no-wikiID"
+    ],
+    [
+        "is home to",
+        "no-wikiID"
+    ],
+    [
+        "cooperate with",
+        "no-wikiID"
+    ],
+    [
+        "in the",
+        "P131"
+    ],
+    [
+        "marketed",
+        "no-wikiID"
+    ],
+    [
+        "ported",
+        "no-wikiID"
+    ],
+    [
+        "made inroads",
+        "no-wikiID"
+    ],
+    [
+        "has",
+        "P31"
+    ],
+    [
+        "is a Chinese footballer",
+        "no-wikiID"
+    ],
+    [
+        "opens",
+        "P402"
+    ],
+    [
+        "is located in the United States",
+        "no-wikiID"
+    ],
+    [
+        "lines out as",
+        "no-wikiID"
+    ],
+    [
+        "as",
+        "P1932"
+    ],
+    [
+        "was followed by",
+        "no-wikiID"
+    ],
+    [
+        "went_on_hiatus",
+        "no-wikiID"
+    ],
+    [
+        "was the first NFL franchise with",
+        "no-wikiID"
+    ],
+    [
+        "season",
+        "P4908"
+    ],
+    [
+        "tempted to join",
+        "no-wikiID"
+    ],
+    [
+        "consisted",
+        "no-wikiID"
+    ],
+    [
+        "is developed and manufactured by",
+        "no-wikiID"
+    ],
+    [
+        "based_on",
+        "P144"
+    ],
+    [
+        "exploited",
+        "no-wikiID"
+    ],
+    [
+        "has been expanded",
+        "no-wikiID"
+    ],
+    [
+        "acquire",
+        "P7888"
+    ],
+    [
+        "joint venture",
+        "no-wikiID"
+    ],
+    [
+        "\"is\"",
+        "no-wikiID"
+    ],
+    [
+        "implemented_as",
+        "no-wikiID"
+    ],
+    [
+        "from",
+        "P580"
+    ],
+    [
+        "\"are a\"",
+        "no-wikiID"
+    ],
+    [
+        "was head coach of",
+        "no-wikiID"
+    ],
+    [
+        "releasing",
+        "no-wikiID"
+    ],
+    [
+        "are also held",
+        "no-wikiID"
+    ],
+    [
+        "was occupied by",
+        "no-wikiID"
+    ],
+    [
+        "“hears a thumping sound”",
+        "no-wikiID"
+    ],
+    [
+        "playing",
+        "P840"
+    ],
+    [
+        "at an FA Cup sixth round match between",
+        "no-wikiID"
+    ],
+    [
+        "went",
+        "P69"
+    ],
+    [
+        "is the head coach",
+        "no-wikiID"
+    ],
+    [
+        "gameplay focuses on",
+        "no-wikiID"
+    ],
+    [
+        "was based in",
+        "no-wikiID"
+    ],
+    [
+        "part of",
+        "P361"
+    ],
+    [
+        "is part of",
+        "P361"
+    ],
+    [
+        "qualified",
+        "P2319"
+    ],
+    [
+        "employs",
+        "no-wikiID"
+    ],
+    [
+        "bordered on",
+        "no-wikiID"
+    ],
+    [
+        "initiated",
+        "P571"
+    ],
+    [
+        "operates",
+        "P121"
+    ],
+    [
+        "is the purported author of",
+        "no-wikiID"
+    ],
+    [
+        "rose to",
+        "no-wikiID"
+    ],
+    [
+        "is betrayed",
+        "no-wikiID"
+    ],
+    [
+        "author",
+        "P50"
+    ],
+    [
+        "is a tributary of",
+        "no-wikiID"
+    ],
+    [
+        "was introduced at",
+        "no-wikiID"
+    ],
+    [
+        "known as",
+        "P1476"
+    ],
+    [
+        "\"predicate\": \"is used for\"",
+        "no-wikiID"
+    ],
+    [
+        "is under the dictatorship of",
+        "no-wikiID"
+    ],
+    [
+        "object) and the relations (predicate) in the text. 2. Determine the types of entities (e.g.",
+        "no-wikiID"
+    ],
+    [
+        "was State Minister for",
+        "no-wikiID"
+    ],
+    [
+        "served as",
+        "no-wikiID"
+    ],
+    [
+        "beat",
+        "P1725"
+    ],
+    [
+        "did not",
+        "no-wikiID"
+    ],
+    [
+        "member",
+        "P54"
+    ],
+    [
+        "founded",
+        "P571"
+    ],
+    [
+        "“called the old man's eye”",
+        "no-wikiID"
+    ],
+    [
+        "is owned by",
+        "P127"
+    ],
+    [
+        "began_campaign_with",
+        "no-wikiID"
+    ],
+    [
+        "is less than one mile south of",
+        "no-wikiID"
+    ],
+    [
+        "first published",
+        "P577"
+    ],
+    [
+        "drains into",
+        "no-wikiID"
+    ],
+    [
+        "for use with",
+        "no-wikiID"
+    ],
+    [
+        "was renamed",
+        "no-wikiID"
+    ],
+    [
+        "“are usually”",
+        "no-wikiID"
+    ],
+    [
+        "was published between",
+        "no-wikiID"
+    ],
+    [
+        "had an official soundtrack album released on",
+        "no-wikiID"
+    ],
+    [
+        "is compatible with",
+        "no-wikiID"
+    ],
+    [
+        "has created",
+        "no-wikiID"
+    ],
+    [
+        "siring",
+        "no-wikiID"
+    ],
+    [
+        "be",
+        "P577"
+    ],
+    [
+        "places",
+        "P7659"
+    ],
+    [
+        "is best known for",
+        "no-wikiID"
+    ],
+    [
+        "shrunk",
+        "no-wikiID"
+    ],
+    [
+        "priced",
+        "no-wikiID"
+    ],
+    [
+        "includes an infrared hybrid autofocus system",
+        "no-wikiID"
+    ],
+    [
+        "is the first EP of",
+        "no-wikiID"
+    ],
+    [
+        "be inherited by",
+        "no-wikiID"
+    ],
+    [
+        "Gene Prater",
+        "no-wikiID"
+    ],
+    [
+        "The Angel's Game",
+        "no-wikiID"
+    ],
+    [
+        "play",
+        "P641"
+    ],
+    [
+        "founded in",
+        "P571"
+    ],
+    [
+        "forced_to_bring_order_to",
+        "no-wikiID"
+    ],
+    [
+        "serves as the home",
+        "no-wikiID"
+    ],
+    [
+        "was awarded",
+        "no-wikiID"
+    ],
+    [
+        "was written",
+        "no-wikiID"
+    ],
+    [
+        "Analyze the sentence structure using dependency parsing",
+        "no-wikiID"
+    ],
+    [
+        "moved",
+        "P6939"
+    ],
+    [
+        "surpassed",
+        "no-wikiID"
+    ],
+    [
+        "play home games at",
+        "no-wikiID"
+    ],
+    [
+        "is the father of",
+        "no-wikiID"
+    ],
+    [
+        "sleep with",
+        "no-wikiID"
+    ],
+    [
+        "played their home games at",
+        "no-wikiID"
+    ],
+    [
+        "published in",
+        "P1433"
+    ],
+    [
+        "achieved",
+        "no-wikiID"
+    ],
+    [
+        "was at war with",
+        "no-wikiID"
+    ],
+    [
+        "ARM architecture",
+        "no-wikiID"
+    ],
+    [
+        "under development",
+        "no-wikiID"
+    ],
+    [
+        "initiated for the burial of",
+        "no-wikiID"
+    ],
+    [
+        "worshipped",
+        "P1049"
+    ],
+    [
+        "belongs to the",
+        "no-wikiID"
+    ],
+    [
+        "has been open to",
+        "no-wikiID"
+    ],
+    [
+        "was originally established by",
+        "no-wikiID"
+    ],
+    [
+        "is first published in",
+        "no-wikiID"
+    ],
+    [
+        "operated under",
+        "no-wikiID"
+    ],
+    [
+        "stars_as",
+        "no-wikiID"
+    ],
+    [
+        "Creative",
+        "P7937"
+    ],
+    [
+        "is derived from",
+        "no-wikiID"
+    ],
+    [
+        "plays_in",
+        "P1303"
+    ],
+    [
+        "was the head coach of",
+        "no-wikiID"
+    ],
+    [
+        "have been referred to as",
+        "no-wikiID"
+    ],
+    [
+        "is designed to carry",
+        "no-wikiID"
+    ],
+    [
+        "has-a",
+        "P921"
+    ],
+    [
+        "encompassed",
+        "no-wikiID"
+    ],
+    [
+        "object) and the relations (predicate) in the text: I will identify the entities (Microsoft Security Essentials",
+        "no-wikiID"
+    ],
+    [
+        "nmod",
+        "no-wikiID"
+    ],
+    [
+        "album",
+        "P1433"
+    ],
+    [
+        "profession",
+        "P106"
+    ],
+    [
+        "set in",
+        "P840"
+    ],
+    [
+        "were",
+        "P4159"
+    ],
+    [
+        "is published by",
+        "no-wikiID"
+    ],
+    [
+        "is_superseded_by",
+        "no-wikiID"
+    ],
+    [
+        "reached the",
+        "no-wikiID"
+    ],
+    [
+        "derived",
+        "P9072"
+    ],
+    [
+        "was also known as",
+        "no-wikiID"
+    ],
+    [
+        "“occurred around”",
+        "no-wikiID"
+    ],
+    [
+        "Rose Maxson",
+        "no-wikiID"
+    ],
+    [
+        "confronts",
+        "no-wikiID"
+    ],
+    [
+        "fully merged into",
+        "no-wikiID"
+    ],
+    [
+        "“have”",
+        "no-wikiID"
+    ],
+    [
+        "produced or distributed",
+        "no-wikiID"
+    ],
+    [
+        "awakes",
+        "no-wikiID"
+    ],
+    [
+        "determine",
+        "P459"
+    ],
+    [
+        "for the first time in",
+        "no-wikiID"
+    ],
+    [
+        "join",
+        "P580"
+    ],
+    [
+        "made headlines",
+        "no-wikiID"
+    ],
+    [
+        "conducts scientific research on behalf of",
+        "no-wikiID"
+    ],
+    [
+        "produced by",
+        "P162"
+    ],
+    [
+        "became",
+        "no-wikiID"
+    ],
+    [
+        "expected to take place on",
+        "no-wikiID"
+    ],
+    [
+        "was born on",
+        "no-wikiID"
+    ],
+    [
+        "is registered",
+        "no-wikiID"
+    ],
+    [
+        "comprised",
+        "P527"
+    ],
+    [
+        "fought for",
+        "no-wikiID"
+    ],
+    [
+        "Thetis",
+        "no-wikiID"
+    ],
+    [
+        "inherits design elements from",
+        "no-wikiID"
+    ],
+    [
+        "introduced",
+        "P580"
+    ],
+    [
+        "“is also known as”",
+        "no-wikiID"
+    ],
+    [
+        "directed by",
+        "P57"
+    ],
+    [
+        "similar character",
+        "no-wikiID"
+    ],
+    [
+        "named after",
+        "P138"
+    ],
+    [
+        "redefined",
+        "no-wikiID"
+    ],
+    [
+        "was','released",
+        "no-wikiID"
+    ],
+    [
+        "was a region",
+        "no-wikiID"
+    ],
+    [
+        "to",
+        "P582"
+    ],
+    [
+        "“made and distributed by”",
+        "no-wikiID"
+    ],
+    [
+        "brother",
+        "P3373"
+    ],
+    [
+        "achieved independence from",
+        "no-wikiID"
+    ],
+    [
+        "\"play their home games at\"",
+        "no-wikiID"
+    ],
+    [
+        "operates and manages",
+        "no-wikiID"
+    ],
+    [
+        "was released",
+        "no-wikiID"
+    ],
+    [
+        "has_ancestral_home",
+        "no-wikiID"
+    ],
+    [
+        "fields_ground_ball",
+        "no-wikiID"
+    ],
+    [
+        "founded by",
+        "P112"
+    ],
+    [
+        "is a division of",
+        "no-wikiID"
+    ],
+    [
+        "witnessed",
+        "no-wikiID"
+    ],
+    [
+        "was ranked by",
+        "no-wikiID"
+    ],
+    [
+        "have",
+        "P527"
+    ],
+    [
+        "\"compete in\"",
+        "no-wikiID"
+    ],
+    [
+        "moved to",
+        "no-wikiID"
+    ],
+    [
+        "son of",
+        "P22"
+    ],
+    [
+        "'2008–2016'",
+        "no-wikiID"
+    ],
+    [
+        "passed through",
+        "no-wikiID"
+    ],
+    [
+        "interacts with",
+        "no-wikiID"
+    ],
+    [
+        "is sometimes called",
+        "no-wikiID"
+    ],
+    [
+        "destroyed",
+        "P3082"
+    ],
+    [
+        "competes in",
+        "P1344"
+    ],
+    [
+        "written_and_produced_by",
+        "no-wikiID"
+    ],
+    [
+        "are",
+        "P518"
+    ],
+    [
+        "has been held at Monza",
+        "no-wikiID"
+    ],
+    [
+        "preoccupied with",
+        "no-wikiID"
+    ],
+    [
+        "forms a large portion of the border between",
+        "no-wikiID"
+    ],
+    [
+        "designed and developed by",
+        "no-wikiID"
+    ],
+    [
+        "was published in",
+        "P577"
+    ],
+    [
+        "play their home games at",
+        "no-wikiID"
+    ],
+    [
+        "was in",
+        "no-wikiID"
+    ],
+    [
+        "praised",
+        "no-wikiID"
+    ],
+    [
+        "restored",
+        "no-wikiID"
+    ],
+    [
+        "was represented by",
+        "no-wikiID"
+    ],
+    [
+        "is a product of",
+        "no-wikiID"
+    ],
+    [
+        "produced",
+        "P162"
+    ],
+    [
+        "JJ",
+        "no-wikiID"
+    ],
+    [
+        "was the team that represented",
+        "no-wikiID"
+    ],
+    [
+        "was appointed by",
+        "no-wikiID"
+    ],
+    [
+        "deals_with",
+        "no-wikiID"
+    ],
+    [
+        "be led by",
+        "no-wikiID"
+    ],
+    [
+        "is named",
+        "no-wikiID"
+    ],
+    [
+        "received critical attention",
+        "no-wikiID"
+    ],
+    [
+        "must save",
+        "no-wikiID"
+    ],
+    [
+        "receives_credit",
+        "no-wikiID"
+    ],
+    [
+        "\"are not the only\"",
+        "no-wikiID"
+    ],
+    [
+        "represent",
+        "P180"
+    ],
+    [
+        "is developed by",
+        "no-wikiID"
+    ],
+    [
+        "was the university that was represented by",
+        "no-wikiID"
+    ],
+    [
+        "edited",
+        "P98"
+    ],
+    [
+        "developed as",
+        "no-wikiID"
+    ],
+    [
+        "\"formed\"",
+        "no-wikiID"
+    ],
+    [
+        "\"died\"",
+        "no-wikiID"
+    ],
+    [
+        "had been held annually since",
+        "no-wikiID"
+    ],
+    [
+        "replaced by",
+        "P1366"
+    ],
+    [
+        "verbs",
+        "no-wikiID"
+    ],
+    [
+        "runs",
+        "P2389"
+    ],
+    [
+        "is",
+        "P31"
+    ],
+    [
+        "occurred",
+        "P585"
+    ],
+    [
+        "stays",
+        "no-wikiID"
+    ],
+    [
+        "was the team that was an",
+        "no-wikiID"
+    ],
+    [
+        "\"predicate\": \"describes\"",
+        "no-wikiID"
+    ],
+    [
+        "replaced_by",
+        "P1366"
+    ],
+    [
+        "located in",
+        "P276"
+    ],
+    [
+        "made up",
+        "P527"
+    ],
+    [
+        "lay the basis of",
+        "no-wikiID"
+    ],
+    [
+        "out of the merger of",
+        "no-wikiID"
+    ],
+    [
+        "\"predicate\": \"is based on\"",
+        "no-wikiID"
+    ],
+    [
+        "made significant advances",
+        "no-wikiID"
+    ],
+    [
+        "headquartered",
+        "no-wikiID"
+    ],
+    [
+        "is manufactured in the United States",
+        "no-wikiID"
+    ],
+    [
+        "succeeded by",
+        "P156"
+    ],
+    [
+        "advanced",
+        "P6826"
+    ],
+    [
+        "depicted as",
+        "no-wikiID"
+    ],
+    [
+        "\"predicate\": \"published in\"",
+        "no-wikiID"
+    ],
+    [
+        "are a member of",
+        "no-wikiID"
+    ],
+    [
+        "directed",
+        "P57"
+    ],
+    [
+        "member of",
+        "P102"
+    ],
+    [
+        "hosted",
+        "P371"
+    ],
+    [
+        "made successful treaties with",
+        "no-wikiID"
+    ],
+    [
+        "turned into",
+        "no-wikiID"
+    ],
+    [
+        "object) and the relations between them. 2. Determine the types of entities (e.g.",
+        "no-wikiID"
+    ],
+    [
+        "'announced'",
+        "no-wikiID"
+    ],
+    [
+        "''",
+        "P69"
+    ],
+    [
+        "spawned",
+        "no-wikiID"
+    ],
+    [
+        "was co-developed by",
+        "no-wikiID"
+    ],
+    [
+        "“belong to”",
+        "no-wikiID"
+    ],
+    [
+        "fall of",
+        "no-wikiID"
+    ],
+    [
+        "becomes",
+        "no-wikiID"
+    ],
+    [
+        "was under",
+        "no-wikiID"
+    ],
+    [
+        "was established",
+        "no-wikiID"
+    ],
+    [
+        "discusses",
+        "P3176"
+    ],
+    [
+        "began operations",
+        "no-wikiID"
+    ],
+    [
+        "paid",
+        "no-wikiID"
+    ],
+    [
+        "holding company of",
+        "no-wikiID"
+    ],
+    [
+        "constituted",
+        "no-wikiID"
+    ],
+    [
+        "propose",
+        "P8403"
+    ],
+    [
+        "mascots",
+        "no-wikiID"
+    ],
+    [
+        "won a World Series championship",
+        "no-wikiID"
+    ],
+    [
+        "is estimated",
+        "no-wikiID"
+    ],
+    [
+        "is located in",
+        "P131"
+    ],
+    [
+        "plays as a winger for",
+        "no-wikiID"
+    ],
+    [
+        "take",
+        "P1344"
+    ],
+    [
+        "as State Minister of",
+        "no-wikiID"
+    ],
+    [
+        "set up",
+        "no-wikiID"
+    ],
+    [
+        "is a component of",
+        "no-wikiID"
+    ],
+    [
+        "is written by",
+        "no-wikiID"
+    ],
+    [
+        "began",
+        "P580"
+    ],
+    [
+        "was ruled by",
+        "no-wikiID"
+    ],
+    [
+        "was published in issues",
+        "no-wikiID"
+    ],
+    [
+        "associated",
+        "P1416"
+    ],
+    [
+        "was expected to impact",
+        "no-wikiID"
+    ],
+    [
+        "adjectives",
+        "no-wikiID"
+    ],
+    [
+        "“operated as”",
+        "no-wikiID"
+    ],
+    [
+        "promoted",
+        "P2881"
+    ],
+    [
+        "son",
+        "P40"
+    ],
+    [
+        "named",
+        "P407"
+    ],
+    [
+        "ceased",
+        "P576"
+    ],
+    [
+        "came",
+        "P18"
+    ],
+    [
+        "has streets",
+        "no-wikiID"
+    ],
+    [
+        "relocation of",
+        "no-wikiID"
+    ],
+    [
+        "offered services to",
+        "no-wikiID"
+    ],
+    [
+        "“has”",
+        "no-wikiID"
+    ],
+    [
+        "can_be_converted_to",
+        "no-wikiID"
+    ],
+    [
+        "explores",
+        "no-wikiID"
+    ],
+    [
+        "is the twenty-first novel in",
+        "no-wikiID"
+    ],
+    [
+        "'')",
+        "no-wikiID"
+    ],
+    [
+        "set",
+        "P527"
+    ],
+    [
+        "owned by",
+        "P127"
+    ],
+    [
+        "production end",
+        "no-wikiID"
+    ],
+    [
+        "is an",
+        "P31"
+    ],
+    [
+        "manufactures",
+        "P1056"
+    ],
+    [
+        "has root office at",
+        "no-wikiID"
+    ],
+    [
+        "release",
+        "P577"
+    ],
+    [
+        "succeeded",
+        "P156"
+    ],
+    [
+        "nears",
+        "no-wikiID"
+    ],
+    [
+        "gaining promotion to",
+        "no-wikiID"
+    ],
+    [
+        "considered",
+        "no-wikiID"
+    ],
+    [
+        "replace",
+        "P1366"
+    ],
+    [
+        "person",
+        "P735"
+    ],
+    [
+        "'is'",
+        "no-wikiID"
+    ],
+    [
+        "magically disguises",
+        "no-wikiID"
+    ],
+    [
+        "formerly known as",
+        "no-wikiID"
+    ],
+    [
+        "drafted",
+        "P647"
+    ],
+    [
+        "issued",
+        "P577"
+    ],
+    [
+        "be under",
+        "no-wikiID"
+    ],
+    [
+        "was the centre of",
+        "no-wikiID"
+    ],
+    [
+        "inspired",
+        "P144"
+    ],
+    [
+        "has played more than",
+        "no-wikiID"
+    ],
+    [
+        "\"The Elephant Man\" (1980)",
+        "no-wikiID"
+    ],
+    [
+        "“perform”",
+        "no-wikiID"
+    ],
+    [
+        "is easy to navigate",
+        "no-wikiID"
+    ],
+    [
+        "was designed to replace",
+        "no-wikiID"
+    ],
+    [
+        "concentrated",
+        "no-wikiID"
+    ],
+    [
+        "merged with",
+        "P7888"
+    ],
+    [
+        "was an",
+        "no-wikiID"
+    ],
+    [
+        "serving from",
+        "no-wikiID"
+    ],
+    [
+        "released for",
+        "no-wikiID"
+    ],
+    [
+        "was in alliance with",
+        "no-wikiID"
+    ],
+    [
+        "powered_by",
+        "P408"
+    ],
+    [
+        "specified in",
+        "P5009"
+    ],
+    [
+        "manufactured and marketed by",
+        "no-wikiID"
+    ],
+    [
+        "is a large, long-range wide-body airliner and cargo aircraft",
+        "no-wikiID"
+    ],
+    [
+        "collaborate",
+        "P2652"
+    ],
+    [
+        "play a significant role in",
+        "no-wikiID"
+    ],
+    [
+        "is an American trailerable sailboat",
+        "no-wikiID"
+    ],
+    [
+        "released on",
+        "no-wikiID"
+    ],
+    [
+        "“was collected by”",
+        "no-wikiID"
+    ],
+    [
+        "produced cars of",
+        "no-wikiID"
+    ],
+    [
+        "annexed",
+        "P7888"
+    ],
+    [
+        "are held",
+        "no-wikiID"
+    ],
+    [
+        "finished with",
+        "no-wikiID"
+    ],
+    [
+        "was founded by",
+        "no-wikiID"
+    ],
+    [
+        "rejoined",
+        "no-wikiID"
+    ],
+    [
+        "is located",
+        "P131"
+    ],
+    [
+        "developed by",
+        "P61"
+    ],
+    [
+        "Our Lady Peace",
+        "no-wikiID"
+    ],
+    [
+        "is considered",
+        "no-wikiID"
+    ],
+    [
+        "one of",
+        "P11260"
+    ],
+    [
+        "actions",
+        "no-wikiID"
+    ],
+    [
+        "is the longest tributary of",
+        "no-wikiID"
+    ],
+    [
+        "“was first published in”",
+        "no-wikiID"
+    ],
+    [
+        "co-written",
+        "no-wikiID"
+    ],
+    [
+        "ends up in a state",
+        "no-wikiID"
+    ],
+    [
+        "home",
+        "P263"
+    ],
+    [
+        "I will identify the entities (people",
+        "no-wikiID"
+    ],
+    [
+        "relation",
+        "P1038"
+    ],
+    [
+        "cruises at",
+        "no-wikiID"
+    ],
+    [
+        "wrote down",
+        "no-wikiID"
+    ],
+    [
+        "goes",
+        "no-wikiID"
+    ],
+    [
+        "fields_or_touches_ball",
+        "no-wikiID"
+    ],
+    [
+        "Filter out triples that are not relevant or accurate",
+        "no-wikiID"
+    ],
+    [
+        "are based upon",
+        "no-wikiID"
+    ],
+    [
+        "is a greatest hits compilation album",
+        "no-wikiID"
+    ],
+    [
+        "corresponds to",
+        "no-wikiID"
+    ],
+    [
+        "\"predicate\": relation[\"predicate\"]",
+        "no-wikiID"
+    ],
+    [
+        "created by",
+        "P170"
+    ],
+    [
+        "plays in",
+        "P1303"
+    ],
+    [
+        "granted naming rights",
+        "no-wikiID"
+    ],
+    [
+        "had head coach",
+        "no-wikiID"
+    ],
+    [
+        "has run as an event of the Formula One World Championship Grands Prix",
+        "no-wikiID"
+    ],
+    [
+        "'overseen'",
+        "no-wikiID"
+    ],
+    [
+        "had sold",
+        "no-wikiID"
+    ],
+    [
+        "features the voices of",
+        "no-wikiID"
+    ],
+    [
+        "is the author of",
+        "no-wikiID"
+    ],
+    [
+        "held",
+        "P276"
+    ],
+    [
+        "disappeared",
+        "P746"
+    ],
+    [
+        "quit",
+        "no-wikiID"
+    ],
+    [
+        "provided",
+        "P137"
+    ],
+    [
+        "commonly known as",
+        "no-wikiID"
+    ],
+    [
+        "develops into",
+        "no-wikiID"
+    ],
+    [
+        "has title",
+        "no-wikiID"
+    ],
+    [
+        "returned",
+        "no-wikiID"
+    ],
+    [
+        "originated",
+        "P9072"
+    ],
+    [
+        "is flavoured with",
+        "no-wikiID"
+    ],
+    [
+        "'part'",
+        "no-wikiID"
+    ],
+    [
+        "sold",
+        "P7163"
+    ],
+    [
+        "was bought by",
+        "no-wikiID"
+    ],
+    [
+        "dates to",
+        "no-wikiID"
+    ],
+    [
+        "established','manufacture",
+        "no-wikiID"
+    ],
+    [
+        "specializes in",
+        "no-wikiID"
+    ],
+    [
+        "invested in",
+        "no-wikiID"
+    ],
+    [
+        "plays their home games at",
+        "no-wikiID"
+    ],
+    [
+        "fought",
+        "no-wikiID"
+    ],
+    [
+        "was later published as",
+        "no-wikiID"
+    ],
+    [
+        "compete in",
+        "no-wikiID"
+    ],
+    [
+        "is produced by",
+        "no-wikiID"
+    ],
+    [
+        "credited with",
+        "no-wikiID"
+    ],
+    [
+        "falls asleep",
+        "no-wikiID"
+    ],
+    [
+        "was first built in",
+        "no-wikiID"
+    ],
+    [
+        "object) and the relations (predicate) between them. 2. Identify the types of entities (e.g.",
+        "no-wikiID"
+    ],
+    [
+        "and",
+        "P3418"
+    ],
+    [
+        "'predicate': triple[1]",
+        "no-wikiID"
+    ],
+    [
+        "occupation",
+        "P106"
+    ],
+    [
+        "to be offered as a bride to",
+        "no-wikiID"
+    ],
+    [
+        "is set at the latitude of",
+        "no-wikiID"
+    ],
+    [
+        "is situated north of",
+        "no-wikiID"
+    ],
+    [
+        "longlisted for",
+        "no-wikiID"
+    ],
+    [
+        "is dominated by",
+        "no-wikiID"
+    ],
+    [
+        "is a research facility at",
+        "no-wikiID"
+    ],
+    [
+        "remained possible to connect",
+        "no-wikiID"
+    ],
+    [
+        "contains",
+        "P527"
+    ],
+    [
+        "was produced by",
+        "no-wikiID"
+    ],
+    [
+        "compiled",
+        "P98"
+    ],
+    [
+        "is_charged_error",
+        "no-wikiID"
+    ],
+    [
+        "is a leading financial hub",
+        "no-wikiID"
+    ],
+    [
+        "was developed",
+        "no-wikiID"
+    ],
+    [
+        "became part of",
+        "no-wikiID"
+    ],
+    [
+        "hit",
+        "P6918"
+    ],
+    [
+        "was also the name of",
+        "no-wikiID"
+    ],
+    [
+        "object",
+        "P1932"
+    ],
+    [
+        "appeared in",
+        "P1441"
+    ],
+    [
+        "is a conversation about",
+        "no-wikiID"
+    ],
+    [
+        "membership",
+        "P463"
+    ],
+    [
+        "was a major American company",
+        "no-wikiID"
+    ],
+    [
+        "unveiled",
+        "P1656"
+    ],
+    [
+        "took",
+        "P1344"
+    ],
+    [
+        "promote",
+        "P664"
+    ],
+    [
+        "fell under",
+        "no-wikiID"
+    ],
+    [
+        "often feature prominently as winners of",
+        "no-wikiID"
+    ],
+    [
+        "was engineered by",
+        "no-wikiID"
+    ],
+    [
+        "a",
+        "P813"
+    ],
+    [
+        "is controlled by",
+        "no-wikiID"
+    ],
+    [
+        "was designed",
+        "no-wikiID"
+    ],
+    [
+        "invoked",
+        "no-wikiID"
+    ],
+    [
+        "be situated",
+        "no-wikiID"
+    ],
+    [
+        "became commercially successful",
+        "no-wikiID"
+    ],
+    [
+        "“charged with”",
+        "no-wikiID"
+    ],
+    [
+        "has a 1440p display",
+        "no-wikiID"
+    ],
+    [
+        "'r') as file:     text = file.read()     for sentence in text.split('.'):         for word in sentence.split():             if word.isalpha():                 entities.add(word)             if word.startswith('-'):                 relationships.add(word)     for entity in entities:         for relationship in relationships:             for sentence in text.split('.'):                 if entity in sentence and relationship in sentence:                     subject = entity                     predicate = relationship                     object = None                     for word in sentence.split():                         if word not in [subject",
+        "no-wikiID"
+    ],
+    [
+        "debuted on",
+        "no-wikiID"
+    ],
+    [
+        "AC-130",
+        "no-wikiID"
+    ],
+    [
+        "speak Greek",
+        "no-wikiID"
+    ],
+    [
+        "\"share with\"",
+        "no-wikiID"
+    ],
+    [
+        "split",
+        "P155"
+    ],
+    [
+        "music by",
+        "P86"
+    ],
+    [
+        "was produced",
+        "no-wikiID"
+    ],
+    [
+        "played during",
+        "no-wikiID"
+    ],
+    [
+        "is the second smallest by area",
+        "no-wikiID"
+    ],
+    [
+        "fell_into",
+        "no-wikiID"
+    ],
+    [
+        "town_in",
+        "no-wikiID"
+    ],
+    [
+        "home to",
+        "P551"
+    ],
+    [
+        "drops_throw",
+        "no-wikiID"
+    ],
+    [
+        "\"left\"",
+        "no-wikiID"
+    ],
+    [
+        "opened",
+        "P1619"
+    ]
+]

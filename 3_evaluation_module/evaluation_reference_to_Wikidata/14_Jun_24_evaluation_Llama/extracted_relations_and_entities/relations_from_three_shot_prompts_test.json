@@ -1,0 +1,6914 @@
+[
+    [
+        "Mickey Mouse'], ['Daffy Dumas Horacio Tiberius Armando Sheldon Duck','replace",
+        "no-wikiID"
+    ],
+    [
+        "November 2020'], ['Warframe",
+        "no-wikiID"
+    ],
+    [
+        "year built",
+        "no-wikiID"
+    ],
+    [
+        "opening date",
+        "P1619"
+    ],
+    [
+        "Time Warner'], ['AOL",
+        "no-wikiID"
+    ],
+    [
+        "product','smartphones'], ['Lenovo Group Limited",
+        "no-wikiID"
+    ],
+    [
+        "characterized by",
+        "P1552"
+    ],
+    [
+        "nnp",
+        "no-wikiID"
+    ],
+    [
+        "determined by','single-elimination tournament']]  Text: The United States is a federal republic with a presidential system. The president is the head of state and government, and is elected by the people through the Electoral College. The president serves a four-year term, and is limited to two terms. Triples: [['United States','system",
+        "no-wikiID"
+    ],
+    [
+        "operator",
+        "P137"
+    ],
+    [
+        "held every",
+        "no-wikiID"
+    ],
+    [
+        "home to','many species of plants'], ['Amazon rainforest",
+        "no-wikiID"
+    ],
+    [
+        "economy','scientific research'], ['Brookhaven National Laboratory",
+        "no-wikiID"
+    ],
+    [
+        "programming language",
+        "P277"
+    ],
+    [
+        "2021-22'], ['Super 6",
+        "no-wikiID"
+    ],
+    [
+        "album without Halliwell sales",
+        "no-wikiID"
+    ],
+    [
+        "common name','singing mice'], ['Scotinomys",
+        "no-wikiID"
+    ],
+    [
+        "ousted by','military Armed Forces Revolutionary Council'], ['Kabbah','returned to power by','military intervention by the Economic Community of West African States'], ['Kabbah",
+        "no-wikiID"
+    ],
+    [
+        "planetary type",
+        "no-wikiID"
+    ],
+    [
+        "vocal and songwriting contributions','shared equally by the five members'], ['Spice Girls','member departure",
+        "no-wikiID"
+    ],
+    [
+        "Jack White'],  ['The White Stripes','members",
+        "no-wikiID"
+    ],
+    [
+        "event','siege of Jerusalem by Sennacherib'], ['Hezekiah",
+        "no-wikiID"
+    ],
+    [
+        "home ground",
+        "P115"
+    ],
+    [
+        "passenger capacity",
+        "no-wikiID"
+    ],
+    [
+        "Hillel Slovak'], ['Red Hot Chili Peppers','member",
+        "no-wikiID"
+    ],
+    [
+        "expansion",
+        "P144"
+    ],
+    [
+        "Cold War",
+        "no-wikiID"
+    ],
+    [
+        "creators",
+        "no-wikiID"
+    ],
+    [
+        "first season episodes",
+        "no-wikiID"
+    ],
+    [
+        "2022 high school recruiting class'], ['Quinn Ewers",
+        "no-wikiID"
+    ],
+    [
+        "largest']]  Text: The world's largest waterfall, by height, is Angel Falls. Triples: [['Angel Falls",
+        "no-wikiID"
+    ],
+    [
+        "new landing date",
+        "no-wikiID"
+    ],
+    [
+        "office','mayor'], ['mayor",
+        "no-wikiID"
+    ],
+    [
+        "love affair'], ['Mughal-e-Azam','subject",
+        "no-wikiID"
+    ],
+    [
+        "December 2019'], ['COVID-19 pandemic",
+        "no-wikiID"
+    ],
+    [
+        "constituted','southern part of the Kingdom of Israel'], ['Samaria",
+        "no-wikiID"
+    ],
+    [
+        "globally']]  Text: The chemical symbol for gold is Au. Triples: [['gold','symbol",
+        "no-wikiID"
+    ],
+    [
+        "battery type",
+        "P618"
+    ],
+    [
+        "WNBA Finals",
+        "no-wikiID"
+    ],
+    [
+        "growth factor",
+        "no-wikiID"
+    ],
+    [
+        "caused",
+        "P1542"
+    ],
+    [
+        "US singles",
+        "no-wikiID"
+    ],
+    [
+        "written constitution','mainly driven by internal political factors'], ['Batavian Republic",
+        "no-wikiID"
+    ],
+    [
+        "number built",
+        "P1092"
+    ],
+    [
+        "name derived",
+        "no-wikiID"
+    ],
+    [
+        "Armia Ludowa'],  ['Władysław Gomułka','secretary",
+        "no-wikiID"
+    ],
+    [
+        "2000'], ['Titan A.E.",
+        "no-wikiID"
+    ],
+    [
+        "biopic",
+        "no-wikiID"
+    ],
+    [
+        "producer",
+        "P162"
+    ],
+    [
+        "produces",
+        "P1056"
+    ],
+    [
+        "education",
+        "P69"
+    ],
+    [
+        "location','state of New York']]  Text: The city is located in the state of New York. Triples: [['the city",
+        "no-wikiID"
+    ],
+    [
+        "DT",
+        "P3117"
+    ],
+    [
+        "unveiled date",
+        "no-wikiID"
+    ],
+    [
+        "head office",
+        "P159"
+    ],
+    [
+        "available in','many countries']]  Text: The COVID-19 vaccine is available in many countries and is administered by healthcare professionals. Triples: [['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "critic opinion','satire of typical sea tales']]  Note: The text may contain multiple sentences, but we are only interested in extracting knowledge triples from the text.  Also, the text may contain non-essential phrases, such as \"at sea\" or \"or manuscript\", which should be ignored.  The triples are in the format of [subject, predicate, object], where subject is the main entity, predicate is the relationship between the subject and object, and object is the secondary entity.  The triples can have multiple objects for the same subject and predicate.  The triples can also have multiple subjects for the same predicate and object.  The triples can be in any order.  The triples are extracted based on the context of the text, so the triples may not be exhaustive.  The triples may also contain errors, so the triples should be reviewed and corrected manually.  The triples are returned in json format, where each triple is a dictionary with'subject",
+        "no-wikiID"
+    ],
+    [
+        "Lose My Breath'], ['Destiny Fulfilled','spawn",
+        "no-wikiID"
+    ],
+    [
+        "used on",
+        "P10788"
+    ],
+    [
+        "Crossair'], ['Swiss International Air Lines",
+        "no-wikiID"
+    ],
+    [
+        "Al Pacino'], ['Marvin Schwarz",
+        "no-wikiID"
+    ],
+    [
+        "availability','many countries']]  Text: The COVID-19 vaccine is administered by a healthcare professional. Triples: [['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "offense",
+        "no-wikiID"
+    ],
+    [
+        "July 27, 2012'], ['2012 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "all-time passing yards",
+        "no-wikiID"
+    ],
+    [
+        "number of contractors",
+        "no-wikiID"
+    ],
+    [
+        "organisation",
+        "P108"
+    ],
+    [
+        "football team",
+        "no-wikiID"
+    ],
+    [
+        "established around",
+        "no-wikiID"
+    ],
+    [
+        "Eszter Balint'], ['Stranger Than Paradise",
+        "no-wikiID"
+    ],
+    [
+        "Paul Kagame'], ['Paul Kagame",
+        "no-wikiID"
+    ],
+    [
+        "first publication",
+        "P577"
+    ],
+    [
+        "thanks",
+        "P7137"
+    ],
+    [
+        "publish",
+        "P577"
+    ],
+    [
+        "proposer",
+        "no-wikiID"
+    ],
+    [
+        "developed from",
+        "P3094"
+    ],
+    [
+        "used since",
+        "no-wikiID"
+    ],
+    [
+        "Byzantine'], ['Empire of Nicaea",
+        "no-wikiID"
+    ],
+    [
+        "number of stores",
+        "P8368"
+    ],
+    [
+        "FA Cup sixth round match between Manchester City and Stoke City'],  ['Maine Road",
+        "no-wikiID"
+    ],
+    [
+        "type','manuscript'], ['Grundrisse der Kritik der Politischen Ökonomie",
+        "no-wikiID"
+    ],
+    [
+        "operated by",
+        "P137"
+    ],
+    [
+        "largest']]  Text: The world's largest waterfall, by volume of water, is Victoria Falls. Triples: [['Victoria Falls",
+        "no-wikiID"
+    ],
+    [
+        "published",
+        "P577"
+    ],
+    [
+        "owns",
+        "P355"
+    ],
+    [
+        "home arena",
+        "no-wikiID"
+    ],
+    [
+        "December 12, 2006'], ['The Fox and the Hound 2",
+        "no-wikiID"
+    ],
+    [
+        "weight supported by",
+        "no-wikiID"
+    ],
+    [
+        "Borat Sagdiyev'],  ['Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan','subject",
+        "no-wikiID"
+    ],
+    [
+        "name','spelled Black Hawks until 1986, and known colloquially as the Hawks'],  [['The Chicago Blackhawks",
+        "no-wikiID"
+    ],
+    [
+        "earnings",
+        "P2142"
+    ],
+    [
+        "Penelope'], ['Telemachus",
+        "no-wikiID"
+    ],
+    [
+        "book number",
+        "no-wikiID"
+    ],
+    [
+        "estimate",
+        "P2218"
+    ],
+    [
+        "production",
+        "P2079"
+    ],
+    [
+        "died",
+        "P570"
+    ],
+    [
+        "home ground nickname",
+        "no-wikiID"
+    ],
+    [
+        "used in",
+        "P366"
+    ],
+    [
+        "North Africa'], ['Algeria",
+        "no-wikiID"
+    ],
+    [
+        "product','services']]  Text: The company has offices in New York, Los Angeles, and Chicago. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "economy",
+        "P8744"
+    ],
+    [
+        "ended",
+        "P576"
+    ],
+    [
+        "type','regional jet']]  Text: The United States is a country located in North America. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "written for",
+        "P6872"
+    ],
+    [
+        "boundary",
+        "P4777"
+    ],
+    [
+        "location','state of New York']]  Text: The company has offices in New York and California. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "number of employees",
+        "P1128"
+    ],
+    [
+        "competition type",
+        "no-wikiID"
+    ],
+    [
+        "influenza virus",
+        "no-wikiID"
+    ],
+    [
+        "provide high-quality products'], ['company','mission",
+        "no-wikiID"
+    ],
+    [
+        "component",
+        "P361"
+    ],
+    [
+        "champion",
+        "P1346"
+    ],
+    [
+        "title source",
+        "no-wikiID"
+    ],
+    [
+        "act in",
+        "no-wikiID"
+    ],
+    [
+        "acquired by",
+        "P7888"
+    ],
+    [
+        "pop'], ['Green Album",
+        "no-wikiID"
+    ],
+    [
+        "capturer date",
+        "no-wikiID"
+    ],
+    [
+        "widespread illness'], ['COVID-19 pandemic','result",
+        "no-wikiID"
+    ],
+    [
+        "June 11, 2010'], ['2010 FIFA World Cup",
+        "no-wikiID"
+    ],
+    [
+        "Game Boy Pocket'], ['Game Boy','redesigns",
+        "no-wikiID"
+    ],
+    [
+        "location','southern Switzerland'], ['FC Locarno",
+        "no-wikiID"
+    ],
+    [
+        "brick'], ['Great Wall of China','made of",
+        "no-wikiID"
+    ],
+    [
+        "last title",
+        "no-wikiID"
+    ],
+    [
+        "cancelled']]  Text: The first manned mission to Mars was launched in 2020, but it was cancelled, and it was planned to be launched in 2025. Triples: [['first manned mission to Mars",
+        "no-wikiID"
+    ],
+    [
+        "tribe",
+        "P12011"
+    ],
+    [
+        "independence year",
+        "no-wikiID"
+    ],
+    [
+        "Game Boy Advance SP'], ['GBA','model",
+        "no-wikiID"
+    ],
+    [
+        "Young K'], ['Even of Day','member",
+        "no-wikiID"
+    ],
+    [
+        "laptop'], ['The company','main product','smartwatch']]  Text: The company's main product is a smartphone, a tablet, a laptop, and a smartwatch, and a smart speaker. Triples: [['The company','main product','smartphone'], ['The company','main product",
+        "no-wikiID"
+    ],
+    [
+        "third'], ['2021 All-Ireland Under-20 Hurling Championship','staging",
+        "no-wikiID"
+    ],
+    [
+        "cancelled'], ['first manned mission to Mars",
+        "no-wikiID"
+    ],
+    [
+        "22%'], ['Final Cut Pro','market share",
+        "no-wikiID"
+    ],
+    [
+        "genre','magical realist'], ['Midnight's Children",
+        "no-wikiID"
+    ],
+    [
+        "previous year",
+        "no-wikiID"
+    ],
+    [
+        "capturer",
+        "no-wikiID"
+    ],
+    [
+        "language",
+        "P407"
+    ],
+    [
+        "acquired year",
+        "no-wikiID"
+    ],
+    [
+        "CARICOM'], ['Haiti','member",
+        "no-wikiID"
+    ],
+    [
+        "Deidamia'], ['Neoptolemus",
+        "no-wikiID"
+    ],
+    [
+        "client",
+        "P88"
+    ],
+    [
+        "highest-scoring player",
+        "no-wikiID"
+    ],
+    [
+        "vinyl'], ['Hail Satin",
+        "no-wikiID"
+    ],
+    [
+        "ceased operations",
+        "no-wikiID"
+    ],
+    [
+        "December 11, 2020'],  ['Wolfwalkers','release platform",
+        "no-wikiID"
+    ],
+    [
+        "September 1994'], ['first season",
+        "no-wikiID"
+    ],
+    [
+        "acquire','slightly less than a 10% stake in Nvidia'], ['Arm','maintain headquarters",
+        "no-wikiID"
+    ],
+    [
+        "club colours",
+        "no-wikiID"
+    ],
+    [
+        "instant messaging",
+        "no-wikiID"
+    ],
+    [
+        "White Blood Cells'],  ['The White Stripes','successful albums",
+        "no-wikiID"
+    ],
+    [
+        "production year",
+        "no-wikiID"
+    ],
+    [
+        "product','smart televisions'], ['Lenovo Group Limited",
+        "no-wikiID"
+    ],
+    [
+        "John C. Reilly'], ['Never Been Kissed','stars",
+        "no-wikiID"
+    ],
+    [
+        "of",
+        "P642"
+    ],
+    [
+        "alcohol content",
+        "no-wikiID"
+    ],
+    [
+        "divisions",
+        "P199"
+    ],
+    [
+        "compiler",
+        "P98"
+    ],
+    [
+        "Porky's Hare Hunt'], ['Bugs Bunny",
+        "no-wikiID"
+    ],
+    [
+        "episode",
+        "P179"
+    ],
+    [
+        "foundation date",
+        "P571"
+    ],
+    [
+        "Stanley Cup championships','six'],  [['The Chicago Blackhawks",
+        "no-wikiID"
+    ],
+    [
+        "position','soccer player'], ['Allan Johns",
+        "no-wikiID"
+    ],
+    [
+        "17 NBA Championships'], ['Boston Celtics",
+        "no-wikiID"
+    ],
+    [
+        "event type",
+        "no-wikiID"
+    ],
+    [
+        "German tank'] is extracted because the sentence talks about the Panzer IV being the most numerous German tank.  The text can contain words that are not relevant to the triples, such as \"The\", \"of\", \"and\", etc. These words should be ignored when extracting the triples.  The triples should be returned in json format. Here is an example of the expected output:  {'triples': [['Amazon River",
+        "no-wikiID"
+    ],
+    [
+        "villages panchayats",
+        "no-wikiID"
+    ],
+    [
+        "is a",
+        "P31"
+    ],
+    [
+        "company",
+        "P2389"
+    ],
+    [
+        "India'], ['Midnight's Children','setting",
+        "no-wikiID"
+    ],
+    [
+        "first element",
+        "no-wikiID"
+    ],
+    [
+        "production date",
+        "P2754"
+    ],
+    [
+        "navigable",
+        "no-wikiID"
+    ],
+    [
+        "D300'], ['Nikon D200','succeeded date",
+        "no-wikiID"
+    ],
+    [
+        "1961'], ['Plan 9 from Outer Space",
+        "no-wikiID"
+    ],
+    [
+        "product','mobile app'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "home rink",
+        "no-wikiID"
+    ],
+    [
+        "family members",
+        "no-wikiID"
+    ],
+    [
+        "writer",
+        "P50"
+    ],
+    [
+        "increased thirst'], ['diabetes','symptom",
+        "no-wikiID"
+    ],
+    [
+        "1915'], ['South West Africa",
+        "no-wikiID"
+    ],
+    [
+        "flows through",
+        "no-wikiID"
+    ],
+    [
+        "parent",
+        "P22"
+    ],
+    [
+        "bassist",
+        "no-wikiID"
+    ],
+    [
+        "founded by','supporters of Poland\\'s oldest football team Lechia Lwów'], ['Lechia Gdańsk",
+        "no-wikiID"
+    ],
+    [
+        "type','manned mission'], ['Apollo 11",
+        "no-wikiID"
+    ],
+    [
+        "The Scorpion King'], ['The Mummy Returns','set",
+        "no-wikiID"
+    ],
+    [
+        "best known for",
+        "no-wikiID"
+    ],
+    [
+        "cause','smoking']]  Text: The Amazon rainforest is located in South America. Triples: [['Amazon rainforest",
+        "no-wikiID"
+    ],
+    [
+        "lizard'], ['Komodo dragon','size",
+        "no-wikiID"
+    ],
+    [
+        "belong",
+        "P1001"
+    ],
+    [
+        "achievement",
+        "no-wikiID"
+    ],
+    [
+        "acquire value type','stock and cash'], ['Nvidia",
+        "no-wikiID"
+    ],
+    [
+        "2016-17'], ['Liga IV Bucharest",
+        "no-wikiID"
+    ],
+    [
+        "features",
+        "P180"
+    ],
+    [
+        "number of athletes",
+        "no-wikiID"
+    ],
+    [
+        "roles','minor roles in several films and television series'], ['Davis",
+        "no-wikiID"
+    ],
+    [
+        "2007'], ['Virgin America",
+        "no-wikiID"
+    ],
+    [
+        "January 23, 2010'], ['second anime television series",
+        "no-wikiID"
+    ],
+    [
+        "Sherlock Holmes'], ['The Adventure of the Speckled Band",
+        "no-wikiID"
+    ],
+    [
+        "affected group",
+        "no-wikiID"
+    ],
+    [
+        "unveiled location",
+        "no-wikiID"
+    ],
+    [
+        "Nazi authorities'], ['OUN-B",
+        "no-wikiID"
+    ],
+    [
+        "credited for",
+        "no-wikiID"
+    ],
+    [
+        "ten-abreast economy'], ['747",
+        "no-wikiID"
+    ],
+    [
+        "used for','map editing service'], ['Google Map Maker",
+        "no-wikiID"
+    ],
+    [
+        "Automata I'], ['Colors II','related album",
+        "no-wikiID"
+    ],
+    [
+        "headquartered in",
+        "no-wikiID"
+    ],
+    [
+        "emission type",
+        "no-wikiID"
+    ],
+    [
+        "office location",
+        "no-wikiID"
+    ],
+    [
+        "Beverly Hills'], ['Beverly Hills",
+        "no-wikiID"
+    ],
+    [
+        "independence",
+        "no-wikiID"
+    ],
+    [
+        "edition','several Adobe applications'],  [['several Adobe applications",
+        "no-wikiID"
+    ],
+    [
+        "for','mobile devices'], ['Tegra",
+        "no-wikiID"
+    ],
+    [
+        "progenitor",
+        "P22"
+    ],
+    [
+        "commitment",
+        "no-wikiID"
+    ],
+    [
+        "also known as",
+        "P2561"
+    ],
+    [
+        "49%'], ['Final Cut Pro','market share",
+        "no-wikiID"
+    ],
+    [
+        "Jack Lemmon'], ['Some Like It Hot",
+        "no-wikiID"
+    ],
+    [
+        "H']]  Text: The popular video game League of Legends was created by Riot Games. Triples: [['League of Legends",
+        "no-wikiID"
+    ],
+    [
+        "Paris Saint-Germain and RB Leipzig']]  Text: The 2020 UEFA European Football Championship, commonly referred to as Euro 2020, was the 16th edition of the UEFA European Football Championship, a quadrennial international football tournament contested by the national teams of the member associations of UEFA. Triples: [['2020 UEFA European Football Championship",
+        "no-wikiID"
+    ],
+    [
+        "best-selling console",
+        "no-wikiID"
+    ],
+    [
+        "base for",
+        "no-wikiID"
+    ],
+    [
+        "designs",
+        "no-wikiID"
+    ],
+    [
+        "aircraft",
+        "P121"
+    ],
+    [
+        "New York Stock Exchange'], ['company','stock exchange abbreviation",
+        "no-wikiID"
+    ],
+    [
+        "product','software'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "World Series championship",
+        "no-wikiID"
+    ],
+    [
+        "daily workers",
+        "no-wikiID"
+    ],
+    [
+        "picture book'], ['The Lost Thing",
+        "no-wikiID"
+    ],
+    [
+        "profession','religious thinker'], ['William Penn",
+        "no-wikiID"
+    ],
+    [
+        "adaptation",
+        "P4969"
+    ],
+    [
+        "uniform','red socks'], ['Bahia",
+        "no-wikiID"
+    ],
+    [
+        "designer",
+        "P287"
+    ],
+    [
+        "destination','moon']]  Text: The population of China is over 1.4 billion. Triples: [['China",
+        "no-wikiID"
+    ],
+    [
+        "computer",
+        "P7256"
+    ],
+    [
+        "12 November 1993'], ['Bedardi','music",
+        "no-wikiID"
+    ],
+    [
+        "distributed by",
+        "P750"
+    ],
+    [
+        "Aquaman'], ['Justice League','members",
+        "no-wikiID"
+    ],
+    [
+        "dominate",
+        "no-wikiID"
+    ],
+    [
+        "arrival date",
+        "no-wikiID"
+    ],
+    [
+        "caused by",
+        "P828"
+    ],
+    [
+        "estimate','massacred'], ['Historians",
+        "no-wikiID"
+    ],
+    [
+        "Eiza González'], ['I Care a Lot','stars",
+        "no-wikiID"
+    ],
+    [
+        "editor",
+        "P98"
+    ],
+    [
+        "3D graphics'], ['Adobe Shockwave','supports",
+        "no-wikiID"
+    ],
+    [
+        "27'], ['European Union",
+        "no-wikiID"
+    ],
+    [
+        "distance",
+        "P2043"
+    ],
+    [
+        "function','marketing'], ['Paramount Vantage",
+        "no-wikiID"
+    ],
+    [
+        "acquire",
+        "P7888"
+    ],
+    [
+        "initial",
+        "P577"
+    ],
+    [
+        "grade",
+        "P7174"
+    ],
+    [
+        "from",
+        "P580"
+    ],
+    [
+        "OUN-M'], ['OUN','support",
+        "no-wikiID"
+    ],
+    [
+        "airspeed velocity",
+        "no-wikiID"
+    ],
+    [
+        "character creator",
+        "no-wikiID"
+    ],
+    [
+        "accomplished by",
+        "no-wikiID"
+    ],
+    [
+        "initiated",
+        "P571"
+    ],
+    [
+        "type','mid-engine sports car'] is extracted. Similarly, the word \"Italian automobile manufacturer Ferrari\" is not a direct attribute of the Ferrari 488, but it is still related to the Ferrari 488. Therefore, the triple ['Ferrari 488",
+        "no-wikiID"
+    ],
+    [
+        "compete with",
+        "no-wikiID"
+    ],
+    [
+        "Michael Scott']]  Text: The company was founded in 1995 and is headquartered in California. The company has 100 employees. The company is a technology company.  Your answer:  [['company",
+        "no-wikiID"
+    ],
+    [
+        "title",
+        "P1476"
+    ],
+    [
+        "11,650 cal years before present'], ['Holocene','start date",
+        "no-wikiID"
+    ],
+    [
+        "competitor",
+        "P710"
+    ],
+    [
+        "born date",
+        "no-wikiID"
+    ],
+    [
+        "name",
+        "P1476"
+    ],
+    [
+        "July 17, 2021'], ['Hail Satin",
+        "no-wikiID"
+    ],
+    [
+        "form",
+        "P279"
+    ],
+    [
+        "total attendance",
+        "no-wikiID"
+    ],
+    [
+        "10,564–10,446'], ['Pirates','record",
+        "no-wikiID"
+    ],
+    [
+        "wing sweep",
+        "no-wikiID"
+    ],
+    [
+        "Michael Madsen'], ['The Hateful Eight','stars",
+        "no-wikiID"
+    ],
+    [
+        "creator",
+        "P50"
+    ],
+    [
+        "New York']]  Text: The European Central Bank is the central bank of the Eurozone. Triples: [['European Central Bank",
+        "no-wikiID"
+    ],
+    [
+        "center of development",
+        "no-wikiID"
+    ],
+    [
+        "position','midfielder'], ['Zhang Zili",
+        "no-wikiID"
+    ],
+    [
+        "Matt Damon, Bill Pullman, Drew Barrymore, John Leguizamo, Nathan Lane, Janeane Garofalo, Ron Perlman and Tone Loc'], ['Titan A.E.",
+        "no-wikiID"
+    ],
+    [
+        "one million'], ['Game Boy','successor",
+        "no-wikiID"
+    ],
+    [
+        "1924'], ['Sherlock Jr.",
+        "no-wikiID"
+    ],
+    [
+        "download",
+        "P4945"
+    ],
+    [
+        "US'], ['film','release date",
+        "no-wikiID"
+    ],
+    [
+        "government system",
+        "no-wikiID"
+    ],
+    [
+        "public facilities','restaurants and cafes'], ['Majara Residence",
+        "no-wikiID"
+    ],
+    [
+        "8-3'], ['1980 Portland State Vikings football team",
+        "no-wikiID"
+    ],
+    [
+        "Jennifer Jason Leigh'], ['The Hateful Eight','stars",
+        "no-wikiID"
+    ],
+    [
+        "1899'], ['White Hart Lane",
+        "no-wikiID"
+    ],
+    [
+        "nickname",
+        "P1449"
+    ],
+    [
+        "first publication date",
+        "no-wikiID"
+    ],
+    [
+        "time period",
+        "P1264"
+    ],
+    [
+        "influence location",
+        "no-wikiID"
+    ],
+    [
+        "album",
+        "P1433"
+    ],
+    [
+        "profession",
+        "P106"
+    ],
+    [
+        "211'], ['FIFA','membership",
+        "no-wikiID"
+    ],
+    [
+        "credited to",
+        "no-wikiID"
+    ],
+    [
+        "dominated by",
+        "no-wikiID"
+    ],
+    [
+        "April 2021'], ['Warframe",
+        "no-wikiID"
+    ],
+    [
+        "President",
+        "P6"
+    ],
+    [
+        "in-app, online, and in-person contactless purchases on mobile devices'], ['Google Pay','support",
+        "no-wikiID"
+    ],
+    [
+        "achievement','returned to the postseason in 2013'], ['Pirates",
+        "no-wikiID"
+    ],
+    [
+        "acquirer",
+        "no-wikiID"
+    ],
+    [
+        "demoted",
+        "no-wikiID"
+    ],
+    [
+        "1642'], ['Confederate Ireland",
+        "no-wikiID"
+    ],
+    [
+        "premiere",
+        "P1191"
+    ],
+    [
+        "implementation date",
+        "no-wikiID"
+    ],
+    [
+        "competition",
+        "P2094"
+    ],
+    [
+        "named after",
+        "P138"
+    ],
+    [
+        "influence",
+        "P737"
+    ],
+    [
+        "longest'], ['Trapezuntine monarchy','state",
+        "no-wikiID"
+    ],
+    [
+        "number of interns",
+        "no-wikiID"
+    ],
+    [
+        "affiliated with",
+        "P1416"
+    ],
+    [
+        "Barry\\'s R&B falsetto'], ['Bee Gees','signature sound",
+        "no-wikiID"
+    ],
+    [
+        "absence",
+        "no-wikiID"
+    ],
+    [
+        "50']]  Text: The company's stock price change is 10%.  Your answer: [['company','stock price change",
+        "no-wikiID"
+    ],
+    [
+        "COVID-19 pandemic']]  Text: The company was founded in 2004 by a group of entrepreneurs. Triples: [['The company",
+        "no-wikiID"
+    ],
+    [
+        "conference championships",
+        "no-wikiID"
+    ],
+    [
+        "type','monarchy'], ['Empire of Trebizond','successor state",
+        "no-wikiID"
+    ],
+    [
+        "Chinese search engine'], ['Baidu','service','mapping service'], ['Baidu','service",
+        "no-wikiID"
+    ],
+    [
+        "currently named",
+        "no-wikiID"
+    ],
+    [
+        "administrative divisions",
+        "no-wikiID"
+    ],
+    [
+        "Isabella'], ['Lloyd','most popular model",
+        "no-wikiID"
+    ],
+    [
+        "September 12'],  ['Wolfwalkers','release date",
+        "no-wikiID"
+    ],
+    [
+        "associated with','sea'], ['Njörðr",
+        "no-wikiID"
+    ],
+    [
+        "against",
+        "P5004"
+    ],
+    [
+        "4–2']]  Text: The 2017 FIBA Asia Cup was the 28th men's basketball tournament of FIBA Asia. The tournament was held in Beirut, Lebanon, from August 8 to August 20, 2017. Triples: [['2017 FIBA Asia Cup",
+        "no-wikiID"
+    ],
+    [
+        "plot','seizing assets'], ['I Care a Lot",
+        "no-wikiID"
+    ],
+    [
+        "$100 million'], ['company','revenue date",
+        "no-wikiID"
+    ],
+    [
+        "film",
+        "P136"
+    ],
+    [
+        "George Lopez'], ['The Spy Next Door','release date",
+        "no-wikiID"
+    ],
+    [
+        "engine",
+        "P408"
+    ],
+    [
+        "56th'], ['Canadian Football League','season",
+        "no-wikiID"
+    ],
+    [
+        "rootkits'], ['Microsoft Security Essentials','malicious software",
+        "no-wikiID"
+    ],
+    [
+        "description','strong king'], ['Uther Pendragon",
+        "no-wikiID"
+    ],
+    [
+        "established after",
+        "no-wikiID"
+    ],
+    [
+        "or",
+        "P862"
+    ],
+    [
+        "translated','many languages'], ['play",
+        "no-wikiID"
+    ],
+    [
+        "2012'], ['Dredd",
+        "no-wikiID"
+    ],
+    [
+        "position','midfielder'], ['Law Ho Yin",
+        "no-wikiID"
+    ],
+    [
+        "16'], ['game','mode','single player'], ['game','mode",
+        "no-wikiID"
+    ],
+    [
+        "license",
+        "P275"
+    ],
+    [
+        "list",
+        "P2354"
+    ],
+    [
+        "2014']]  Text: The company's second product was a virtual assistant called Alexa, which was released in 2014. Triples: [['Amazon",
+        "no-wikiID"
+    ],
+    [
+        "ESV Ingolstadt'], ['Fußball-Club Ingolstadt 04 e.V.','merged with",
+        "no-wikiID"
+    ],
+    [
+        "leadership",
+        "no-wikiID"
+    ],
+    [
+        "location','state of New York'], ['the city",
+        "no-wikiID"
+    ],
+    [
+        "cricketer'], ['Aisha Jalil",
+        "no-wikiID"
+    ],
+    [
+        "over two million copies'], ['Gears of War 2",
+        "no-wikiID"
+    ],
+    [
+        "divide natives and colonists','region'], ['Japanese",
+        "no-wikiID"
+    ],
+    [
+        "assist'], ['assist",
+        "no-wikiID"
+    ],
+    [
+        "largest city",
+        "no-wikiID"
+    ],
+    [
+        "Kazakhstan'],  ['Kontinental Hockey League','member",
+        "no-wikiID"
+    ],
+    [
+        "battery",
+        "P618"
+    ],
+    [
+        "fight song",
+        "no-wikiID"
+    ],
+    [
+        "ceased",
+        "P576"
+    ],
+    [
+        "product','software application'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "c. 1370 – c. 1330 BC'], ['Neferneferuaten Nefertiti','reign",
+        "no-wikiID"
+    ],
+    [
+        "discovery year",
+        "no-wikiID"
+    ],
+    [
+        "first production",
+        "no-wikiID"
+    ],
+    [
+        "announced by",
+        "no-wikiID"
+    ],
+    [
+        "tournament",
+        "P8127"
+    ],
+    [
+        "chemical formula",
+        "P274"
+    ],
+    [
+        "first manned mission to the Moon']]  Text: The capital of France is Paris. Triples: [['France",
+        "no-wikiID"
+    ],
+    [
+        "fatigue']]  Text: The company's main products are computers, smartphones, and televisions. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "penalty','relegated to I liga'], ['Korona Kielce",
+        "no-wikiID"
+    ],
+    [
+        "drafted",
+        "P647"
+    ],
+    [
+        "formerly known as",
+        "no-wikiID"
+    ],
+    [
+        "cause','magnitude 9.0 undersea earthquake']]  Text: The United States is a country. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "has its root office at",
+        "no-wikiID"
+    ],
+    [
+        "headquarters state",
+        "no-wikiID"
+    ],
+    [
+        "left the band",
+        "no-wikiID"
+    ],
+    [
+        "establish protectorate",
+        "no-wikiID"
+    ],
+    [
+        "Virgin Records'], ['Spice Girls",
+        "no-wikiID"
+    ],
+    [
+        "originally scheduled date",
+        "no-wikiID"
+    ],
+    [
+        "creation date",
+        "P571"
+    ],
+    [
+        "number of colleges",
+        "no-wikiID"
+    ],
+    [
+        "purpose of establishment",
+        "no-wikiID"
+    ],
+    [
+        "12,228 votes'], ['Geoffrey Alexander Campbell','result",
+        "no-wikiID"
+    ],
+    [
+        "office",
+        "P39"
+    ],
+    [
+        "fact",
+        "P8168"
+    ],
+    [
+        "6.1-inch'], ['new smartphone",
+        "no-wikiID"
+    ],
+    [
+        "total wins",
+        "no-wikiID"
+    ],
+    [
+        "development of the geologic time scale']]  Text: The International Union of Geological Sciences is responsible for the definition of the geologic time scale. Triples: [['International Union of Geological Sciences','responsible for",
+        "no-wikiID"
+    ],
+    [
+        "character",
+        "P1552"
+    ],
+    [
+        "64/3 BC'], ['Cambysene",
+        "no-wikiID"
+    ],
+    [
+        "component','several territories']]  Text: The International Space Station (ISS) is a habitable artificial satellite in low Earth orbit. Triples: [['International Space Station",
+        "no-wikiID"
+    ],
+    [
+        "called",
+        "P511"
+    ],
+    [
+        "rank",
+        "P1545"
+    ],
+    [
+        "follow-up album release date",
+        "no-wikiID"
+    ],
+    [
+        "Macon Blair'], ['I Care a Lot','stars",
+        "no-wikiID"
+    ],
+    [
+        "c. 1370 – c. 1330 BC']]  The problem is that the triples are not extracted correctly. The triples should be [['Neferneferuaten Nefertiti','reign",
+        "no-wikiID"
+    ],
+    [
+        "c. 1370 – c. 1330 BC'], ['Nefertiti",
+        "no-wikiID"
+    ],
+    [
+        "laptop']]  Text: The company's main product is a smartphone, a tablet, and a laptop. Triples: [['The company','main product','smartphone'], ['The company','main product",
+        "no-wikiID"
+    ],
+    [
+        "telescope size",
+        "no-wikiID"
+    ],
+    [
+        "influenced",
+        "P737"
+    ],
+    [
+        "1998'], ['inaugural season','sponsored by",
+        "no-wikiID"
+    ],
+    [
+        "includes','southbridge'], ['Tegra",
+        "no-wikiID"
+    ],
+    [
+        "Earth'], ['Code Lyoko','subject','real world'], ['Code Lyoko','style",
+        "no-wikiID"
+    ],
+    [
+        "participated in",
+        "P1344"
+    ],
+    [
+        "held",
+        "P276"
+    ],
+    [
+        "Now You See Me'], ['Now You See Me 2",
+        "no-wikiID"
+    ],
+    [
+        "function",
+        "P39"
+    ],
+    [
+        "fields",
+        "P101"
+    ],
+    [
+        "limit",
+        "P518"
+    ],
+    [
+        "previous work",
+        "no-wikiID"
+    ],
+    [
+        "plays in','second division of the Hungarian League'], ['Diósgyőr-Vasgyári Testgyakorlók Köre",
+        "no-wikiID"
+    ],
+    [
+        "affected",
+        "no-wikiID"
+    ],
+    [
+        "2016'], ['Now You See Me 2",
+        "no-wikiID"
+    ],
+    [
+        "Floreana giant tortoise'], ['Chelonoidis niger','synonym",
+        "no-wikiID"
+    ],
+    [
+        "birth date",
+        "P569"
+    ],
+    [
+        "promoted by",
+        "no-wikiID"
+    ],
+    [
+        "occupation",
+        "P106"
+    ],
+    [
+        "production period",
+        "no-wikiID"
+    ],
+    [
+        "rise to prominence",
+        "no-wikiID"
+    ],
+    [
+        "open date",
+        "no-wikiID"
+    ],
+    [
+        "7,186 votes'], ['Geoffrey Alexander Campbell','result",
+        "no-wikiID"
+    ],
+    [
+        "type','mid-engine sports car'], ['Ferrari 488",
+        "no-wikiID"
+    ],
+    [
+        "ECMAScript'], ['JScript",
+        "no-wikiID"
+    ],
+    [
+        "location','major railway junction'], ['Cottbus",
+        "no-wikiID"
+    ],
+    [
+        "hit",
+        "P6918"
+    ],
+    [
+        "location",
+        "P625"
+    ],
+    [
+        "head of government",
+        "P6"
+    ],
+    [
+        "Skaði'], ['Njörðr','residence",
+        "no-wikiID"
+    ],
+    [
+        "name','mountain of the spirit'], ['Manaslu",
+        "no-wikiID"
+    ],
+    [
+        "independence'], ['Midnight's Children','setting",
+        "no-wikiID"
+    ],
+    [
+        "other teams in location",
+        "no-wikiID"
+    ],
+    [
+        "purchase items",
+        "no-wikiID"
+    ],
+    [
+        "worked with",
+        "no-wikiID"
+    ],
+    [
+        "court",
+        "P4884"
+    ],
+    [
+        "developer','multiple pharmaceutical companies']]  Text: The United States is a federal republic. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "Drew Barrymore'], ['Never Been Kissed','stars",
+        "no-wikiID"
+    ],
+    [
+        "affiliate",
+        "P1416"
+    ],
+    [
+        "November 2018'], ['Warframe",
+        "no-wikiID"
+    ],
+    [
+        "Toyota'], ['Toyota iQ','marketed in",
+        "no-wikiID"
+    ],
+    [
+        "premiered in",
+        "no-wikiID"
+    ],
+    [
+        "graphic design, video editing, and web development applications'],  [['Adobe Creative Suite",
+        "no-wikiID"
+    ],
+    [
+        "2010'], ['Take That','reunion tour",
+        "no-wikiID"
+    ],
+    [
+        "withdrew",
+        "no-wikiID"
+    ],
+    [
+        "level','men\\'s'], ['2022 FIFA World Cup",
+        "no-wikiID"
+    ],
+    [
+        "Tommy Lee Jones'], ['Natural Born Killers','story",
+        "no-wikiID"
+    ],
+    [
+        "developer for",
+        "no-wikiID"
+    ],
+    [
+        "coverage",
+        "P7103"
+    ],
+    [
+        "first-party studio for",
+        "no-wikiID"
+    ],
+    [
+        "outdoor clay courts'], ['2021 Hamburg European Open",
+        "no-wikiID"
+    ],
+    [
+        "founded date",
+        "no-wikiID"
+    ],
+    [
+        "Europe'], ['IHF','membership",
+        "no-wikiID"
+    ],
+    [
+        "team",
+        "P54"
+    ],
+    [
+        "Justice Society of America'], ['Justice League','members",
+        "no-wikiID"
+    ],
+    [
+        "direction",
+        "P560"
+    ],
+    [
+        "optional engine",
+        "no-wikiID"
+    ],
+    [
+        "conquered",
+        "no-wikiID"
+    ],
+    [
+        "born",
+        "P569"
+    ],
+    [
+        "effectiveness",
+        "no-wikiID"
+    ],
+    [
+        "purpose','self-clarification'], ['Grundrisse der Kritik der Politischen Ökonomie",
+        "no-wikiID"
+    ],
+    [
+        "Odysseus'], ['The Odyssey','main character",
+        "no-wikiID"
+    ],
+    [
+        "geological location",
+        "no-wikiID"
+    ],
+    [
+        "The Flash'], ['Justice League','members",
+        "no-wikiID"
+    ],
+    [
+        "world\\'s largest']]  Text: The world's largest waterfall, by total area of the falls, is Inga Falls. The Inga Falls is located on the Congo River. Triples: [['Inga Falls",
+        "no-wikiID"
+    ],
+    [
+        "original name",
+        "P1705"
+    ],
+    [
+        "led to the development",
+        "no-wikiID"
+    ],
+    [
+        "name','men'], ['Ajacciennes",
+        "no-wikiID"
+    ],
+    [
+        "death",
+        "P570"
+    ],
+    [
+        "not referenced to','specific level in a rock section on Earth'], ['Pongola glaciation",
+        "no-wikiID"
+    ],
+    [
+        "Porsche'],  ['Porsche Panamera",
+        "no-wikiID"
+    ],
+    [
+        "country','sub-Roman Britain']]  is a valid answer.  The triples are returned as a list of lists, where each inner list contains three elements: the subject, the predicate,'start date",
+        "no-wikiID"
+    ],
+    [
+        "term",
+        "P1326"
+    ],
+    [
+        "network",
+        "P449"
+    ],
+    [
+        "first manned mission to land on the Moon'], ['Apollo 11",
+        "no-wikiID"
+    ],
+    [
+        "has father",
+        "P22"
+    ],
+    [
+        "product','sustainable']]  Text: The company's products are designed to be environmentally friendly, sustainable, and affordable. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "new'], ['game",
+        "no-wikiID"
+    ],
+    [
+        "indictment",
+        "no-wikiID"
+    ],
+    [
+        "points allowed",
+        "no-wikiID"
+    ],
+    [
+        "provide statistical information to the institutions of the European Union (EU)'], ['Eurostat','main responsibility",
+        "no-wikiID"
+    ],
+    [
+        "33'], ['KeyArena','seasons",
+        "no-wikiID"
+    ],
+    [
+        "in",
+        "P131"
+    ],
+    [
+        "developer",
+        "P61"
+    ],
+    [
+        "June 2019'], ['Upland','release date",
+        "no-wikiID"
+    ],
+    [
+        "advocate",
+        "no-wikiID"
+    ],
+    [
+        "2D computer animation'], ['Code Lyoko','style",
+        "no-wikiID"
+    ],
+    [
+        "use",
+        "P366"
+    ],
+    [
+        "civilization duration",
+        "no-wikiID"
+    ],
+    [
+        "Catherine de Bourbon'], ['Henry of Navarre','sister",
+        "no-wikiID"
+    ],
+    [
+        "profession','military general'], ['Gregorio Luperón",
+        "no-wikiID"
+    ],
+    [
+        "American",
+        "P9097"
+    ],
+    [
+        "genre",
+        "P136"
+    ],
+    [
+        "products",
+        "P1056"
+    ],
+    [
+        "Emma Bunton'], ['Spice Girls','member",
+        "no-wikiID"
+    ],
+    [
+        "1994'], ['Natural Born Killers",
+        "no-wikiID"
+    ],
+    [
+        "education','master\\'s degree in computer science'], ['Herman Cain",
+        "no-wikiID"
+    ],
+    [
+        "task",
+        "P585"
+    ],
+    [
+        "length",
+        "P2043"
+    ],
+    [
+        "2019'], ['Spice Girls','reunion concert tour award",
+        "no-wikiID"
+    ],
+    [
+        "Tom Hanks']]  Text: The film is a romantic comedy film directed by James Cameron and starring Tom Hanks and Julia Roberts. Triples: [['film",
+        "no-wikiID"
+    ],
+    [
+        "neurons",
+        "no-wikiID"
+    ],
+    [
+        "broke up during",
+        "no-wikiID"
+    ],
+    [
+        "Formula One World Championship",
+        "no-wikiID"
+    ],
+    [
+        "home of",
+        "P7563"
+    ],
+    [
+        "50'], ['Haryana",
+        "no-wikiID"
+    ],
+    [
+        "Looney Tunes'], ['Bugs Bunny','starred in",
+        "no-wikiID"
+    ],
+    [
+        "establishment date",
+        "P571"
+    ],
+    [
+        "Paris'], ['Midnight in Paris','main character",
+        "no-wikiID"
+    ],
+    [
+        "over 2,200 acres']]  Text: The famous painting \"Starry Night\" was created by Vincent van Gogh in 1889. Triples: [['Starry Night",
+        "no-wikiID"
+    ],
+    [
+        "nationality",
+        "no-wikiID"
+    ],
+    [
+        "city",
+        "P131"
+    ],
+    [
+        "origin date",
+        "no-wikiID"
+    ],
+    [
+        "inspiration",
+        "P941"
+    ],
+    [
+        "cyclical structure'], ['Finnegans Wake','structure",
+        "no-wikiID"
+    ],
+    [
+        "order",
+        "P611"
+    ],
+    [
+        "father",
+        "P22"
+    ],
+    [
+        "largest paying audience'], ['Tina Turner",
+        "no-wikiID"
+    ],
+    [
+        "Intel International Science and Engineering Fair",
+        "no-wikiID"
+    ],
+    [
+        "affected','many countries']]  Text: The 2020 Summer Olympics were held in Tokyo, Japan. Triples: [['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "drought",
+        "no-wikiID"
+    ],
+    [
+        "organizer",
+        "P664"
+    ],
+    [
+        "parliament'], ['Confederate Ireland','structure",
+        "no-wikiID"
+    ],
+    [
+        "Ralph Macchio and William Zabka'], ['Cobra Kai','stars",
+        "no-wikiID"
+    ],
+    [
+        "2 September 2016'], ['Liga IV Bucharest",
+        "no-wikiID"
+    ],
+    [
+        "Europe'], ['Aston Martin Cygnet','marketed from",
+        "no-wikiID"
+    ],
+    [
+        "co-stars",
+        "no-wikiID"
+    ],
+    [
+        "published date",
+        "no-wikiID"
+    ],
+    [
+        "German tank'], ['Panzer IV','most numerous",
+        "no-wikiID"
+    ],
+    [
+        "originally known as",
+        "no-wikiID"
+    ],
+    [
+        "May 28, 2014'], ['LG G3",
+        "no-wikiID"
+    ],
+    [
+        "form of government",
+        "P122"
+    ],
+    [
+        "internal market'], ['European Union",
+        "no-wikiID"
+    ],
+    [
+        "geography",
+        "P2633"
+    ],
+    [
+        "debut single success",
+        "no-wikiID"
+    ],
+    [
+        "Microsoft']]  Text: The movie \"The Shawshank Redemption\" is a drama film directed by Frank Darabont. Triples: [['The Shawshank Redemption",
+        "no-wikiID"
+    ],
+    [
+        "operating altitude",
+        "no-wikiID"
+    ],
+    [
+        "1970s'], ['Kaiser Chiefs','start year",
+        "no-wikiID"
+    ],
+    [
+        "event date",
+        "no-wikiID"
+    ],
+    [
+        "100,000'], ['United States','salary",
+        "no-wikiID"
+    ],
+    [
+        "November 21, 2022'], ['2022 FIFA World Cup",
+        "no-wikiID"
+    ],
+    [
+        "birthplace",
+        "P19"
+    ],
+    [
+        "playoff appearances",
+        "no-wikiID"
+    ],
+    [
+        "NCAA Division",
+        "no-wikiID"
+    ],
+    [
+        "led by",
+        "P286"
+    ],
+    [
+        "philosophical systems",
+        "no-wikiID"
+    ],
+    [
+        "first edition",
+        "no-wikiID"
+    ],
+    [
+        "family",
+        "P53"
+    ],
+    [
+        "ranking system','statistics'], ['game",
+        "no-wikiID"
+    ],
+    [
+        "ordered by",
+        "P8004"
+    ],
+    [
+        "box office",
+        "P2142"
+    ],
+    [
+        "launch date",
+        "P577"
+    ],
+    [
+        "pandemic'], ['COVID-19 outbreak",
+        "no-wikiID"
+    ],
+    [
+        "president",
+        "P6"
+    ],
+    [
+        "island",
+        "P11163"
+    ],
+    [
+        "passing yards",
+        "no-wikiID"
+    ],
+    [
+        "Byzantine'], ['Despotate of Epirus','state",
+        "no-wikiID"
+    ],
+    [
+        "artist",
+        "P175"
+    ],
+    [
+        "NeXTSTEP system'], ['NeXTSTEP system','standard",
+        "no-wikiID"
+    ],
+    [
+        "Poetic Edda'], ['Njörðr','source",
+        "no-wikiID"
+    ],
+    [
+        "war",
+        "P607"
+    ],
+    [
+        "Ajay Devgan'], ['Bedardi','stars",
+        "no-wikiID"
+    ],
+    [
+        "predicate",
+        "P9970"
+    ],
+    [
+        "Pierre Fresnay'], ['The Phantom Carriage','starring",
+        "no-wikiID"
+    ],
+    [
+        "global']]  Text: The company is based in New York City. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "borough",
+        "P131"
+    ],
+    [
+        "Luke Wilson'], ['Idiocracy','starring",
+        "no-wikiID"
+    ],
+    [
+        "category','midrange DSLR cameras'], ['Nikon D200",
+        "no-wikiID"
+    ],
+    [
+        "production run",
+        "no-wikiID"
+    ],
+    [
+        "associated with",
+        "P1416"
+    ],
+    [
+        "program",
+        "P277"
+    ],
+    [
+        "1957'], ['Plan 9 from Outer Space','release date",
+        "no-wikiID"
+    ],
+    [
+        "protection','malicious software'], ['Microsoft Security Essentials','malicious software",
+        "no-wikiID"
+    ],
+    [
+        "positive reviews from critics'], ['Idiocracy','status",
+        "no-wikiID"
+    ],
+    [
+        "administered by",
+        "P126"
+    ],
+    [
+        "total area",
+        "P2046"
+    ],
+    [
+        "2018']]  Text: The company's first product was the 3D printer, which was released in 2012. Triples: [['3D printer','release date",
+        "no-wikiID"
+    ],
+    [
+        "tour",
+        "P1451"
+    ],
+    [
+        "Emperor Jahangir'], ['Mughal-e-Azam','subject",
+        "no-wikiID"
+    ],
+    [
+        "March 24, 2005'], ['The Office",
+        "no-wikiID"
+    ],
+    [
+        "philosophy'], ['On Liberty",
+        "no-wikiID"
+    ],
+    [
+        "c. 1370 – c. 1330 BC'], ['Neferneferuaten Nefertiti",
+        "no-wikiID"
+    ],
+    [
+        "affected country",
+        "no-wikiID"
+    ],
+    [
+        "Scion iQ'], ['Aston Martin Cygnet','rebadged from",
+        "no-wikiID"
+    ],
+    [
+        "access method",
+        "no-wikiID"
+    ],
+    [
+        "worst director ever",
+        "no-wikiID"
+    ],
+    [
+        "then powered by",
+        "no-wikiID"
+    ],
+    [
+        "Italian'], ['Despotate of Epirus','state",
+        "no-wikiID"
+    ],
+    [
+        "director','stars",
+        "no-wikiID"
+    ],
+    [
+        "energy exports",
+        "no-wikiID"
+    ],
+    [
+        "instrumental in developing and popularizing",
+        "no-wikiID"
+    ],
+    [
+        "previous team",
+        "no-wikiID"
+    ],
+    [
+        "1765'], ['American Revolution",
+        "no-wikiID"
+    ],
+    [
+        "loyalty",
+        "P945"
+    ],
+    [
+        "Nikon Corporation'], ['Nikon D200','release date",
+        "no-wikiID"
+    ],
+    [
+        "chair",
+        "P488"
+    ],
+    [
+        "outstanding'], ['Gears of War 3','release",
+        "no-wikiID"
+    ],
+    [
+        "academic excellence",
+        "no-wikiID"
+    ],
+    [
+        "Barry Gibb'], ['Bee Gees','member",
+        "no-wikiID"
+    ],
+    [
+        "held in",
+        "no-wikiID"
+    ],
+    [
+        "technique",
+        "P2079"
+    ],
+    [
+        "outdoor clay courts'], ['Amstelveen Women\\'s Open",
+        "no-wikiID"
+    ],
+    [
+        "previous season",
+        "no-wikiID"
+    ],
+    [
+        "ideology",
+        "P1142"
+    ],
+    [
+        "72'], ['Haryana','revenue tehsils",
+        "no-wikiID"
+    ],
+    [
+        "product','sustainable'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "SAirServices'], ['Swissair Group','subdivision",
+        "no-wikiID"
+    ],
+    [
+        "easy to follow'], ['Peter Camenzind",
+        "no-wikiID"
+    ],
+    [
+        "century",
+        "P4912"
+    ],
+    [
+        "founded year",
+        "no-wikiID"
+    ],
+    [
+        "height",
+        "P2044"
+    ],
+    [
+        "Sacha Baron Cohen'],  ['Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan','starring",
+        "no-wikiID"
+    ],
+    [
+        "Ford'], ['Ford Mondeo','start year",
+        "no-wikiID"
+    ],
+    [
+        "Seattle Mariners'], ['Kingdome','shared with",
+        "no-wikiID"
+    ],
+    [
+        "longest karst river",
+        "no-wikiID"
+    ],
+    [
+        "user base",
+        "no-wikiID"
+    ],
+    [
+        "plays",
+        "P641"
+    ],
+    [
+        "husband",
+        "P26"
+    ],
+    [
+        "direction','south'], ['Apsley House",
+        "no-wikiID"
+    ],
+    [
+        "offers",
+        "P3173"
+    ],
+    [
+        "International Union of Geological Sciences'], [['Holocene','split",
+        "no-wikiID"
+    ],
+    [
+        "2017'], ['Microsoft Edge",
+        "no-wikiID"
+    ],
+    [
+        "has','second highest number in the Netherlands, after Amsterdam'], ['Maastricht",
+        "no-wikiID"
+    ],
+    [
+        "type",
+        "P31"
+    ],
+    [
+        "death date",
+        "P570"
+    ],
+    [
+        "co-write",
+        "no-wikiID"
+    ],
+    [
+        "never",
+        "P3934"
+    ],
+    [
+        "1957'], ['DEC",
+        "no-wikiID"
+    ],
+    [
+        "100 million']]  Text: The company's revenue in 2019 was $100 million, and it had 10,000 employees. Triples: [['company','revenue",
+        "no-wikiID"
+    ],
+    [
+        "Virgin Games'], ['Westwood Studios, Inc.','merger",
+        "no-wikiID"
+    ],
+    [
+        "Seven Nation Army'],  ['The White Stripes",
+        "no-wikiID"
+    ],
+    [
+        "label",
+        "P264"
+    ],
+    [
+        "Melanie Brown'], ['Spice Girls','member",
+        "no-wikiID"
+    ],
+    [
+        "capital",
+        "P36"
+    ],
+    [
+        "product','smartphones'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "procured from",
+        "no-wikiID"
+    ],
+    [
+        "Crown'], ['Korona Kielce",
+        "no-wikiID"
+    ],
+    [
+        "builder",
+        "P176"
+    ],
+    [
+        "Buster Keaton'], ['Sherlock Jr.",
+        "no-wikiID"
+    ],
+    [
+        "publication",
+        "P577"
+    ],
+    [
+        "intellect'], ['Manaslu','meaning','soul'], ['Manaslu",
+        "no-wikiID"
+    ],
+    [
+        "publication date",
+        "P577"
+    ],
+    [
+        "located",
+        "P276"
+    ],
+    [
+        "ruling period",
+        "no-wikiID"
+    ],
+    [
+        "created",
+        "P571"
+    ],
+    [
+        "type','major disaster']]  Text: The United States is a country in North America. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "installment",
+        "no-wikiID"
+    ],
+    [
+        "ethics committee",
+        "no-wikiID"
+    ],
+    [
+        "proposed by",
+        "P8403"
+    ],
+    [
+        "air temperature",
+        "no-wikiID"
+    ],
+    [
+        "protects against",
+        "no-wikiID"
+    ],
+    [
+        "exported to",
+        "no-wikiID"
+    ],
+    [
+        "Tom Hanks'], ['film','starring",
+        "no-wikiID"
+    ],
+    [
+        "largest living organism']]  Text: The 2020 Summer Olympics were held in Tokyo, Japan. Triples: [['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "plastic \"metallic skin\"'], ['LG G3",
+        "no-wikiID"
+    ],
+    [
+        "bundle",
+        "P7429"
+    ],
+    [
+        "1995'], ['Adobe Shockwave",
+        "no-wikiID"
+    ],
+    [
+        "components",
+        "no-wikiID"
+    ],
+    [
+        "premiered on",
+        "no-wikiID"
+    ],
+    [
+        "availability','many countries']]  Text: The 2020 Summer Olympics were held in Tokyo, Japan. Triples: [['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "candidate",
+        "P726"
+    ],
+    [
+        "affected area",
+        "no-wikiID"
+    ],
+    [
+        "acquire value",
+        "no-wikiID"
+    ],
+    [
+        "played seasons in",
+        "no-wikiID"
+    ],
+    [
+        "2019']]  Text: The length of the vector is the first element. Triples: [['vector",
+        "no-wikiID"
+    ],
+    [
+        "cause','social disruption']]  Text: The University of California, Berkeley is a public research university located in Berkeley, California. Triples: [['University of California, Berkeley",
+        "no-wikiID"
+    ],
+    [
+        "feature",
+        "P1552"
+    ],
+    [
+        "Micheline Francey'], ['The Phantom Carriage",
+        "no-wikiID"
+    ],
+    [
+        "fell",
+        "P2070"
+    ],
+    [
+        "number of completed skyscrapers",
+        "no-wikiID"
+    ],
+    [
+        "September 2014'], ['Warframe",
+        "no-wikiID"
+    ],
+    [
+        "origin of",
+        "P5191"
+    ],
+    [
+        "aluminum'], ['Dip Top Peak','snowshoe','modern'], ['Dip Top Peak','snowshoe",
+        "no-wikiID"
+    ],
+    [
+        "May 11, 2010'], ['The Spy Next Door",
+        "no-wikiID"
+    ],
+    [
+        "1938'], ['Taça de Portugal",
+        "no-wikiID"
+    ],
+    [
+        "architect",
+        "P84"
+    ],
+    [
+        "July 24'], ['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "1989'], ['Game Boy','region",
+        "no-wikiID"
+    ],
+    [
+        "year opened",
+        "no-wikiID"
+    ],
+    [
+        "iOS device'], ['Google Pay','support",
+        "no-wikiID"
+    ],
+    [
+        "currently the fourth largest website in the Alexa Internet rankings'], ['Baidu",
+        "no-wikiID"
+    ],
+    [
+        "girl power'], ['Spice Girls",
+        "no-wikiID"
+    ],
+    [
+        "increased thirst'], ['most common symptoms of diabetes','symptom",
+        "no-wikiID"
+    ],
+    [
+        "June 7, 2012'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "early to mid-2000s in Albuquerque, New Mexico'], ['Better Call Saul','main character",
+        "no-wikiID"
+    ],
+    [
+        "lasted",
+        "no-wikiID"
+    ],
+    [
+        "eliminated",
+        "P2443"
+    ],
+    [
+        "Billboard Live Music Award for the highest-grossing engagements'], ['Spice Girls','reunion concert tour",
+        "no-wikiID"
+    ],
+    [
+        "price",
+        "P2284"
+    ],
+    [
+        "premiered on date",
+        "no-wikiID"
+    ],
+    [
+        "Middle East']]  Text: The 2022 FIFA World Cup is scheduled to take place in Qatar from November 21 to December 18, 2022. The tournament will be the 22nd FIFA World Cup, and it will be the first time that the tournament has been held in the Middle East. Your answer:  [['2022 FIFA World Cup",
+        "no-wikiID"
+    ],
+    [
+        "landing date",
+        "P620"
+    ],
+    [
+        "2009'], ['Wii Sports Resort','release date",
+        "no-wikiID"
+    ],
+    [
+        "parties",
+        "P527"
+    ],
+    [
+        "lifespan",
+        "P2250"
+    ],
+    [
+        "telescope type",
+        "no-wikiID"
+    ],
+    [
+        "effect','significant disruptions to global supply chains']]  Text: The European Union is a political and economic union of 27 member states. Triples: [['European Union",
+        "no-wikiID"
+    ],
+    [
+        "location','southeast of Berlin'], ['Cottbus",
+        "no-wikiID"
+    ],
+    [
+        "Prithviraj Kapoor'], ['Mughal-e-Azam','starring",
+        "no-wikiID"
+    ],
+    [
+        "Human Development Index",
+        "P1081"
+    ],
+    [
+        "BMW'], ['BMW i3",
+        "no-wikiID"
+    ],
+    [
+        "August 20, 2021'], ['Colors II','release label",
+        "no-wikiID"
+    ],
+    [
+        "14th'], ['Six Nations Under 20s Championship",
+        "no-wikiID"
+    ],
+    [
+        "global']]  Text: The COVID-19 vaccine has been developed by Pfizer. Triples: [['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "Mars, Incorporated'], ['Snickers",
+        "no-wikiID"
+    ],
+    [
+        "July 24'], ['2020 Tokyo Olympics",
+        "no-wikiID"
+    ],
+    [
+        "establishment",
+        "P571"
+    ],
+    [
+        "pronounced",
+        "no-wikiID"
+    ],
+    [
+        "production countries",
+        "no-wikiID"
+    ],
+    [
+        "2008 Summer Olympics in Beijing'], ['Fuwa",
+        "no-wikiID"
+    ],
+    [
+        "pop culture icons",
+        "no-wikiID"
+    ],
+    [
+        "Xbox One'], ['Xbox 360','release date",
+        "no-wikiID"
+    ],
+    [
+        "United States']]  Note: The triples are not filtered, so they may contain redundant information. For example, the triple ['Zendaya','single",
+        "no-wikiID"
+    ],
+    [
+        "January 2001'], ['RuneScape",
+        "no-wikiID"
+    ],
+    [
+        "tv broadcasting rights",
+        "no-wikiID"
+    ],
+    [
+        "astronomer",
+        "no-wikiID"
+    ],
+    [
+        "NCAA division",
+        "no-wikiID"
+    ],
+    [
+        "film in",
+        "P5820"
+    ],
+    [
+        "author",
+        "P50"
+    ],
+    [
+        "colloquial title",
+        "no-wikiID"
+    ],
+    [
+        "target device','smartwatches'], ['Wear OS",
+        "no-wikiID"
+    ],
+    [
+        "outcome','many deaths']]  Text: The COVID-19 vaccine has been approved by the FDA. Triples: [['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "affected countries",
+        "no-wikiID"
+    ],
+    [
+        "-cp','stanford-corenlp-4.2.2.jar",
+        "no-wikiID"
+    ],
+    [
+        "head of state",
+        "P35"
+    ],
+    [
+        "team name",
+        "no-wikiID"
+    ],
+    [
+        "drive','rear-wheel-drive'],  ['Porsche Panamera",
+        "no-wikiID"
+    ],
+    [
+        "association",
+        "P1416"
+    ],
+    [
+        "carries",
+        "P2505"
+    ],
+    [
+        "emotive'], ['English interjections','meaning",
+        "no-wikiID"
+    ],
+    [
+        "tournament type",
+        "P11964"
+    ],
+    [
+        "national epic",
+        "no-wikiID"
+    ],
+    [
+        "type','star'], ['Sun",
+        "no-wikiID"
+    ],
+    [
+        "2017']]  Your answer:  [{'subject': 'Amazon",
+        "no-wikiID"
+    ],
+    [
+        "'], ['Walt Disney World Resort",
+        "no-wikiID"
+    ],
+    [
+        "largest living organism",
+        "no-wikiID"
+    ],
+    [
+        "Ruby'], ['Kaiser Chiefs",
+        "no-wikiID"
+    ],
+    [
+        "legendary sword of",
+        "no-wikiID"
+    ],
+    [
+        "David Newman'], ['The Spy Next Door','star",
+        "no-wikiID"
+    ],
+    [
+        "Rip Van Winkle'], ['The Legend of Sleepy Hollow','related work",
+        "no-wikiID"
+    ],
+    [
+        "OUN-B'], ['OUN-B",
+        "no-wikiID"
+    ],
+    [
+        "guitarist",
+        "no-wikiID"
+    ],
+    [
+        "location','many species of plants and animals']]  Text: The COVID-19 vaccine is developed by Pfizer and Moderna. Triples: [['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "type','museum'], ['Ajaccio Napoleon Bonaparte Airport",
+        "no-wikiID"
+    ],
+    [
+        "Flandrian interglacial'], ['Holocene','start date",
+        "no-wikiID"
+    ],
+    [
+        "contribution",
+        "P6023"
+    ],
+    [
+        "published in",
+        "P1433"
+    ],
+    [
+        "affiliation",
+        "P1416"
+    ],
+    [
+        "global auxiliary stratotype",
+        "no-wikiID"
+    ],
+    [
+        "Mike Ehrmantraut'], ['Better Call Saul",
+        "no-wikiID"
+    ],
+    [
+        "first ascent",
+        "no-wikiID"
+    ],
+    [
+        "49th season of the UEFA Europa League'], ['2019–20 UEFA Europa League",
+        "no-wikiID"
+    ],
+    [
+        "June 22, 2001'], ['GBA','release date",
+        "no-wikiID"
+    ],
+    [
+        "arena",
+        "P115"
+    ],
+    [
+        "translation",
+        "P5972"
+    ],
+    [
+        "March 2013'], ['Warframe",
+        "no-wikiID"
+    ],
+    [
+        "100 million dollars']]  Text: The company has a revenue of 100 million dollars in 2020. Triples: [['company','revenue",
+        "no-wikiID"
+    ],
+    [
+        "action','mint coins'], ['Confederate Ireland",
+        "no-wikiID"
+    ],
+    [
+        "2018–19'], ['2019 NBA Finals",
+        "no-wikiID"
+    ],
+    [
+        "previous stadium",
+        "no-wikiID"
+    ],
+    [
+        "21–10'], ['1992–93 Virginia Cavaliers men's basketball team",
+        "no-wikiID"
+    ],
+    [
+        "portal",
+        "P1151"
+    ],
+    [
+        "procured by",
+        "no-wikiID"
+    ],
+    [
+        "Carroll Senior High School'], ['Quinn Ewers",
+        "no-wikiID"
+    ],
+    [
+        "formation year",
+        "no-wikiID"
+    ],
+    [
+        "have",
+        "P527"
+    ],
+    [
+        "engine type",
+        "no-wikiID"
+    ],
+    [
+        "cover slogan",
+        "no-wikiID"
+    ],
+    [
+        "2005'], ['Panoramio",
+        "no-wikiID"
+    ],
+    [
+        "bordered by",
+        "P47"
+    ],
+    [
+        "ally",
+        "P945"
+    ],
+    [
+        "age",
+        "P2899"
+    ],
+    [
+        "1992–93'], ['1992–93 Virginia Cavaliers men's basketball team",
+        "no-wikiID"
+    ],
+    [
+        "headquarter",
+        "P159"
+    ],
+    [
+        "country','sub-Roman Britain'], ['Uther Pendragon",
+        "no-wikiID"
+    ],
+    [
+        "practice",
+        "P425"
+    ],
+    [
+        "classic",
+        "P9686"
+    ],
+    [
+        "headquarters location",
+        "P159"
+    ],
+    [
+        "uniform",
+        "P3828"
+    ],
+    [
+        "design",
+        "P1435"
+    ],
+    [
+        "Victoria Beckham'], ['Spice Girls",
+        "no-wikiID"
+    ],
+    [
+        "type','semi-presidential republic'], ['Algeria",
+        "no-wikiID"
+    ],
+    [
+        "event",
+        "P793"
+    ],
+    [
+        "1914 college football season'], ['1914 Vermont Green and Gold football team",
+        "no-wikiID"
+    ],
+    [
+        "headquartered",
+        "no-wikiID"
+    ],
+    [
+        "number of accounts",
+        "no-wikiID"
+    ],
+    [
+        "October 24, 2014'], ['Arms of Morpheus",
+        "no-wikiID"
+    ],
+    [
+        "Demián Bichir'], ['The Hateful Eight','stars",
+        "no-wikiID"
+    ],
+    [
+        "Durga Khote'], ['Mughal-e-Azam','starring",
+        "no-wikiID"
+    ],
+    [
+        "name','modern-day Namibia'], ['South West Africa",
+        "no-wikiID"
+    ],
+    [
+        "1997–98'], ['Arizona Coyotes','season",
+        "no-wikiID"
+    ],
+    [
+        "positive']]  Text: The first season of the TV series \"Stranger Things\" premiered on July 15, 2016, and consisted of eight episodes, which received positive reviews, and was praised for its nostalgic value. Triples: [['Stranger Things",
+        "no-wikiID"
+    ],
+    [
+        "Williams'], ['Luckett','replaced by",
+        "no-wikiID"
+    ],
+    [
+        "available in','many countries'], ['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "constituency",
+        "P768"
+    ],
+    [
+        "holding company of",
+        "no-wikiID"
+    ],
+    [
+        "NCAA Tournament region",
+        "no-wikiID"
+    ],
+    [
+        "location','state of New York']]  Text: The city of New York is located in the United States.  Your answer: [['New York",
+        "no-wikiID"
+    ],
+    [
+        "planning','streets named with numbers and tree names'], ['Philadelphia",
+        "no-wikiID"
+    ],
+    [
+        "Birmingham, England']]  Text: The 2020 Summer Olympics, officially known as the Games of the XXXII Olympiad, were held in Tokyo, Japan from July 24 to August 9, 2020. Triples: [['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "Quaternary period']]  Note: The text is a single paragraph. The triples are extracted based on the grammatical structure of the text. For example, the text \"The Amazon River flows through Brazil and Peru\" is parsed as \"The Amazon River\" is the subject, \"flows\" is the predicate, and \"Brazil and Peru\" is the object. Similarly, the text \"COVID-19 symptoms include fever, cough, and shortness of breath\" is parsed as \"COVID-19 symptoms\" is the subject, \"include\" is the predicate, and \"fever, cough, and shortness of breath\" is the object. The triples are then extracted based on the grammatical structure of the text. For example, the subject-predicate-object structure of \"The Amazon River flows through Brazil and Peru\" is used to extract the triple [['Amazon River",
+        "no-wikiID"
+    ],
+    [
+        "promoted",
+        "P2881"
+    ],
+    [
+        "party",
+        "P102"
+    ],
+    [
+        "official name",
+        "P1448"
+    ],
+    [
+        "raster graphics'], ['Adobe Shockwave','supports",
+        "no-wikiID"
+    ],
+    [
+        "owned by",
+        "P127"
+    ],
+    [
+        "administration",
+        "P797"
+    ],
+    [
+        "2017'], ['film trilogy",
+        "no-wikiID"
+    ],
+    [
+        "Dianne Wiest'], ['I Care a Lot",
+        "no-wikiID"
+    ],
+    [
+        "largest']]  Text: The first novel by Jane Austen was Sense and Sensibility. Triples: [['Jane Austen",
+        "no-wikiID"
+    ],
+    [
+        "Mel Brooks'], ['Bancroft",
+        "no-wikiID"
+    ],
+    [
+        "provider",
+        "P176"
+    ],
+    [
+        "location','southern Uttar Pradesh'], ['Allahabad",
+        "no-wikiID"
+    ],
+    [
+        "third'], ['All-Ireland Under-20 Championship','staging",
+        "no-wikiID"
+    ],
+    [
+        "league conference",
+        "no-wikiID"
+    ],
+    [
+        "February 8, 2015'], ['Better Call Saul",
+        "no-wikiID"
+    ],
+    [
+        "inspired",
+        "P144"
+    ],
+    [
+        "implemented as",
+        "no-wikiID"
+    ],
+    [
+        "administered to','millions of people']]  Text: The COVID-19 vaccine was effective in preventing severe illness and death. Triples: [['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "NCAA Tournament seed",
+        "no-wikiID"
+    ],
+    [
+        "1921'],  [['Italian Grand Prix','most held",
+        "no-wikiID"
+    ],
+    [
+        "28th'], ['2021 FIS Ski Jumping Grand Prix','men",
+        "no-wikiID"
+    ],
+    [
+        "work type','systematic theology'], ['Institutes of the Christian Religion",
+        "no-wikiID"
+    ],
+    [
+        "ethnic group",
+        "P172"
+    ],
+    [
+        "culturally, historically, or aesthetically significant'],  ['Some Like It Hot",
+        "no-wikiID"
+    ],
+    [
+        "roster",
+        "P1111"
+    ],
+    [
+        "design','multiplayer'], ['game','maximum players",
+        "no-wikiID"
+    ],
+    [
+        "radio broadcasting rights",
+        "no-wikiID"
+    ],
+    [
+        "promotion",
+        "P2881"
+    ],
+    [
+        "2010'], ['inaugural season','replaces",
+        "no-wikiID"
+    ],
+    [
+        "publication year",
+        "no-wikiID"
+    ],
+    [
+        "team size",
+        "no-wikiID"
+    ],
+    [
+        "United States'], ['Acura','market",
+        "no-wikiID"
+    ],
+    [
+        "founding date",
+        "P571"
+    ],
+    [
+        "personal turmoil",
+        "no-wikiID"
+    ],
+    [
+        "faster",
+        "no-wikiID"
+    ],
+    [
+        "10 full international matches']]  Text: The first season of the Australian version of Survivor, Australian Survivor, premiered on 14 September 2002. Triples: [['Australian Survivor",
+        "no-wikiID"
+    ],
+    [
+        "is the son of",
+        "no-wikiID"
+    ],
+    [
+        "position','midfielder'], ['Zhou Wenfeng",
+        "no-wikiID"
+    ],
+    [
+        "EP",
+        "P6259"
+    ],
+    [
+        "The Shadow of the Wind']]  Text: The 2020 Summer Olympics, officially known as the Games of the XXXII Olympiad, will be held in Tokyo, Japan. Triples: [['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "open to",
+        "no-wikiID"
+    ],
+    [
+        "2019'], ['Gmail",
+        "no-wikiID"
+    ],
+    [
+        "game developed",
+        "no-wikiID"
+    ],
+    [
+        "voiced by",
+        "P725"
+    ],
+    [
+        "plot",
+        "P180"
+    ],
+    [
+        "effect','significant economic disruption'], ['COVID-19 pandemic",
+        "no-wikiID"
+    ],
+    [
+        "products','storage devices'],  ['Western Digital Corporation",
+        "no-wikiID"
+    ],
+    [
+        "current arena",
+        "no-wikiID"
+    ],
+    [
+        "episodes",
+        "P1113"
+    ],
+    [
+        "fought",
+        "no-wikiID"
+    ],
+    [
+        "and",
+        "P3418"
+    ],
+    [
+        "declare independence",
+        "no-wikiID"
+    ],
+    [
+        "injury",
+        "P1339"
+    ],
+    [
+        "home arena start date",
+        "no-wikiID"
+    ],
+    [
+        "population",
+        "P1082"
+    ],
+    [
+        "based on','real life places'], ['Upland",
+        "no-wikiID"
+    ],
+    [
+        "KNVB Cup",
+        "no-wikiID"
+    ],
+    [
+        "K-tel'], ['Toyah! Toyah! Toyah!",
+        "no-wikiID"
+    ],
+    [
+        "availability','many countries']]  Text: The city of Tokyo is located in Japan. Triples: [['Tokyo",
+        "no-wikiID"
+    ],
+    [
+        "appeared in",
+        "P1441"
+    ],
+    [
+        "common name",
+        "P1843"
+    ],
+    [
+        "brick'], ['Great Wall of China','material",
+        "no-wikiID"
+    ],
+    [
+        "finishing third in the Polish top division'], ['Lechia Gdańsk','success",
+        "no-wikiID"
+    ],
+    [
+        "September 24, 2007'], ['The Big Bang Theory",
+        "no-wikiID"
+    ],
+    [
+        "home ground start date",
+        "no-wikiID"
+    ],
+    [
+        "First Indochina War'], ['French",
+        "no-wikiID"
+    ],
+    [
+        "1977'], ['Star Wars",
+        "no-wikiID"
+    ],
+    [
+        "effect','significant disruptions to global supply chains']]  Text: The COVID-19 pandemic has caused significant disruptions to global supply chains, including food shortages and economic instability. Triples: [['COVID-19 pandemic",
+        "no-wikiID"
+    ],
+    [
+        "lyrical theme",
+        "no-wikiID"
+    ],
+    [
+        "number of students",
+        "P2196"
+    ],
+    [
+        "operation",
+        "P2541"
+    ],
+    [
+        "type','mixed martial arts event']]  Text: The European Union is a political and economic union of 27 member states. Triples: [['European Union",
+        "no-wikiID"
+    ],
+    [
+        "conductor",
+        "P3300"
+    ],
+    [
+        "Speed']]  Text: The film is a comedy film directed by James Cameron. Triples: [['film",
+        "no-wikiID"
+    ],
+    [
+        "launch year",
+        "no-wikiID"
+    ],
+    [
+        "Öndurdís']]  Note: The text may contain multiple sentences, but the triples are extracted from each sentence individually. The triples are extracted based on the context of the sentence. For example, in the text \"The Amazon River flows through Brazil and Peru\", the word \"through\" implies a relationship between the Amazon River and the countries, so we extract the triples ['Amazon River",
+        "no-wikiID"
+    ],
+    [
+        "chart hits",
+        "no-wikiID"
+    ],
+    [
+        "plays for",
+        "P54"
+    ],
+    [
+        "not a sovereign state'], ['Lycia','status",
+        "no-wikiID"
+    ],
+    [
+        "broadcasting rights",
+        "no-wikiID"
+    ],
+    [
+        "larger company']]  Text: The company is a subsidiary of a larger company. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "July 12, 2011'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "positive'], ['Maladroit','sales",
+        "no-wikiID"
+    ],
+    [
+        "is','metropolis with a population of about 3.9 million with several international universities']  Note that the triples are extracted based on the grammar rules and the context of the text. The triples are not always exact matches with the original text. For example, the triple ['Maastricht",
+        "no-wikiID"
+    ],
+    [
+        "1']]  Text: The COVID-19 pandemic was caused by a virus that was first identified in Wuhan, China in December 2019.  Your answer:  [['COVID-19 pandemic",
+        "no-wikiID"
+    ],
+    [
+        "drummer",
+        "no-wikiID"
+    ],
+    [
+        "premiered",
+        "P4647"
+    ],
+    [
+        "1984'], ['Colts",
+        "no-wikiID"
+    ],
+    [
+        "number of users",
+        "P1833"
+    ],
+    [
+        "league",
+        "P118"
+    ],
+    [
+        "habitat",
+        "P2974"
+    ],
+    [
+        "Baidu Baike'], ['Baidu','service",
+        "no-wikiID"
+    ],
+    [
+        "ascent",
+        "no-wikiID"
+    ],
+    [
+        "Johnny\\'s decision to reopen Cobra Kai karate dojo'], ['Cobra Kai','re-examines','rekindling of his old rivalry with Daniel'], ['Cobra Kai','stars",
+        "no-wikiID"
+    ],
+    [
+        "chart",
+        "P457"
+    ],
+    [
+        "Google\\'s pairing application'], ['Wear OS",
+        "no-wikiID"
+    ],
+    [
+        "June 12, 2014'], ['2014 FIFA World Cup",
+        "no-wikiID"
+    ],
+    [
+        "owned",
+        "P127"
+    ],
+    [
+        "dobj",
+        "no-wikiID"
+    ],
+    [
+        "date",
+        "P585"
+    ],
+    [
+        "Library of Congress'],  ['Some Like It Hot','selection",
+        "no-wikiID"
+    ],
+    [
+        "Tim Gunn'], ['Project Runway','mentor",
+        "no-wikiID"
+    ],
+    [
+        "action",
+        "P9970"
+    ],
+    [
+        "first work",
+        "no-wikiID"
+    ],
+    [
+        "outcome",
+        "P793"
+    ],
+    [
+        "world\\'s biggest'], ['Great Barrier Reef",
+        "no-wikiID"
+    ],
+    [
+        "debut single",
+        "no-wikiID"
+    ],
+    [
+        "home matches",
+        "no-wikiID"
+    ],
+    [
+        "ordered for",
+        "no-wikiID"
+    ],
+    [
+        "Bill\\'s company']]  Text: The 2019-20 UEFA Champions League was the 65th season of the UEFA Champions League. Triples: [['2019-20 UEFA Champions League','season",
+        "no-wikiID"
+    ],
+    [
+        "July 24, 2021'], ['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "anthropomorphic black duck'], ['Daffy Dumas Horacio Tiberius Armando Sheldon Duck",
+        "no-wikiID"
+    ],
+    [
+        "DVD'], ['Sentai Filmworks','release type",
+        "no-wikiID"
+    ],
+    [
+        "globally']]  Text: The United States has a president and a vice president. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "consolidate protectorates",
+        "no-wikiID"
+    ],
+    [
+        "Dragon Age series'], ['BioWare",
+        "no-wikiID"
+    ],
+    [
+        "chemical symbol",
+        "P246"
+    ],
+    [
+        "date of death",
+        "P570"
+    ],
+    [
+        "cruise speed",
+        "P2217"
+    ],
+    [
+        "production place",
+        "P1071"
+    ],
+    [
+        "Ross O\\'Carroll-Kelly'], ['Normal Sheeple",
+        "no-wikiID"
+    ],
+    [
+        "Madeline Carroll'], ['The Spy Next Door','star",
+        "no-wikiID"
+    ],
+    [
+        "category",
+        "P910"
+    ],
+    [
+        "United States']]  Text: The city of New York is the most populous city in the United States, with a population of over 8.4 million people.  Your answer: [['New York",
+        "no-wikiID"
+    ],
+    [
+        "Wii Sports'], ['Wii Sports Resort','require accessory",
+        "no-wikiID"
+    ],
+    [
+        "chart success",
+        "no-wikiID"
+    ],
+    [
+        "China'], ['Acura','market",
+        "no-wikiID"
+    ],
+    [
+        "Boeing Commercial Airplanes'], ['Boeing 747",
+        "no-wikiID"
+    ],
+    [
+        "divided into",
+        "P150"
+    ],
+    [
+        "carried",
+        "no-wikiID"
+    ],
+    [
+        "feature','multiple gameplay modes'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "followed by",
+        "P156"
+    ],
+    [
+        "$100 billion']]  Text: The city of Paris is known for its beautiful architecture. Triples: [['Paris",
+        "no-wikiID"
+    ],
+    [
+        "declare",
+        "P2218"
+    ],
+    [
+        "year of award",
+        "no-wikiID"
+    ],
+    [
+        "France']]  Text: The 2020 Summer Olympics were held in Tokyo, Japan, from July 24 to August 9, and featured 33 sports and 339 events. Triples: [['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "period",
+        "P2348"
+    ],
+    [
+        "2014']]  Text: The company's third product was a smart display called Echo Show, which was released in 2017. Triples: [['Amazon",
+        "no-wikiID"
+    ],
+    [
+        "permission",
+        "no-wikiID"
+    ],
+    [
+        "our']]  Text: The chemical symbol for gold is Au. Triples: [['gold",
+        "no-wikiID"
+    ],
+    [
+        "July 12, 2010'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "launch",
+        "P577"
+    ],
+    [
+        "N']]  Text: The popular video game Overwatch was created by Blizzard Entertainment. Triples: [['Overwatch",
+        "no-wikiID"
+    ],
+    [
+        "July 23, 2021'], ['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "episode number",
+        "no-wikiID"
+    ],
+    [
+        "type','motorcycle speedway contest'], ['SGB Championship Riders\\' Individual Championship",
+        "no-wikiID"
+    ],
+    [
+        "conference",
+        "P6357"
+    ],
+    [
+        "episode count",
+        "P1113"
+    ],
+    [
+        "Apple Inc.'], ['Apple Pencil",
+        "no-wikiID"
+    ],
+    [
+        "affected globally",
+        "no-wikiID"
+    ],
+    [
+        "commercial'], ['Green Album','reviews",
+        "no-wikiID"
+    ],
+    [
+        "award",
+        "P166"
+    ],
+    [
+        "2012']]  Text: The company is located in California. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "University of Vermont'], ['1914 Vermont Green and Gold football team",
+        "no-wikiID"
+    ],
+    [
+        "crew",
+        "P1083"
+    ],
+    [
+        "country",
+        "P17"
+    ],
+    [
+        "inducted into",
+        "no-wikiID"
+    ],
+    [
+        "derived from",
+        "P144"
+    ],
+    [
+        "disband",
+        "P576"
+    ],
+    [
+        "location','summit saddle'], ['Dip Top Peak",
+        "no-wikiID"
+    ],
+    [
+        "July 24, 2020'], ['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "final season",
+        "no-wikiID"
+    ],
+    [
+        "world\\'s biggest']]  Text: The International Space Station (ISS) is a habitable artificial satellite in low Earth orbit. Triples: [['International Space Station",
+        "no-wikiID"
+    ],
+    [
+        "linked to",
+        "no-wikiID"
+    ],
+    [
+        "type','supreme authority of the Olympic Games']]  Text: The COVID-19 virus is highly contagious and can spread through respiratory droplets, contact, and contaminated surfaces. Triples: [['COVID-19 virus",
+        "no-wikiID"
+    ],
+    [
+        "biographer",
+        "no-wikiID"
+    ],
+    [
+        "word meaning",
+        "no-wikiID"
+    ],
+    [
+        "predecessor",
+        "P155"
+    ],
+    [
+        "2001'], ['Game Boy",
+        "no-wikiID"
+    ],
+    [
+        "declined','second half of the 1990s'], ['Florida",
+        "no-wikiID"
+    ],
+    [
+        "ruled",
+        "no-wikiID"
+    ],
+    [
+        "designed for",
+        "P2360"
+    ],
+    [
+        "type','mobile operating system'], ['Tizen",
+        "no-wikiID"
+    ],
+    [
+        "1861'], ['American Civil War",
+        "no-wikiID"
+    ],
+    [
+        "third tier of Swedish football",
+        "no-wikiID"
+    ],
+    [
+        "follow-up album",
+        "no-wikiID"
+    ],
+    [
+        "name in Greek",
+        "no-wikiID"
+    ],
+    [
+        "EOS Blockchain'], ['item",
+        "no-wikiID"
+    ],
+    [
+        "economy','real estate'], ['Allahabad",
+        "no-wikiID"
+    ],
+    [
+        "Shōnen Ace'], ['manga series adaptation','start date",
+        "no-wikiID"
+    ],
+    [
+        "animation",
+        "P10"
+    ],
+    [
+        "Greenlandian'], [['Holocene','split",
+        "no-wikiID"
+    ],
+    [
+        "The Miracle'], ['Mohegan Sun",
+        "no-wikiID"
+    ],
+    [
+        "industry",
+        "P452"
+    ],
+    [
+        "Maurice Gibb'], ['Bee Gees",
+        "no-wikiID"
+    ],
+    [
+        "tapirs'], ['Equidae','related to",
+        "no-wikiID"
+    ],
+    [
+        "fever'], ['Lyme disease','symptom",
+        "no-wikiID"
+    ],
+    [
+        "10.2'], ['Nikon D200",
+        "no-wikiID"
+    ],
+    [
+        "classes",
+        "no-wikiID"
+    ],
+    [
+        "independence date",
+        "no-wikiID"
+    ],
+    [
+        "princes of the Lazes'], ['Empire of Trebizond','state",
+        "no-wikiID"
+    ],
+    [
+        "Pharaoh Akhenaten'], ['Neferneferuaten Nefertiti','religion",
+        "no-wikiID"
+    ],
+    [
+        "2004'], ['Project Runway",
+        "no-wikiID"
+    ],
+    [
+        "2015'], ['Microsoft Edge",
+        "no-wikiID"
+    ],
+    [
+        "'], ['Mesoarchean",
+        "no-wikiID"
+    ],
+    [
+        "battery life",
+        "P12221"
+    ],
+    [
+        "Alina Foley'], ['The Spy Next Door','star",
+        "no-wikiID"
+    ],
+    [
+        "dramatized by",
+        "no-wikiID"
+    ],
+    [
+        "10 billion'], ['company','revenue year",
+        "no-wikiID"
+    ],
+    [
+        "9–1–2'], ['1977 Louisiana Tech Bulldogs football team",
+        "no-wikiID"
+    ],
+    [
+        "include",
+        "P5008"
+    ],
+    [
+        "dedicated to",
+        "P825"
+    ],
+    [
+        "year proposed",
+        "no-wikiID"
+    ],
+    [
+        "head coach",
+        "P286"
+    ],
+    [
+        "fever'], 'COVID-19' is the subject,'symptom' is the predicate, and 'fever' is the object. In the triple ['American Civil War','start date",
+        "no-wikiID"
+    ],
+    [
+        "best selling video game",
+        "no-wikiID"
+    ],
+    [
+        "constitute",
+        "P2670"
+    ],
+    [
+        "affected','many countries'], ['COVID-19 pandemic",
+        "no-wikiID"
+    ],
+    [
+        "produced brands",
+        "no-wikiID"
+    ],
+    [
+        "employer",
+        "P108"
+    ],
+    [
+        "became well known through",
+        "no-wikiID"
+    ],
+    [
+        "previous arena",
+        "no-wikiID"
+    ],
+    [
+        "enact','sweeping religious reforms'], ['Hezekiah','mandate','sole worship of Yahweh'], ['Hezekiah",
+        "no-wikiID"
+    ],
+    [
+        "December 22, 2010'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "home stadium",
+        "no-wikiID"
+    ],
+    [
+        "construction','several Chinese dynasties']]  Text: The COVID-19 vaccine is available in various forms, including injectable and oral forms. Triples: [['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "1977'], ['Rumours",
+        "no-wikiID"
+    ],
+    [
+        "Beatles']]  Text: The book \"1984\" was written by George Orwell. Triples: [['1984",
+        "no-wikiID"
+    ],
+    [
+        "world's largest']]  Text: The world's largest waterfall, by total area of the falls, is Inga Falls. Triples: [['Inga Falls",
+        "no-wikiID"
+    ],
+    [
+        "Ed Solomon'], ['Now You See Me 2','story",
+        "no-wikiID"
+    ],
+    [
+        "name in Hebrew",
+        "no-wikiID"
+    ],
+    [
+        "Internet-related services and products and artificial intelligence (AI)'], ['Baidu",
+        "no-wikiID"
+    ],
+    [
+        "The Mummy Returns']]  Text: The 2019 film \"Avengers: Endgame\" is the 22nd film in the Marvel Cinematic Universe (MCU) and is directed by Anthony Russo and Joe Russo. Triples: [['Avengers: Endgame",
+        "no-wikiID"
+    ],
+    [
+        "championships",
+        "no-wikiID"
+    ],
+    [
+        "Holocene glacial retreat'], ['Holocene','start date",
+        "no-wikiID"
+    ],
+    [
+        "used for",
+        "P642"
+    ],
+    [
+        "journey home",
+        "no-wikiID"
+    ],
+    [
+        "co-writer",
+        "no-wikiID"
+    ],
+    [
+        "component','several golf courses'], ['Walt Disney World Resort",
+        "no-wikiID"
+    ],
+    [
+        "North & Central America and the Caribbean'], ['FIFA','membership",
+        "P5944"
+    ],
+    [
+        "edition",
+        "P437"
+    ],
+    [
+        "among 1000 most popular websites worldwide'], ['Panoramio",
+        "no-wikiID"
+    ],
+    [
+        "rash']]  Text: The Great Barrier Reef is located in Australia. Triples: [['Great Barrier Reef",
+        "no-wikiID"
+    ],
+    [
+        "genre','satirical office humor'], ['Dilbert','main character",
+        "no-wikiID"
+    ],
+    [
+        "foil",
+        "P1433"
+    ],
+    [
+        "winner",
+        "P1346"
+    ],
+    [
+        "Windows Live OneCare'], ['Microsoft Security Essentials','replaced",
+        "no-wikiID"
+    ],
+    [
+        "conceived by",
+        "no-wikiID"
+    ],
+    [
+        "developed",
+        "P61"
+    ],
+    [
+        "Jade Empire'], ['BioWare','made",
+        "no-wikiID"
+    ],
+    [
+        "drive type",
+        "no-wikiID"
+    ],
+    [
+        "written date",
+        "no-wikiID"
+    ],
+    [
+        "purchased",
+        "P7888"
+    ],
+    [
+        "based in",
+        "P276"
+    ],
+    [
+        "acquire from",
+        "no-wikiID"
+    ],
+    [
+        "production company",
+        "P272"
+    ],
+    [
+        "corresponds",
+        "no-wikiID"
+    ],
+    [
+        "2020'], ['I Care a Lot",
+        "no-wikiID"
+    ],
+    [
+        "built",
+        "P571"
+    ],
+    [
+        "7'], ['Admiral Peralta','series",
+        "no-wikiID"
+    ],
+    [
+        "product description",
+        "no-wikiID"
+    ],
+    [
+        "country','symptom','start date",
+        "no-wikiID"
+    ],
+    [
+        "type of",
+        "P279"
+    ],
+    [
+        "home field",
+        "P115"
+    ],
+    [
+        "emperor'], ['The Emperor's New Clothes",
+        "no-wikiID"
+    ],
+    [
+        "division of",
+        "no-wikiID"
+    ],
+    [
+        "first episode",
+        "P4584"
+    ],
+    [
+        "quarterback",
+        "no-wikiID"
+    ],
+    [
+        "COVID-19 pandemic']]  Text: The 2022 FIFA World Cup will be the 22nd FIFA World Cup, the quadrennial international men's association football tournament contested by the national teams of the member associations of FIFA. Triples: [['2022 FIFA World Cup",
+        "no-wikiID"
+    ],
+    [
+        "origin",
+        "P248"
+    ],
+    [
+        "headquarters",
+        "P159"
+    ],
+    [
+        "copyright'], ['Creative Commons','relationship",
+        "no-wikiID"
+    ],
+    [
+        "composition",
+        "P435"
+    ],
+    [
+        "oil reserves','sixteenth-largest'], ['Algeria",
+        "no-wikiID"
+    ],
+    [
+        "end date",
+        "P582"
+    ],
+    [
+        "fever'], ['COVID-19','symptom",
+        "no-wikiID"
+    ],
+    [
+        "product','services']]  Text: The company's CEO is John Smith. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "director",
+        "P57"
+    ],
+    [
+        "current stadium",
+        "no-wikiID"
+    ],
+    [
+        "Penn\\'s Woods']]  Text: The United States is a federal republic with 50 states, a federal district, and several territories. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "Far Cry'], ['Far Cry 3','setting",
+        "no-wikiID"
+    ],
+    [
+        "band",
+        "P463"
+    ],
+    [
+        "diplomacy','recognised by France'], ['Confederate Ireland",
+        "no-wikiID"
+    ],
+    [
+        "partner",
+        "P451"
+    ],
+    [
+        "hub",
+        "P113"
+    ],
+    [
+        "university",
+        "P69"
+    ],
+    [
+        "largest'], ['New York",
+        "no-wikiID"
+    ],
+    [
+        "worst film ever",
+        "no-wikiID"
+    ],
+    [
+        "Faridabad'], ['Haryana",
+        "no-wikiID"
+    ],
+    [
+        "describes",
+        "P921"
+    ],
+    [
+        "Reuben Award",
+        "no-wikiID"
+    ],
+    [
+        "hundreds'], ['Dilbert','medium",
+        "no-wikiID"
+    ],
+    [
+        "rival",
+        "P7047"
+    ],
+    [
+        "available on','many platforms'], ['C++",
+        "no-wikiID"
+    ],
+    [
+        "1910 college football season'], ['1910 Vermont Green and Gold football team",
+        "no-wikiID"
+    ],
+    [
+        "worldwide']]  Text: The COVID-19 pandemic has caused widespread economic disruption globally. Triples: [['COVID-19 pandemic",
+        "no-wikiID"
+    ],
+    [
+        "65th'], ['2019–2020 UEFA Champions League",
+        "no-wikiID"
+    ],
+    [
+        "formation date",
+        "P571"
+    ],
+    [
+        "office','mayor']]  Text: The city has a mayor. The mayor is named John. Triples: [['the city",
+        "no-wikiID"
+    ],
+    [
+        "20%'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "capacity",
+        "P1083"
+    ],
+    [
+        "Grammy Award",
+        "P7303"
+    ],
+    [
+        "intended use",
+        "no-wikiID"
+    ],
+    [
+        "adapted from",
+        "P144"
+    ],
+    [
+        "Billy Wilder'], ['Some Like It Hot','screenplay by",
+        "no-wikiID"
+    ],
+    [
+        "compilation album",
+        "no-wikiID"
+    ],
+    [
+        "Ishaq ibn Ali'], ['Ibrahim ibn Tashfin",
+        "no-wikiID"
+    ],
+    [
+        "Auxiliary Services Department of the University of Southern California'], ['stadium",
+        "no-wikiID"
+    ],
+    [
+        "based on",
+        "P144"
+    ],
+    [
+        "year of first build",
+        "no-wikiID"
+    ],
+    [
+        "combination",
+        "P4324"
+    ],
+    [
+        "prize",
+        "P166"
+    ],
+    [
+        "includes",
+        "P527"
+    ],
+    [
+        "birth place",
+        "P19"
+    ],
+    [
+        "British",
+        "P613"
+    ],
+    [
+        "tributary",
+        "P974"
+    ],
+    [
+        "EA Pacific'], ['Westwood Studios, Inc.','merger",
+        "no-wikiID"
+    ],
+    [
+        "last held",
+        "no-wikiID"
+    ],
+    [
+        "Amber Valletta'], ['The Spy Next Door','star",
+        "no-wikiID"
+    ],
+    [
+        "parent company",
+        "P749"
+    ],
+    [
+        "PolyGram'], ['Island Records",
+        "no-wikiID"
+    ],
+    [
+        "adjacent to",
+        "P47"
+    ],
+    [
+        "incorporated",
+        "P10786"
+    ],
+    [
+        "1926'],  ['Poor Mrs. Jones",
+        "no-wikiID"
+    ],
+    [
+        "premiere date",
+        "P1191"
+    ],
+    [
+        "book",
+        "P195"
+    ],
+    [
+        "adults'], ['COVID-19 vaccine','recipient",
+        "no-wikiID"
+    ],
+    [
+        "covers",
+        "no-wikiID"
+    ],
+    [
+        "longest running minor league basketball team in the United States']]  Text: The capital of France is Paris. Triples: [['France",
+        "no-wikiID"
+    ],
+    [
+        "color",
+        "P462"
+    ],
+    [
+        "perform",
+        "P175"
+    ],
+    [
+        "acquisition date",
+        "no-wikiID"
+    ],
+    [
+        "award','several awards']]  Text: The 2020 United States presidential election was the 59th presidential election in the United States. The election was held on November 3, 2020. The candidates were Donald Trump and Joe Biden. The election was won by Joe Biden. Triples: [['2020 United States presidential election",
+        "no-wikiID"
+    ],
+    [
+        "death year",
+        "no-wikiID"
+    ],
+    [
+        "1990'], ['The movie",
+        "no-wikiID"
+    ],
+    [
+        "highest attendance for a club in their normal home stadium in English club football'],  ['Maine Road','record date",
+        "no-wikiID"
+    ],
+    [
+        "has",
+        "P31"
+    ],
+    [
+        "family','many other species known only from fossils'], ['Equidae",
+        "no-wikiID"
+    ],
+    [
+        "as",
+        "P1932"
+    ],
+    [
+        "Molly Shannon'], ['Never Been Kissed','stars",
+        "no-wikiID"
+    ],
+    [
+        "Sorbian'], ['Cottbus",
+        "no-wikiID"
+    ],
+    [
+        "villages",
+        "no-wikiID"
+    ],
+    [
+        "product usage','many people']]  Text: The company has a number of products that are used by many people. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "Return of the Spice Girls'], ['Spice Girls','reunion concert tour duration",
+        "no-wikiID"
+    ],
+    [
+        "C']]  Text: The popular social media platform Twitter was founded by Jack Dorsey. Triples: [['Twitter",
+        "no-wikiID"
+    ],
+    [
+        "capital of",
+        "P1376"
+    ],
+    [
+        "is part of",
+        "P361"
+    ],
+    [
+        "hiatus",
+        "no-wikiID"
+    ],
+    [
+        "1994-95'], ['Coliseum",
+        "no-wikiID"
+    ],
+    [
+        "concentrate','marketing OPENSTEP'], ['NeXT",
+        "no-wikiID"
+    ],
+    [
+        "club",
+        "P54"
+    ],
+    [
+        "coach",
+        "P286"
+    ],
+    [
+        "investment','media brands'], ['AOL",
+        "no-wikiID"
+    ],
+    [
+        "2020'], ['The Midnight Sky','main character",
+        "no-wikiID"
+    ],
+    [
+        "actor",
+        "P175"
+    ],
+    [
+        "Au']]  Text: The average annual rainfall in London is approximately 600 mm. Triples: [['London",
+        "no-wikiID"
+    ],
+    [
+        "Dowoon'], ['Even of Day",
+        "no-wikiID"
+    ],
+    [
+        "number of restaurants",
+        "no-wikiID"
+    ],
+    [
+        "unfinished']]  Note: The text may contain multiple sentences, but we only need to extract triples from each sentence. The triples are extracted based on the following rules: - If the sentence contains a noun phrase followed by a verb phrase, the noun phrase is the subject and the verb phrase is the predicate. - If the sentence contains a verb phrase followed by a noun phrase, the verb phrase is the predicate and the noun phrase is the object. - If the sentence contains a verb phrase followed by a prepositional phrase, the verb phrase is the predicate and the prepositional phrase is the object. - If the sentence contains a noun phrase followed by a prepositional phrase, the noun phrase is the subject and the prepositional phrase is the predicate. - If the sentence contains a verb phrase followed by a noun phrase and a prepositional phrase, the verb phrase is the predicate, the noun phrase is the object, and the prepositional phrase is the object. - If the sentence contains a noun phrase followed by a verb phrase and a prepositional phrase, the noun phrase is the subject, the verb phrase is the predicate, and the prepositional phrase is the predicate.  Note: The triples are in the format of [['subject",
+        "no-wikiID"
+    ],
+    [
+        "formula",
+        "P274"
+    ],
+    [
+        "Peromyscus arcticus'], ['Yukon deermouse",
+        "no-wikiID"
+    ],
+    [
+        "position','magister officiorum'], ['Anicius Manlius Severinus Boethius",
+        "no-wikiID"
+    ],
+    [
+        "debut album",
+        "no-wikiID"
+    ],
+    [
+        "Rosamund Pike'], ['I Care a Lot','stars",
+        "no-wikiID"
+    ],
+    [
+        "ruled with",
+        "no-wikiID"
+    ],
+    [
+        "World Cup",
+        "no-wikiID"
+    ],
+    [
+        "world's biggest'], ['Great Barrier Reef",
+        "no-wikiID"
+    ],
+    [
+        "play",
+        "P641"
+    ],
+    [
+        "first detected in",
+        "no-wikiID"
+    ],
+    [
+        "placement",
+        "no-wikiID"
+    ],
+    [
+        "governing body",
+        "P797"
+    ],
+    [
+        "candidate for",
+        "no-wikiID"
+    ],
+    [
+        "album by",
+        "no-wikiID"
+    ],
+    [
+        "achieved",
+        "no-wikiID"
+    ],
+    [
+        "type of government",
+        "P122"
+    ],
+    [
+        "genre','science fiction'], ['The Caves of Steel",
+        "no-wikiID"
+    ],
+    [
+        "river",
+        "P403"
+    ],
+    [
+        "gameplay",
+        "P404"
+    ],
+    [
+        "affected','many countries']]  Text: The COVID-19 pandemic has affected many countries, including the United States. Triples: [['COVID-19 pandemic",
+        "no-wikiID"
+    ],
+    [
+        "word origin",
+        "P5191"
+    ],
+    [
+        "March 21, 2001'], ['GBA','release date",
+        "no-wikiID"
+    ],
+    [
+        "late October 2008'], ['The Spy Next Door",
+        "no-wikiID"
+    ],
+    [
+        "habitat','marine life'], ['Great Barrier Reef",
+        "no-wikiID"
+    ],
+    [
+        "first manned mission to land on the Moon']]  Text: The chemical symbol for gold is Au. Triples: [['gold','symbol",
+        "no-wikiID"
+    ],
+    [
+        "description",
+        "P9753"
+    ],
+    [
+        "1998–99 NCAA Division I men's basketball season'], ['1998–99 Oklahoma Sooners men's basketball team",
+        "no-wikiID"
+    ],
+    [
+        "1990'], ['Game Boy','region",
+        "no-wikiID"
+    ],
+    [
+        "acting career','minor theater productions'], ['Davis",
+        "no-wikiID"
+    ],
+    [
+        "destination','moon']]  Text: The United States of America is a federal republic. Triples: [['United States of America",
+        "no-wikiID"
+    ],
+    [
+        "finished in 14th place']]  Text: The company, founded in 1995, is a global technology company that specializes in software development. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "became",
+        "no-wikiID"
+    ],
+    [
+        "number of states",
+        "no-wikiID"
+    ],
+    [
+        "previous league",
+        "no-wikiID"
+    ],
+    [
+        "Woody Harrelson'], ['Natural Born Killers','starring",
+        "no-wikiID"
+    ],
+    [
+        "number of sports",
+        "P4909"
+    ],
+    [
+        "average temperature",
+        "no-wikiID"
+    ],
+    [
+        "protocol",
+        "P2700"
+    ],
+    [
+        "follow-up",
+        "no-wikiID"
+    ],
+    [
+        "2019'], ['film trilogy",
+        "no-wikiID"
+    ],
+    [
+        "founded by",
+        "P112"
+    ],
+    [
+        "Finland'],  ['Kontinental Hockey League','member",
+        "no-wikiID"
+    ],
+    [
+        "are",
+        "P518"
+    ],
+    [
+        "highest in the world']]  Text: The 2019 FIFA Women's World Cup was won by the United States. Triples: [['2019 FIFA Women\\'s World Cup",
+        "no-wikiID"
+    ],
+    [
+        "planning",
+        "no-wikiID"
+    ],
+    [
+        "first iteration",
+        "no-wikiID"
+    ],
+    [
+        "exchangeable','real money'], ['Upland",
+        "no-wikiID"
+    ],
+    [
+        "New York Knicks'], ['New York Rangers','shared league",
+        "no-wikiID"
+    ],
+    [
+        "Odin'], ['Skaði",
+        "no-wikiID"
+    ],
+    [
+        "annex",
+        "P7888"
+    ],
+    [
+        "decision",
+        "no-wikiID"
+    ],
+    [
+        "cause",
+        "P828"
+    ],
+    [
+        "area",
+        "P518"
+    ],
+    [
+        "current team",
+        "no-wikiID"
+    ],
+    [
+        "United States'], ['New York",
+        "no-wikiID"
+    ],
+    [
+        "effect','significant impact on global supply chains']]  Text: The 2020 Summer Olympics, officially known as the Games of the XXXII Olympiad, were held in Tokyo, Japan. The opening ceremony took place on July 23, 2021. The closing ceremony took place on August 8, 2021. Triples: [['2020 Summer Olympics",
+        "no-wikiID"
+    ],
+    [
+        "publish date",
+        "no-wikiID"
+    ],
+    [
+        "NCAA Tournament bid",
+        "no-wikiID"
+    ],
+    [
+        "runs",
+        "P2389"
+    ],
+    [
+        "located in",
+        "P276"
+    ],
+    [
+        "new date",
+        "no-wikiID"
+    ],
+    [
+        "debut date",
+        "P10673"
+    ],
+    [
+        "over five-million albums'], ['Deicide','sold",
+        "no-wikiID"
+    ],
+    [
+        "initially powered by",
+        "no-wikiID"
+    ],
+    [
+        "first flight",
+        "P606"
+    ],
+    [
+        "İsmail Ege Şaşmaz'], ['Mehmetçik Kûtulamâre",
+        "no-wikiID"
+    ],
+    [
+        "inspired by",
+        "P144"
+    ],
+    [
+        "directed",
+        "P57"
+    ],
+    [
+        "also in",
+        "no-wikiID"
+    ],
+    [
+        "time period','modern period'], [['Odin",
+        "no-wikiID"
+    ],
+    [
+        "body part",
+        "no-wikiID"
+    ],
+    [
+        "form','mythological god'], ['Njörðr",
+        "no-wikiID"
+    ],
+    [
+        "founding organization",
+        "no-wikiID"
+    ],
+    [
+        "lyrical content",
+        "no-wikiID"
+    ],
+    [
+        "civilization",
+        "P2596"
+    ],
+    [
+        "“Putting Scotland Ahead!”'], ['Geoffrey Alexander Campbell",
+        "no-wikiID"
+    ],
+    [
+        "named",
+        "P407"
+    ],
+    [
+        "advocate','religious freedom'], ['William Penn','relation",
+        "no-wikiID"
+    ],
+    [
+        "finishing third in the league'], ['Lechia Gdańsk','success",
+        "no-wikiID"
+    ],
+    [
+        "Medicine at Midnight']]  Text: The United States is a country in North America. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "type','supranational organization'], ['European Union",
+        "no-wikiID"
+    ],
+    [
+        "hundred times'], ['Baidu",
+        "no-wikiID"
+    ],
+    [
+        "product','servers'], ['Lenovo Group Limited",
+        "no-wikiID"
+    ],
+    [
+        "1929'], ['Great Depression",
+        "no-wikiID"
+    ],
+    [
+        "announced date",
+        "no-wikiID"
+    ],
+    [
+        "overall episode number",
+        "no-wikiID"
+    ],
+    [
+        "participants",
+        "P1132"
+    ],
+    [
+        "climber",
+        "no-wikiID"
+    ],
+    [
+        "Long Island','research facility'], ['Stony Brook University",
+        "no-wikiID"
+    ],
+    [
+        "disease",
+        "P1050"
+    ],
+    [
+        "Oceania'], ['IHF','membership",
+        "no-wikiID"
+    ],
+    [
+        "largest sheep company'], ['Punta Arenas','sheep company",
+        "no-wikiID"
+    ],
+    [
+        "South America']]  Text: The United States is a country located in North America. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "has','music'], ['airport','serves",
+        "no-wikiID"
+    ],
+    [
+        "department",
+        "P2253"
+    ],
+    [
+        "Jane Fonda and Lily Tomlin'], ['Grace and Frankie",
+        "no-wikiID"
+    ],
+    [
+        "Synthélabo'], ['Sanofi S.A.','merged with",
+        "no-wikiID"
+    ],
+    [
+        "name in inscriptions",
+        "no-wikiID"
+    ],
+    [
+        "home stadium city",
+        "no-wikiID"
+    ],
+    [
+        "founding year",
+        "no-wikiID"
+    ],
+    [
+        "home",
+        "P263"
+    ],
+    [
+        "1905 college football season'], ['Vermont Green and Gold football team",
+        "no-wikiID"
+    ],
+    [
+        "postponed date",
+        "no-wikiID"
+    ],
+    [
+        "Kiedis'], ['Red Hot Chili Peppers','member",
+        "no-wikiID"
+    ],
+    [
+        "certification",
+        "P5021"
+    ],
+    [
+        "Raad van Commissarissen'], ['De Nederlandsche Bank NV",
+        "no-wikiID"
+    ],
+    [
+        "availability','many countries']]  Text: The COVID-19 vaccine is administered by a healthcare professional and is available in many countries. Triples: [['COVID-19 vaccine",
+        "no-wikiID"
+    ],
+    [
+        "coating','milk chocolate'], ['Snickers",
+        "no-wikiID"
+    ],
+    [
+        "Marguerite Duras'], ['Hiroshima mon amour",
+        "no-wikiID"
+    ],
+    [
+        "influence date",
+        "no-wikiID"
+    ],
+    [
+        "The Parisian'], ['Le Parisien",
+        "no-wikiID"
+    ],
+    [
+        "Farina'], ['Farina railway station",
+        "no-wikiID"
+    ],
+    [
+        "era",
+        "P2348"
+    ],
+    [
+        "O']]  Text: The popular video game World of Warcraft was created by Blizzard Entertainment. Triples: [['World of Warcraft",
+        "no-wikiID"
+    ],
+    [
+        "planner",
+        "no-wikiID"
+    ],
+    [
+        "2015'], ['second manga adaptation",
+        "no-wikiID"
+    ],
+    [
+        "history",
+        "P1614"
+    ],
+    [
+        "Asia'], ['FIFA','membership",
+        "no-wikiID"
+    ],
+    [
+        "first golden age",
+        "no-wikiID"
+    ],
+    [
+        "on",
+        "P585"
+    ],
+    [
+        "Creative Commons'], ['David A. Wiley",
+        "no-wikiID"
+    ],
+    [
+        "autobiography",
+        "no-wikiID"
+    ],
+    [
+        "compete in",
+        "no-wikiID"
+    ],
+    [
+        "temperature in winter",
+        "no-wikiID"
+    ],
+    [
+        "current captain",
+        "no-wikiID"
+    ],
+    [
+        "album without Halliwell release date",
+        "no-wikiID"
+    ],
+    [
+        "became','most nominated Black actress in the history of the Academy Awards'],  [['Davis",
+        "no-wikiID"
+    ],
+    [
+        "indictment','money laundering'], ['Swiss authorities",
+        "no-wikiID"
+    ],
+    [
+        "First AFL-NFL World Championship Game'], ['stadium','site of",
+        "no-wikiID"
+    ],
+    [
+        "contains",
+        "P527"
+    ],
+    [
+        "November 2013'], ['Warframe",
+        "no-wikiID"
+    ],
+    [
+        "co-written by",
+        "no-wikiID"
+    ],
+    [
+        "client state",
+        "no-wikiID"
+    ],
+    [
+        "number",
+        "P1545"
+    ],
+    [
+        "property",
+        "P1687"
+    ],
+    [
+        "death cause",
+        "P509"
+    ],
+    [
+        "date of birth",
+        "P569"
+    ],
+    [
+        "type','single-seat, twin jet engine ground-attack aircraft'], ['Nanchang Q-5",
+        "no-wikiID"
+    ],
+    [
+        "home to",
+        "P551"
+    ],
+    [
+        "Western Union'], ['Western European Union",
+        "no-wikiID"
+    ],
+    [
+        "licensee']]  Note that the text is quite long, but the triples extracted are accurate and relevant. The triples are in the format of [[subject, predicate, object]]. The subject is the entity being described, the predicate is the relationship between the subject and the object, and the object is the entity being described. For example, the triple [['Creative Commons",
+        "no-wikiID"
+    ],
+    [
+        "2014'], ['Dracula Untold",
+        "no-wikiID"
+    ],
+    [
+        "part of','sixth generation of video game consoles'], ['GBA','model",
+        "no-wikiID"
+    ],
+    [
+        "genre','science fiction'], ['The Midnight Sky",
+        "no-wikiID"
+    ],
+    [
+        "type','mid/full-sized luxury vehicle'],  ['Porsche Panamera','segment",
+        "no-wikiID"
+    ],
+    [
+        "group of teenagers'], ['Code Lyoko','subject",
+        "no-wikiID"
+    ],
+    [
+        "conquered by",
+        "no-wikiID"
+    ],
+    [
+        "are irresponsibly glorified by the mass media']]  Text: The first human settlement in Antarctica was established in 1957. Triples: [['first human settlement in Antarctica",
+        "no-wikiID"
+    ],
+    [
+        "in airline service",
+        "no-wikiID"
+    ],
+    [
+        "on loan from",
+        "no-wikiID"
+    ],
+    [
+        "first season",
+        "no-wikiID"
+    ],
+    [
+        "Playa Vista'], ['Santa Monica Studio",
+        "no-wikiID"
+    ],
+    [
+        "Pacific Ocean'], ['ANZUS Treaty','region",
+        "no-wikiID"
+    ],
+    [
+        "written by",
+        "P50"
+    ],
+    [
+        "frequency",
+        "P5102"
+    ],
+    [
+        "currency",
+        "P38"
+    ],
+    [
+        "king of",
+        "no-wikiID"
+    ],
+    [
+        "event','restoration of the Dominican Republic'], ['Gregorio Luperón",
+        "no-wikiID"
+    ],
+    [
+        "classification",
+        "P10129"
+    ],
+    [
+        "god",
+        "P1290"
+    ],
+    [
+        "association football department",
+        "no-wikiID"
+    ],
+    [
+        "profession','singer'], ['Tove Lo",
+        "no-wikiID"
+    ],
+    [
+        "first delivery",
+        "no-wikiID"
+    ],
+    [
+        "David Arquette'], ['Never Been Kissed','stars",
+        "no-wikiID"
+    ],
+    [
+        "previous work','software company']]  Text: The United States has a population of approximately 331 million people. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "May 1998'], ['Spice Girls",
+        "no-wikiID"
+    ],
+    [
+        "largest in the world'], ['Amazon rainforest",
+        "no-wikiID"
+    ],
+    [
+        "launched by",
+        "no-wikiID"
+    ],
+    [
+        "number of buildings",
+        "no-wikiID"
+    ],
+    [
+        "Meghalayan'], [['Holocene",
+        "no-wikiID"
+    ],
+    [
+        "journey home'], ['The Odyssey",
+        "no-wikiID"
+    ],
+    [
+        "directors",
+        "no-wikiID"
+    ],
+    [
+        "theory','relativity']]  Text: The chemical compound water is composed of two hydrogen atoms and one oxygen atom. Triples: [['water",
+        "no-wikiID"
+    ],
+    [
+        "close",
+        "P582"
+    ],
+    [
+        "Polish Socialist Party'], ['Polish Workers\\' Party','merged with",
+        "no-wikiID"
+    ],
+    [
+        "categories",
+        "P9926"
+    ],
+    [
+        "worst film ever made",
+        "no-wikiID"
+    ],
+    [
+        "rugby union'], ['Arthur Browning",
+        "no-wikiID"
+    ],
+    [
+        "NASA'], ['first moon landing",
+        "no-wikiID"
+    ],
+    [
+        "range",
+        "P4552"
+    ],
+    [
+        "prophesied",
+        "no-wikiID"
+    ],
+    [
+        "geography','mountains'], ['United States",
+        "no-wikiID"
+    ],
+    [
+        "part",
+        "P1107"
+    ],
+    [
+        "cloud computing']]  Text: The company was founded in 2000 and is a technology company. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "property','simple'], ['English interjections",
+        "no-wikiID"
+    ],
+    [
+        "position",
+        "P625"
+    ],
+    [
+        "genre','short story'], ['The Tell-Tale Heart",
+        "no-wikiID"
+    ],
+    [
+        "browser",
+        "no-wikiID"
+    ],
+    [
+        "Long Island','research facility'], ['City University of New York",
+        "no-wikiID"
+    ],
+    [
+        "1978-79'], ['The Dallas Stars','relocation date",
+        "no-wikiID"
+    ],
+    [
+        "cultural icon",
+        "no-wikiID"
+    ],
+    [
+        "approval",
+        "P6193"
+    ],
+    [
+        "league division",
+        "no-wikiID"
+    ],
+    [
+        "Rwanda'], ['Rwanda Billie Jean King Cup team",
+        "no-wikiID"
+    ],
+    [
+        "'], ['Cambysene",
+        "no-wikiID"
+    ],
+    [
+        "office space",
+        "no-wikiID"
+    ],
+    [
+        "previous name",
+        "no-wikiID"
+    ],
+    [
+        "SAirlines'], ['SAirlines",
+        "no-wikiID"
+    ],
+    [
+        "owner",
+        "P127"
+    ],
+    [
+        "world\\'s biggest']]  Text: The University of California, Berkeley is a public research university located in Berkeley, California. Triples: [['University of California, Berkeley",
+        "no-wikiID"
+    ],
+    [
+        "host venue for",
+        "no-wikiID"
+    ],
+    [
+        "official soundtrack album release date",
+        "no-wikiID"
+    ],
+    [
+        "April 2011'], ['Peugeot 408",
+        "no-wikiID"
+    ],
+    [
+        "largest'], ['Algeria",
+        "no-wikiID"
+    ],
+    [
+        "Newspaper Comic Strip Award",
+        "no-wikiID"
+    ],
+    [
+        "March 2011'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "design feature','re-used wing design from XB-15 bomber prototype'], ['Boeing 314 Clipper",
+        "no-wikiID"
+    ],
+    [
+        "chairman",
+        "P488"
+    ],
+    [
+        "crew','six astronauts']]  The text: The first manned mission to Mars is expected to take place in 2050 and will be crewed by a team of six astronauts, who will be trained at the Johnson Space Center in Houston, Texas. Triples: [['first manned mission to Mars",
+        "no-wikiID"
+    ],
+    [
+        "head of state and government",
+        "no-wikiID"
+    ],
+    [
+        "air traffic control facility",
+        "no-wikiID"
+    ],
+    [
+        "Ba–Vi']]  Text: The company's products include a range of cleaning products, such as dish soap, hand soap, and laundry detergent. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "level",
+        "P6224"
+    ],
+    [
+        "crew','six astronauts'], ['first manned mission to Mars",
+        "no-wikiID"
+    ],
+    [
+        "journey home','many perils'], ['The Odyssey",
+        "no-wikiID"
+    ],
+    [
+        "Au']]  Text: The popular social media platform Facebook was founded by Mark Zuckerberg. Triples: [['Facebook",
+        "no-wikiID"
+    ],
+    [
+        "data technology products'],  ['Western Digital Corporation','sells",
+        "no-wikiID"
+    ],
+    [
+        "production place','southern Sweden'], ['Saab 2000",
+        "no-wikiID"
+    ],
+    [
+        "founding member",
+        "no-wikiID"
+    ],
+    [
+        "2012'], ['Far Cry 3",
+        "no-wikiID"
+    ],
+    [
+        "hit song",
+        "no-wikiID"
+    ],
+    [
+        "orientation','semi-reclining'], ['Christina's World",
+        "no-wikiID"
+    ],
+    [
+        "value'], ['entity','relationship",
+        "no-wikiID"
+    ],
+    [
+        "year",
+        "P585"
+    ],
+    [
+        "purchase",
+        "P2284"
+    ],
+    [
+        "exploit resources','region'], ['French",
+        "no-wikiID"
+    ],
+    [
+        "known for",
+        "P793"
+    ],
+    [
+        "fall",
+        "P582"
+    ],
+    [
+        "role-playing video games'], ['BioWare",
+        "no-wikiID"
+    ],
+    [
+        "Green Book'], ['CD-i",
+        "no-wikiID"
+    ],
+    [
+        "alternative name",
+        "P4970"
+    ],
+    [
+        "target audience",
+        "P2360"
+    ],
+    [
+        "NNS",
+        "no-wikiID"
+    ],
+    [
+        "general manager",
+        "P1037"
+    ],
+    [
+        "2001'], ['Weezer",
+        "no-wikiID"
+    ],
+    [
+        "office location country",
+        "no-wikiID"
+    ],
+    [
+        "positive'], ['Stranger Things",
+        "no-wikiID"
+    ],
+    [
+        "provide the best products and services to its customers']]  Text: The company's mission is to provide the best products and services to its customers. Triples: [['company','mission",
+        "no-wikiID"
+    ],
+    [
+        "construction",
+        "P571"
+    ],
+    [
+        "World Trade Organization'], ['Haiti','member",
+        "no-wikiID"
+    ],
+    [
+        "is a part of",
+        "no-wikiID"
+    ],
+    [
+        "crime",
+        "P8032"
+    ],
+    [
+        "2021'], ['Steel Assault",
+        "no-wikiID"
+    ],
+    [
+        "hit','several major hits for other artists'], ['Bee Gees",
+        "no-wikiID"
+    ],
+    [
+        "districts",
+        "P5901"
+    ],
+    [
+        "last delivery",
+        "no-wikiID"
+    ],
+    [
+        "1900'], ['400 metres hurdles','start date",
+        "no-wikiID"
+    ],
+    [
+        "principal activity is",
+        "no-wikiID"
+    ],
+    [
+        "genus",
+        "P21"
+    ],
+    [
+        "hiatus duration",
+        "no-wikiID"
+    ],
+    [
+        "appear",
+        "P2817"
+    ],
+    [
+        "tied to",
+        "no-wikiID"
+    ],
+    [
+        "rank','second largest'], ['Usedom",
+        "no-wikiID"
+    ],
+    [
+        "KRN'],  ['Union of Polish Patriots",
+        "no-wikiID"
+    ],
+    [
+        "number of members",
+        "P2124"
+    ],
+    [
+        "owned and operated by",
+        "no-wikiID"
+    ],
+    [
+        "Schiphol'], ['firm','registered in",
+        "no-wikiID"
+    ],
+    [
+        "had one of the highest average attendances in",
+        "no-wikiID"
+    ],
+    [
+        "organized by",
+        "P664"
+    ],
+    [
+        "basis",
+        "P1013"
+    ],
+    [
+        "Hong Kong'], ['Acura','market",
+        "no-wikiID"
+    ],
+    [
+        "type','specialized agency'], ['World Health Organization",
+        "no-wikiID"
+    ],
+    [
+        "100 million dollars'], ['company','revenue year",
+        "no-wikiID"
+    ],
+    [
+        "guest capacity",
+        "no-wikiID"
+    ],
+    [
+        "Kuwait'], ['Acura','market",
+        "no-wikiID"
+    ],
+    [
+        "an",
+        "P2583"
+    ],
+    [
+        "host",
+        "P371"
+    ],
+    [
+        "product",
+        "P1056"
+    ],
+    [
+        "compatible with",
+        "P8956"
+    ],
+    [
+        "Mega-City One'], ['Dredd','setting",
+        "no-wikiID"
+    ],
+    [
+        "ladies",
+        "P3897"
+    ],
+    [
+        "concept",
+        "P11473"
+    ],
+    [
+        "assistant",
+        "P767"
+    ],
+    [
+        "number in airline service",
+        "no-wikiID"
+    ],
+    [
+        "especially among",
+        "no-wikiID"
+    ],
+    [
+        "game",
+        "P57"
+    ],
+    [
+        "gameplay','slice fruit'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "kingdom",
+        "no-wikiID"
+    ],
+    [
+        "established",
+        "P571"
+    ],
+    [
+        "classic','science fiction and literature']]  Text: The novel \"1984\" by George Orwell is a classic of science fiction and literature, and it is a dystopian novel. Triples: [['1984",
+        "no-wikiID"
+    ],
+    [
+        "published year",
+        "no-wikiID"
+    ],
+    [
+        "world\\'s largest'], ['Inga Falls",
+        "no-wikiID"
+    ],
+    [
+        "listing",
+        "P1435"
+    ],
+    [
+        "Idriss Déby'], ['Condé",
+        "no-wikiID"
+    ],
+    [
+        "cast",
+        "P161"
+    ],
+    [
+        "incorporate",
+        "P527"
+    ],
+    [
+        "1923'],  ['Maine Road",
+        "no-wikiID"
+    ],
+    [
+        "LG Electronics'], ['LG G3','series",
+        "no-wikiID"
+    ],
+    [
+        "1'], ['Indian Super League",
+        "no-wikiID"
+    ],
+    [
+        "Martin Cooper'], ['first mobile phone call",
+        "no-wikiID"
+    ],
+    [
+        "distributed",
+        "P750"
+    ],
+    [
+        "championship",
+        "P1358"
+    ],
+    [
+        "Odysseus'], ['Telemachus','relation",
+        "no-wikiID"
+    ],
+    [
+        "Naseeruddin Shah'], ['Bedardi','stars",
+        "no-wikiID"
+    ],
+    [
+        "accommodation",
+        "no-wikiID"
+    ],
+    [
+        "40 million'], ['Rumours','sales",
+        "no-wikiID"
+    ],
+    [
+        "habitat duration",
+        "no-wikiID"
+    ],
+    [
+        "unlock system",
+        "no-wikiID"
+    ],
+    [
+        "format",
+        "P2701"
+    ],
+    [
+        "carry out",
+        "no-wikiID"
+    ],
+    [
+        "Rewrite the Stars'], ['Zendaya','single",
+        "no-wikiID"
+    ],
+    [
+        "birth year",
+        "P569"
+    ],
+    [
+        "2021'], ['2021–22 Liga Primera de Nicaragua season",
+        "no-wikiID"
+    ],
+    [
+        "plan",
+        "P5037"
+    ],
+    [
+        "border",
+        "P47"
+    ],
+    [
+        "first introduced",
+        "no-wikiID"
+    ],
+    [
+        "written in",
+        "P277"
+    ],
+    [
+        "Samuel L. Jackson'], ['The Hateful Eight','stars",
+        "no-wikiID"
+    ],
+    [
+        "1146-1147'], ['Ibrahim ibn Tashfin",
+        "no-wikiID"
+    ],
+    [
+        "13 episodes each'], ['Grace and Frankie','release dates",
+        "no-wikiID"
+    ],
+    [
+        "He']]  Text: The popular social media platform Instagram was founded by Kevin Systrom. Triples: [['Instagram",
+        "no-wikiID"
+    ],
+    [
+        "adults']]  Text: The COVID-19 vaccine is administered to children. Triples: [['COVID-19 vaccine','recipient",
+        "no-wikiID"
+    ],
+    [
+        "first appearance",
+        "P4584"
+    ],
+    [
+        "contact'], ['COVID-19 virus','spread",
+        "no-wikiID"
+    ],
+    [
+        "victim",
+        "P8032"
+    ],
+    [
+        "1940'], ['OUN','support",
+        "no-wikiID"
+    ],
+    [
+        "protagonist",
+        "P9199"
+    ],
+    [
+        "cities and towns",
+        "no-wikiID"
+    ],
+    [
+        "tablet']]  Text: The company's main product is a smartphone, a tablet, and a laptop. Triples: [['The company','main product','smartphone'], ['The company','main product",
+        "no-wikiID"
+    ],
+    [
+        "crime','murder'], ['The Tell-Tale Heart",
+        "no-wikiID"
+    ],
+    [
+        "diplomacy','recognised by Papal States'], ['Confederate Ireland",
+        "no-wikiID"
+    ],
+    [
+        "administration method",
+        "no-wikiID"
+    ],
+    [
+        "announced",
+        "P6949"
+    ],
+    [
+        "brand",
+        "P1716"
+    ],
+    [
+        "29 June 2021'], ['2021 All-Ireland Under-20 Hurling Championship",
+        "no-wikiID"
+    ],
+    [
+        "laptop']]  Text: The company's main product is a smartphone, a tablet, a laptop, and a smartwatch. Triples: [['The company','main product','smartphone'], ['The company','main product",
+        "no-wikiID"
+    ],
+    [
+        "dethroned by",
+        "no-wikiID"
+    ],
+    [
+        "availability','many countries']]  Text: The city of Berlin is located in Germany. Triples: [['Berlin",
+        "no-wikiID"
+    ],
+    [
+        "booster pack",
+        "no-wikiID"
+    ],
+    [
+        "critical acclaim",
+        "no-wikiID"
+    ],
+    [
+        "elected by",
+        "no-wikiID"
+    ],
+    [
+        "won",
+        "P1355"
+    ],
+    [
+        "former name",
+        "no-wikiID"
+    ],
+    [
+        "type','respiratory virus'], ['COVID-19 virus",
+        "no-wikiID"
+    ],
+    [
+        "work",
+        "P1433"
+    ],
+    [
+        "April 21, 2010'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "temperature",
+        "P2076"
+    ],
+    [
+        "products','storage devices'] and the triple ['Western Digital Corporation",
+        "no-wikiID"
+    ],
+    [
+        "completion date",
+        "no-wikiID"
+    ],
+    [
+        "2013 Super Bowl halftime show'], ['Destiny\\'s Child','reunite",
+        "no-wikiID"
+    ],
+    [
+        "Cannes Film Festival'], ['film','screened at",
+        "no-wikiID"
+    ],
+    [
+        "journey",
+        "P1427"
+    ],
+    [
+        "played for",
+        "P54"
+    ],
+    [
+        "National Cultural Heritage'], ['Carnival of Barranquilla','status','recognized by UNESCO']]  Text: The city of Paris is the capital of France. Triples: [['Paris",
+        "no-wikiID"
+    ],
+    [
+        "Dax Shepard'], ['Idiocracy",
+        "no-wikiID"
+    ],
+    [
+        "actor','set sail and took his first step on American soil'], [['Penn",
+        "no-wikiID"
+    ],
+    [
+        "action','set up printing press'], ['Confederate Ireland",
+        "no-wikiID"
+    ],
+    [
+        "winning the Polish SuperCup'], ['Lechia Gdańsk','success",
+        "no-wikiID"
+    ],
+    [
+        "Dilbert Future'], ['Dilbert','series",
+        "no-wikiID"
+    ],
+    [
+        "over five-million albums'], ['Six Feet Under','sold",
+        "no-wikiID"
+    ],
+    [
+        "organization",
+        "P108"
+    ],
+    [
+        "founder",
+        "P112"
+    ],
+    [
+        "ruler",
+        "no-wikiID"
+    ],
+    [
+        "prequel",
+        "P5940"
+    ],
+    [
+        "colour','red'], ['FC Minsk",
+        "no-wikiID"
+    ],
+    [
+        "first manned mission to the Moon'], ['Apollo 11",
+        "no-wikiID"
+    ],
+    [
+        "accolades','several'], ['Gears of War 2",
+        "no-wikiID"
+    ],
+    [
+        "publicly traded']]  Text: The company has a number of employees who are experts in their fields. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "Sherlock Holmes']]  Text: The United States is a country in North America. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "November 13'],  ['Wolfwalkers','release date",
+        "no-wikiID"
+    ],
+    [
+        "2019'], ['Microsoft Edge",
+        "no-wikiID"
+    ],
+    [
+        "200-storey high-rise block of flats']]  The function should be able to extract knowledge triples from any text. The function should be able to extract triples in the following formats:  - Entity, attribute, value (e.g. 'Amazon River",
+        "no-wikiID"
+    ],
+    [
+        "Europe'], ['Toyota iQ','marketed in",
+        "no-wikiID"
+    ],
+    [
+        "influenced by",
+        "P737"
+    ],
+    [
+        "natural gas supplier",
+        "no-wikiID"
+    ],
+    [
+        "commercial'], ['The Mummy Returns','review','mixed'], ['The Mummy Returns",
+        "no-wikiID"
+    ],
+    [
+        "total games",
+        "no-wikiID"
+    ],
+    [
+        "debut album release date",
+        "no-wikiID"
+    ],
+    [
+        "KeyArena'], ['Coliseum','renovation year",
+        "no-wikiID"
+    ],
+    [
+        "cause','stroke'], ['most common causes of death in the United States",
+        "no-wikiID"
+    ],
+    [
+        "1890'], ['Nivea','sold to",
+        "no-wikiID"
+    ],
+    [
+        "funding','successful']]  Note: The triples are not necessarily in the same format as the text. For example, the text may use \"from\" to describe the start date, but the triple will use \"start date\".  Also, the triples may not be in the same order as the text.  The triples are extracted based on the context and the meaning of the text.  For example, \"The album was originally released on the 24th of October, 2014\" will be extracted as ['Arms of Morpheus','release date",
+        "no-wikiID"
+    ],
+    [
+        "tier','sixth tier'], ['Lechia Gdańsk",
+        "no-wikiID"
+    ],
+    [
+        "product','smartphone']]  Text: The company's CEO is John Smith. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "decline",
+        "no-wikiID"
+    ],
+    [
+        "2020'], ['company','revenue year",
+        "no-wikiID"
+    ],
+    [
+        "D-league attendance record",
+        "no-wikiID"
+    ],
+    [
+        "Njörðr'], ['Skaði",
+        "no-wikiID"
+    ],
+    [
+        "label of",
+        "P7927"
+    ],
+    [
+        "John Lurie'], ['Stranger Than Paradise','starring",
+        "no-wikiID"
+    ],
+    [
+        "number of member states",
+        "no-wikiID"
+    ],
+    [
+        "plot','secret message'], ['The Gold-Bug",
+        "no-wikiID"
+    ],
+    [
+        "ethics committee','suspension'], ['FIFA",
+        "no-wikiID"
+    ],
+    [
+        "originated from",
+        "P9072"
+    ],
+    [
+        "not immediately successful'], ['The Sound and the Fury','success",
+        "no-wikiID"
+    ],
+    [
+        "Long Island','research facility'], ['Plum Island Animal Disease Center",
+        "no-wikiID"
+    ],
+    [
+        "role','storage products company'], ['Western Digital",
+        "no-wikiID"
+    ],
+    [
+        "taken over",
+        "no-wikiID"
+    ],
+    [
+        "online presence",
+        "no-wikiID"
+    ],
+    [
+        "6–4–1']]  Text: The first manned mission to Mars is scheduled for 2025. Triples: [['first manned mission to Mars','scheduled date",
+        "no-wikiID"
+    ],
+    [
+        "genre','short story'], ['MS. Found in a Bottle",
+        "no-wikiID"
+    ],
+    [
+        "current client",
+        "no-wikiID"
+    ],
+    [
+        "type','subsidiary'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "year of title",
+        "no-wikiID"
+    ],
+    [
+        "definition",
+        "P2534"
+    ],
+    [
+        "laptop'], ['The company','main product','smartwatch'], ['The company','main product','smart speaker']]  Text: The company's main product is a smartphone, a tablet, a laptop, a smartwatch, and a smart speaker. Triples: [['The company','main product','smartphone'], ['The company','main product",
+        "no-wikiID"
+    ],
+    [
+        "illustrator",
+        "P110"
+    ],
+    [
+        "destruction'], ['Abaddon",
+        "no-wikiID"
+    ],
+    [
+        "number of films",
+        "no-wikiID"
+    ],
+    [
+        "boeing commercial airplanes'], ['boeing 747",
+        "no-wikiID"
+    ],
+    [
+        "chart position",
+        "no-wikiID"
+    ],
+    [
+        "poll",
+        "P1704"
+    ],
+    [
+        "209'], ['IHF','membership",
+        "no-wikiID"
+    ],
+    [
+        "air date",
+        "P577"
+    ],
+    [
+        "distributed in",
+        "no-wikiID"
+    ],
+    [
+        "number of episodes",
+        "P1113"
+    ],
+    [
+        "airport",
+        "P3311"
+    ],
+    [
+        "failure",
+        "P1478"
+    ],
+    [
+        "position','midfielder'], ['Andreas Chrysostomou",
+        "no-wikiID"
+    ],
+    [
+        "elevation",
+        "P2044"
+    ],
+    [
+        "award nomination",
+        "no-wikiID"
+    ],
+    [
+        "originally in",
+        "no-wikiID"
+    ],
+    [
+        "part of",
+        "P361"
+    ],
+    [
+        "grunge-influenced pop'], ['Tove Lo",
+        "no-wikiID"
+    ],
+    [
+        "geo-located tagging, photo sharing mashup'], ['Panoramio','site",
+        "no-wikiID"
+    ],
+    [
+        "total production",
+        "no-wikiID"
+    ],
+    [
+        "portrayal",
+        "no-wikiID"
+    ],
+    [
+        "effective in preventing",
+        "no-wikiID"
+    ],
+    [
+        "Africa'], ['IHF','membership",
+        "no-wikiID"
+    ],
+    [
+        "availability','many countries']]  Text: The city of London is located in the United Kingdom. Triples: [['London",
+        "no-wikiID"
+    ],
+    [
+        "Google moderators']]  Text: The European Union (EU) is an economic and political union of 27 member states. Triples: [['European Union",
+        "no-wikiID"
+    ],
+    [
+        "deluxe edition",
+        "no-wikiID"
+    ],
+    [
+        "founded",
+        "P571"
+    ],
+    [
+        "close air support'], ['Lockheed AC-130 gunship','mission",
+        "no-wikiID"
+    ],
+    [
+        "type','media franchise'], ['Star Wars",
+        "no-wikiID"
+    ],
+    [
+        "aliases",
+        "no-wikiID"
+    ],
+    [
+        "first published",
+        "P577"
+    ],
+    [
+        "formed on",
+        "P571"
+    ],
+    [
+        "10%'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "operating system",
+        "P306"
+    ],
+    [
+        "'], ['La Défense",
+        "no-wikiID"
+    ],
+    [
+        "Australia'], ['Zendaya','single",
+        "no-wikiID"
+    ],
+    [
+        "claim",
+        "P3680"
+    ],
+    [
+        "originally located",
+        "no-wikiID"
+    ],
+    [
+        "consequence",
+        "P1542"
+    ],
+    [
+        "1']]  Text: The United States is a country located in North America.  Your answer:  [['United States",
+        "no-wikiID"
+    ],
+    [
+        "platform",
+        "P400"
+    ],
+    [
+        "from 1882 to 2020'], ['Pirates",
+        "no-wikiID"
+    ],
+    [
+        "currently playing in",
+        "no-wikiID"
+    ],
+    [
+        "characteristic",
+        "P1552"
+    ],
+    [
+        "platform','macOS'], ['WinZip",
+        "no-wikiID"
+    ],
+    [
+        "effect','significant disruptions to global supply chains'], ['COVID-19 pandemic",
+        "no-wikiID"
+    ],
+    [
+        "industry standard','many graphic design positions']]  Note: The last triple is not a direct relation between Adobe Creative Suite and a specific application, but rather a relation between the applications and their industry standard usage. This is why it is included in the output.  Text: The United States is a country located in North America. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "take over",
+        "no-wikiID"
+    ],
+    [
+        "placing serpent'], ['Skaði','synonym",
+        "no-wikiID"
+    ],
+    [
+        "effect",
+        "P1542"
+    ],
+    [
+        "2006'], ['Idiocracy",
+        "no-wikiID"
+    ],
+    [
+        "510 million square kilometers']]  Text: The United States has a total area of approximately 9.8 million square kilometers. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "pioneer",
+        "P8818"
+    ],
+    [
+        "frontlit screen'], ['GBA','screen",
+        "no-wikiID"
+    ],
+    [
+        "number of events",
+        "no-wikiID"
+    ],
+    [
+        "voice actors",
+        "P725"
+    ],
+    [
+        "Robert Downey Jr.'], ['Natural Born Killers','starring",
+        "no-wikiID"
+    ],
+    [
+        "became','medieval religious centre'], ['Maastricht",
+        "no-wikiID"
+    ],
+    [
+        "place names throughout regions historically inhabited by the ancient Germanic peoples'], [['Odin','reference",
+        "no-wikiID"
+    ],
+    [
+        "CEO",
+        "P169"
+    ],
+    [
+        "top twenty'], ['Zendaya','single",
+        "no-wikiID"
+    ],
+    [
+        "Thetis'], ['Peleus",
+        "no-wikiID"
+    ],
+    [
+        "September 17, 2010'], ['Fruit Ninja",
+        "no-wikiID"
+    ],
+    [
+        "genre','short story'], ['Helen Stoner','relationship','stepdaughter'], ['Helen Stoner','relationship",
+        "no-wikiID"
+    ],
+    [
+        "around the world']]  Text: The United States is a federal republic located in North America. Triples: [['United States",
+        "no-wikiID"
+    ],
+    [
+        "division",
+        "P118"
+    ],
+    [
+        "previous location",
+        "no-wikiID"
+    ],
+    [
+        "'], ['European Union",
+        "no-wikiID"
+    ],
+    [
+        "analyzes",
+        "P3176"
+    ],
+    [
+        "May 2009'], ['2009 RSA T20 Cup",
+        "no-wikiID"
+    ],
+    [
+        "produce",
+        "P162"
+    ],
+    [
+        "Marilyn Monroe'], ['Some Like It Hot','stars",
+        "no-wikiID"
+    ],
+    [
+        "EU']]  Text: The Great Barrier Reef is the world's biggest coral reef system composed of more than 2,900 individual reefs and 900 islands. Triples: [['Great Barrier Reef",
+        "no-wikiID"
+    ],
+    [
+        "first president",
+        "no-wikiID"
+    ],
+    [
+        "collection",
+        "P195"
+    ],
+    [
+        "destination",
+        "P5051"
+    ],
+    [
+        "follow-up album sales",
+        "no-wikiID"
+    ],
+    [
+        "publisher",
+        "P123"
+    ],
+    [
+        "play their home games at",
+        "no-wikiID"
+    ],
+    [
+        "produced",
+        "P162"
+    ],
+    [
+        "country','start date",
+        "no-wikiID"
+    ],
+    [
+        "time",
+        "P585"
+    ],
+    [
+        "occupy French Indochina",
+        "no-wikiID"
+    ],
+    [
+        "Sword in the Stone'], ['Excalibur",
+        "no-wikiID"
+    ],
+    [
+        "N",
+        "P1476"
+    ],
+    [
+        "1990']]  The text: The movie is a comedy, and it was released in 1990, and it is directed by Steven Soderbergh. Triples: [['The movie",
+        "no-wikiID"
+    ],
+    [
+        "Sanofi-Aventis'], ['Sanofi S.A.','renamed",
+        "no-wikiID"
+    ],
+    [
+        "third in the series",
+        "no-wikiID"
+    ],
+    [
+        "grew",
+        "no-wikiID"
+    ],
+    [
+        "June 25, 2021'], ['Dark in Here",
+        "no-wikiID"
+    ],
+    [
+        "Belarus'],  ['Kontinental Hockey League','member",
+        "no-wikiID"
+    ],
+    [
+        "poem author",
+        "no-wikiID"
+    ],
+    [
+        "is",
+        "P31"
+    ],
+    [
+        "Super Bowl VII'], ['stadium",
+        "no-wikiID"
+    ],
+    [
+        "designed to protect against",
+        "no-wikiID"
+    ],
+    [
+        "parent organization",
+        "P749"
+    ],
+    [
+        "Wanda Group'], ['inaugural season",
+        "no-wikiID"
+    ],
+    [
+        "Super Bowl appearances",
+        "no-wikiID"
+    ],
+    [
+        "planned date",
+        "no-wikiID"
+    ],
+    [
+        "April 8, 2010'], ['Peugeot 408','start production date",
+        "no-wikiID"
+    ],
+    [
+        "Mughal Prince Salim'], ['Mughal-e-Azam','subject",
+        "no-wikiID"
+    ],
+    [
+        "connection",
+        "no-wikiID"
+    ],
+    [
+        "genre','science fiction'], ['1984",
+        "no-wikiID"
+    ],
+    [
+        "location','shelf']].  The triples will be returned in the order they appear in the text.  The output will be a list of lists, where each sublist is a triple in the format [subject, predicate, object].  For example, the output for the text \"The Amazon River flows through Brazil and Peru.\" will be [['Amazon River",
+        "no-wikiID"
+    ],
+    [
+        "absence','son Telemachus'], ['The Odyssey",
+        "no-wikiID"
+    ],
+    [
+        "65th season of the UEFA Champions League'], ['2019–20 UEFA Champions League",
+        "no-wikiID"
+    ],
+    [
+        "native to",
+        "P183"
+    ],
+    [
+        "September 2021'], ['2021–22 ACB season",
+        "no-wikiID"
+    ],
+    [
+        "goal",
+        "P3712"
+    ],
+    [
+        "take back control",
+        "no-wikiID"
+    ],
+    [
+        "government",
+        "P122"
+    ],
+    [
+        "Super Bowl wins",
+        "no-wikiID"
+    ],
+    [
+        "officially known as",
+        "no-wikiID"
+    ],
+    [
+        "nominated",
+        "P1411"
+    ],
+    [
+        "2020'],  ['Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan','related movie",
+        "no-wikiID"
+    ],
+    [
+        "previous home rink",
+        "no-wikiID"
+    ],
+    [
+        "primary training mission'],  ['Kawasaki T-4','mission",
+        "no-wikiID"
+    ],
+    [
+        "liquidation",
+        "no-wikiID"
+    ],
+    [
+        "theme",
+        "P921"
+    ],
+    [
+        "debut single release date",
+        "no-wikiID"
+    ],
+    [
+        "cockpit",
+        "no-wikiID"
+    ],
+    [
+        "passed to",
+        "no-wikiID"
+    ],
+    [
+        "opponent",
+        "P7047"
+    ],
+    [
+        "first human settlement",
+        "no-wikiID"
+    ],
+    [
+        "funding",
+        "P6195"
+    ],
+    [
+        "features','skill trees'], ['Far Cry 3",
+        "no-wikiID"
+    ],
+    [
+        "action','support'], ['Thomas Fowler",
+        "no-wikiID"
+    ],
+    [
+        "name origin",
+        "no-wikiID"
+    ],
+    [
+        "oil company",
+        "no-wikiID"
+    ],
+    [
+        "variant",
+        "P4970"
+    ],
+    [
+        "collaborate",
+        "P2652"
+    ],
+    [
+        "headquarters city",
+        "no-wikiID"
+    ],
+    [
+        "University of Vermont'], ['1910 Vermont Green and Gold football team','sport",
+        "no-wikiID"
+    ],
+    [
+        "role",
+        "P3831"
+    ],
+    [
+        "Panther medium tank'], ['Panzer IV",
+        "no-wikiID"
+    ],
+    [
+        "fastest'], ['Convair 880",
+        "no-wikiID"
+    ],
+    [
+        "debut album sales','more than 23 million copies'], ['Spice Girls",
+        "no-wikiID"
+    ],
+    [
+        "average attendance",
+        "no-wikiID"
+    ],
+    [
+        "logo','modern interpretation of an ancient Mohegan symbol']  The text: The first major league game was played on April 22, 1876. Triples: [['first major league game",
+        "no-wikiID"
+    ],
+    [
+        "developed by",
+        "P61"
+    ],
+    [
+        "formed in",
+        "P571"
+    ],
+    [
+        "Stanley Cup",
+        "no-wikiID"
+    ],
+    [
+        "Leelee Sobieski'], ['Never Been Kissed','stars",
+        "no-wikiID"
+    ],
+    [
+        "conversion",
+        "P2440"
+    ],
+    [
+        "theme','silence of God'], ['The Seventh Seal",
+        "no-wikiID"
+    ],
+    [
+        "notable alumni",
+        "no-wikiID"
+    ],
+    [
+        "corresponds to",
+        "no-wikiID"
+    ],
+    [
+        "created by",
+        "P170"
+    ],
+    [
+        "Damian Young'], ['I Care a Lot','stars",
+        "no-wikiID"
+    ],
+    [
+        "14th'], ['2020–21 Rink Hockey European Female League",
+        "no-wikiID"
+    ],
+    [
+        "election",
+        "P2715"
+    ],
+    [
+        "libretto",
+        "P87"
+    ],
+    [
+        "1985']]  Please note that you can ignore the \"of\" and \"in\" prepositions in the text when extracting triples. For example, \"Home games were played at KeyArena\" can be converted to the triple ['KeyArena",
+        "no-wikiID"
+    ],
+    [
+        "organiser",
+        "P664"
+    ],
+    [
+        "transmission','single-speed'], ['BMW i3",
+        "no-wikiID"
+    ],
+    [
+        "quit",
+        "no-wikiID"
+    ],
+    [
+        "SAirGroup'], ['Swissair Group','renamed",
+        "no-wikiID"
+    ],
+    [
+        "FAME Studios'], ['Dark in Here",
+        "no-wikiID"
+    ],
+    [
+        "home field for",
+        "no-wikiID"
+    ],
+    [
+        "email",
+        "P968"
+    ],
+    [
+        "world's largest']]  Text: The human brain is made up of gray matter and white matter. Triples: [['human brain",
+        "no-wikiID"
+    ],
+    [
+        "home team",
+        "P466"
+    ],
+    [
+        "Batman'], ['Justice League','members",
+        "no-wikiID"
+    ],
+    [
+        "colouration",
+        "no-wikiID"
+    ],
+    [
+        "host country",
+        "P17"
+    ],
+    [
+        "100 million'], ['company",
+        "no-wikiID"
+    ],
+    [
+        "34 years later'], ['Cobra Kai','re-examines",
+        "no-wikiID"
+    ],
+    [
+        "home ground size",
+        "no-wikiID"
+    ],
+    [
+        "rise",
+        "P551"
+    ],
+    [
+        "largest'], ['Shanghai",
+        "no-wikiID"
+    ],
+    [
+        "temporary home of",
+        "no-wikiID"
+    ],
+    [
+        "performance",
+        "P6275"
+    ],
+    [
+        "teams",
+        "P1923"
+    ],
+    [
+        "personal turmoil','separated']]  Note that this is a simple example and does not account for more complex cases such as ambiguity, negation, or multiple possible extractions. It also does not account for cases where the text is not in English.  The text can be any length and can contain multiple sentences.  The triples will be returned in a list of lists, where each sublist is a triple in the format [subject, predicate, object].  The subject, predicate, and object can be any string, but they should be in the format of a valid triple (i.e., the subject and object should not be the same).  If a triple cannot be extracted from the text, it will not be included in the output.  If there are multiple possible extractions for a triple, all of them will be included in the output.  For example, if the text is \"The book is on the table and the book is on the shelf.\", the output will include the triples [['book",
+        "no-wikiID"
+    ],
+    [
+        "body of",
+        "P206"
+    ],
+    [
+        "used on','smart TVs']]  The input text is a string. The output should be a list of lists, where each inner list is a triple in the form [subject, predicate, object].  The subject, predicate, and object are all strings. The triples are extracted using named entity recognition and dependency parsing. The subject is the named entity, the predicate is the relation between the subject and the object, and the object is the named entity or a phrase that describes the subject. For example, in the text \"The Amazon River flows through Brazil and Peru\", \"Amazon River\" is the subject, \"flows through\" is the predicate, and \"Brazil and Peru\" is the object. In the text \"COVID-19 symptoms include fever, cough, and shortness of breath\", \"COVID-19\" is the subject, \"symptoms\" is the predicate, and \"fever, cough, and shortness of breath\" is the object.  The triples are extracted from the dependency parse tree of the sentence. The subject is the head of the dependency tree, the predicate is the relation between the subject and the object, and the object is the child of the subject in the dependency tree. For example, in the text \"The Amazon River flows through Brazil and Peru\", the dependency parse tree is:  (S  (NP The Amazon River)  (VP flows  (PP through  (NP Brazil and Peru)))) The subject is \"The Amazon River\", the predicate is \"flows through\", and the object is \"Brazil and Peru\".  The triples are extracted by traversing the dependency tree and identifying the subject, predicate, and object.  The triples are returned in json format.  The json format is a list of lists, where each inner list is a triple in the form [subject, predicate, object].  For example, the triples [['Amazon River",
+        "no-wikiID"
+    ],
+    [
+        "458'], ['Ferrari 488",
+        "no-wikiID"
+    ],
+    [
+        "task','speech recognition'], ['artificial intelligence",
+        "no-wikiID"
+    ],
+    [
+        "carries','sophisticated sensors, navigation, and fire-control systems'], ['Lockheed AC-130 gunship','rely",
+        "no-wikiID"
+    ],
+    [
+        "a",
+        "P813"
+    ],
+    [
+        "purpose",
+        "P366"
+    ],
+    [
+        "acquired date",
+        "no-wikiID"
+    ],
+    [
+        "Russia'], ['firm','serves",
+        "no-wikiID"
+    ],
+    [
+        "ancient Greek'], ['The Odyssey",
+        "no-wikiID"
+    ],
+    [
+        "2020']]  Text: The company has a revenue of 100 million dollars in 2020 and 2021. Triples: [['company','revenue",
+        "no-wikiID"
+    ],
+    [
+        "Aten'], ['Nefertiti','reign",
+        "no-wikiID"
+    ],
+    [
+        "location','southwestern Pacific Ocean'], ['Melanesia",
+        "no-wikiID"
+    ],
+    [
+        "product','mobile app']]  Text: The company's main product is a mobile app that allows users to track their fitness goals. Triples: [['company",
+        "no-wikiID"
+    ],
+    [
+        "award date",
+        "no-wikiID"
+    ],
+    [
+        "prescription sales",
+        "no-wikiID"
+    ],
+    [
+        "license','small businesses'], ['Microsoft Security Essentials",
+        "no-wikiID"
+    ],
+    [
+        "lyrics",
+        "P676"
+    ],
+    [
+        "used at",
+        "no-wikiID"
+    ]
+]

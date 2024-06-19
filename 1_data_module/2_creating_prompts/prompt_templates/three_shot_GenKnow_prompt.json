@@ -1,0 +1,13 @@
+{
+    "prefix": "Your task is extracting knowledge triples from text. A knowledge triple consists of three elements: subject - predicate - object. Subjects and objects are entities and the predicate is the relation between them. Before extracting triples, generate knowledge about the entities in the text and potential relations between them. Here are a few examples:",
+    "formatter": "Text: {Text} Knowledge: {Entity Types} The following triples can be extracted considering the knowledge. Triples: {Triples} ",
+    "example variables": [
+        "Text",
+        "Entity Types",
+        "Triples"
+    ],
+    "input variables": [
+        "Text"
+    ],
+    "suffix": "Example ends here. Generate knowledge as shown in the example and extract knowledge triples from the text. Text: {Text} Your answer: "
+}

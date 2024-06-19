@@ -1,0 +1,7082 @@
+[
+    [
+        "Swiss is a/an country.'] 3. Think about potential relations between entities: ['head office located in','manufacturer of'] 4. Make a draft of the triples: [['Ricola Ltd./Ricola AG",
+        "no-wikiID"
+    ],
+    [
+        "The relation - in alliance with - does not hold between Veii and Roman Kingdom.'] Therefore, final triples should be: [['Veii",
+        "no-wikiID"
+    ],
+    [
+        "Siege",
+        "P159"
+    ],
+    [
+        "part of','supervised by",
+        "no-wikiID"
+    ],
+    [
+        "considered to be','second strongest in the world'], ['Kontinental Hockey League",
+        "no-wikiID"
+    ],
+    [
+        "Hockey Hall of Fame'], ['Dallas Stars",
+        "no-wikiID"
+    ],
+    [
+        "Contain",
+        "P527"
+    ],
+    [
+        "Seating Capacity",
+        "P1083"
+    ],
+    [
+        "The relation - writer - does not hold between Sherlock Jr. and Joseph A. Mitchell.'] Therefore, final triples should be: [['Sherlock Jr.",
+        "no-wikiID"
+    ],
+    [
+        "January 2001']] 4. Filtering out incorrect triples: None. 5. Final triples: [['RuneScape",
+        "no-wikiID"
+    ],
+    [
+        "1985 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Member of",
+        "P102"
+    ],
+    [
+        "2003']] Now it is time to think and filter out incorrect triples if there is any. The following triples seem to be incorrect: [['Carnival of Barranquilla",
+        "no-wikiID"
+    ],
+    [
+        "place of birth",
+        "P19"
+    ],
+    [
+        "production location','speed",
+        "no-wikiID"
+    ],
+    [
+        "Even of Day']] 5. Filter out incorrect triples. The following triples seem to be incorrect: [['The Book of Us: Gluon','released by",
+        "no-wikiID"
+    ],
+    [
+        "annexed",
+        "P7888"
+    ],
+    [
+        "Stadio Dino Manuzzi'], ['Ternana','relation",
+        "no-wikiID"
+    ],
+    [
+        "August 5 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Oldest",
+        "P4214"
+    ],
+    [
+        "distributed by",
+        "P750"
+    ],
+    [
+        "death of','marriage to",
+        "no-wikiID"
+    ],
+    [
+        "Replay'], ['Replay','reached",
+        "no-wikiID"
+    ],
+    [
+        "1903 college football season']].  Your answer: 1. Extract entities: ['1903 Vermont Green and Gold football team",
+        "no-wikiID"
+    ],
+    [
+        "pornographic films']] 7. What do you know about the entities? ['1970 is a/an date.'] 8. What are the potential relations between these entities? ['inspiration','starred in'] 9. Draft of the triples: [['Roch Siffredi",
+        "no-wikiID"
+    ],
+    [
+        "used for",
+        "P642"
+    ],
+    [
+        "Isaac Asimov','science fiction",
+        "no-wikiID"
+    ],
+    [
+        "Superadobe sandbag technique is a/an technique.",
+        "no-wikiID"
+    ],
+    [
+        "emperor",
+        "P35"
+    ],
+    [
+        "league",
+        "P118"
+    ],
+    [
+        "The relation - live version - does not hold between Foo Fighters and Medicine at Midnight.",
+        "no-wikiID"
+    ],
+    [
+        "edited by",
+        "P98"
+    ],
+    [
+        "Ajaccio Napoleon Bonaparte Airport is a location.",
+        "no-wikiID"
+    ],
+    [
+        "Type F142M','mid-engine sports car",
+        "no-wikiID"
+    ],
+    [
+        "Washington",
+        "P7943"
+    ],
+    [
+        "To Zion is a/an album.",
+        "no-wikiID"
+    ],
+    [
+        "First built in",
+        "no-wikiID"
+    ],
+    [
+        "The relation - location - does not hold between Arizona Cardinals and Phoenix metropolitan area.",
+        "no-wikiID"
+    ],
+    [
+        "Manufactured by",
+        "P176"
+    ],
+    [
+        "Þjazi",
+        "no-wikiID"
+    ],
+    [
+        "Married",
+        "P26"
+    ],
+    [
+        "established by",
+        "P112"
+    ],
+    [
+        "held on",
+        "no-wikiID"
+    ],
+    [
+        "themed areas'], ['Star Wars','related to",
+        "no-wikiID"
+    ],
+    [
+        "genre','silent comedy film'], ['Sherlock Jr.",
+        "no-wikiID"
+    ],
+    [
+        "position",
+        "P625"
+    ],
+    [
+        "Tajikistan is a/an country.",
+        "no-wikiID"
+    ],
+    [
+        "Compatible with",
+        "P8956"
+    ],
+    [
+        "Bjarne Stroustrup is a/an person.",
+        "no-wikiID"
+    ],
+    [
+        "Acquired by",
+        "P7888"
+    ],
+    [
+        "PAL region'], ['Game Boy Advance','released in','mainland China'], ['Game Boy Advance",
+        "no-wikiID"
+    ],
+    [
+        "Xbox One'], ['Microsoft Edge','released for",
+        "no-wikiID"
+    ],
+    [
+        "taken from",
+        "no-wikiID"
+    ],
+    [
+        "progenitor",
+        "P22"
+    ],
+    [
+        "considered to be",
+        "no-wikiID"
+    ],
+    [
+        "“Putting Scotland Ahead!”'], ['Geoffrey Alexander Campbell",
+        "no-wikiID"
+    ],
+    [
+        "harmonies",
+        "no-wikiID"
+    ],
+    [
+        "2002'], [['The Miseducation of Lauryn Hill','release",
+        "no-wikiID"
+    ],
+    [
+        "plays",
+        "P641"
+    ],
+    [
+        "The entities are incorrect.'] 7. What do you think about the potential relations? ['The potential relations are correct.",
+        "no-wikiID"
+    ],
+    [
+        "NCAA Division I-AA is a/an concept.'] 3. Potential relations between entities: ['part of",
+        "no-wikiID"
+    ],
+    [
+        "The relation - production - does not hold between Hiroshima mon amour and Japan.'] 5. Final triples: [['Hiroshima mon amour",
+        "no-wikiID"
+    ],
+    [
+        "Merged with",
+        "P7888"
+    ],
+    [
+        "player for",
+        "no-wikiID"
+    ],
+    [
+        "bought by','merged into'] 4. Draft of the triples. [['Brett Sperry",
+        "no-wikiID"
+    ],
+    [
+        "The relation - located in - does not hold between Joinville Studios and Paris.",
+        "no-wikiID"
+    ],
+    [
+        "2012 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "operated as','specialty film division of Paramount Pictures']] 5. Final triples: [['Paramount Vantage",
+        "no-wikiID"
+    ],
+    [
+        "had",
+        "P527"
+    ],
+    [
+        "iPad'], ['Fruit Ninja','released for",
+        "no-wikiID"
+    ],
+    [
+        "Reconstituted",
+        "no-wikiID"
+    ],
+    [
+        "professional female tennis players",
+        "no-wikiID"
+    ],
+    [
+        "end date",
+        "P582"
+    ],
+    [
+        "induction",
+        "no-wikiID"
+    ],
+    [
+        "composer",
+        "P86"
+    ],
+    [
+        "Year",
+        "P585"
+    ],
+    [
+        "2020 Summer Olympics is a/an event.",
+        "no-wikiID"
+    ],
+    [
+        "declared by",
+        "no-wikiID"
+    ],
+    [
+        "Played a role in",
+        "no-wikiID"
+    ],
+    [
+        "Responsible for",
+        "P101"
+    ],
+    [
+        "home of','stadium'], ['Los Angeles Raiders",
+        "no-wikiID"
+    ],
+    [
+        "1961 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "prequel','sequel'] Let's make a draft of the triples. [['The Shadow of the Wind",
+        "no-wikiID"
+    ],
+    [
+        "predicate",
+        "P9970"
+    ],
+    [
+        "layer in",
+        "no-wikiID"
+    ],
+    [
+        "football']]. 7. Final triples: [['White Hart Lane",
+        "no-wikiID"
+    ],
+    [
+        "Host",
+        "P371"
+    ],
+    [
+        "Applies",
+        "P1001"
+    ],
+    [
+        "Game Boy Advance']] 4. [['Game Boy','release",
+        "no-wikiID"
+    ],
+    [
+        "The flag was passed into the hands of the Umayyads and Abbasids.",
+        "no-wikiID"
+    ],
+    [
+        "rugby union'], ['World Cup",
+        "no-wikiID"
+    ],
+    [
+        "The Fifth Element is a/an film.",
+        "no-wikiID"
+    ],
+    [
+        "English writer",
+        "no-wikiID"
+    ],
+    [
+        "German",
+        "P227"
+    ],
+    [
+        "Europe",
+        "P7704"
+    ],
+    [
+        "planned",
+        "no-wikiID"
+    ],
+    [
+        "The relation - part of - does not hold between troubled married couple and Sex, Lies, and Videotape.",
+        "no-wikiID"
+    ],
+    [
+        "Robert Clavel is a/an person.'] 3. What potential relations can you think of between these entities? ['instance of",
+        "no-wikiID"
+    ],
+    [
+        "2015 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "RuneScape 3",
+        "no-wikiID"
+    ],
+    [
+        "described','so-bad-it's-good cinema'], ['Plan 9 from Outer Space",
+        "no-wikiID"
+    ],
+    [
+        "instance of'] 4. Draft of triples: [['Sogndal",
+        "no-wikiID"
+    ],
+    [
+        "contains",
+        "P527"
+    ],
+    [
+        "note",
+        "P2916"
+    ],
+    [
+        "Used with",
+        "no-wikiID"
+    ],
+    [
+        "collegiate research university",
+        "no-wikiID"
+    ],
+    [
+        "division",
+        "P118"
+    ],
+    [
+        "The relation - location - does not hold between Maine Road and Manchester.",
+        "no-wikiID"
+    ],
+    [
+        "Île-de-France'], 'The relation - located in - holds between Paris and Île-de-France.'], [['Seine River",
+        "no-wikiID"
+    ],
+    [
+        "progressive metal is a/an concept.'] 3. Think about the potential relations between these entities: ['released by",
+        "no-wikiID"
+    ],
+    [
+        "Hong Kong",
+        "P3346"
+    ],
+    [
+        "east'], ['Mediterranean Sea','set at",
+        "no-wikiID"
+    ],
+    [
+        "video games",
+        "P7759"
+    ],
+    [
+        "horticulturalists'], ['The Green Guerillas','member of",
+        "no-wikiID"
+    ],
+    [
+        "Germany is a/an country.'] 3. Potential relations between entities: ['located in",
+        "no-wikiID"
+    ],
+    [
+        "Kawasaki Heavy Industries']]. 5. What do you think about the triples? ['The triples are correct.",
+        "no-wikiID"
+    ],
+    [
+        "Mars, Incorporated'], ['Snickers",
+        "no-wikiID"
+    ],
+    [
+        "founded in",
+        "P571"
+    ],
+    [
+        "held by",
+        "P276"
+    ],
+    [
+        "Honda",
+        "no-wikiID"
+    ],
+    [
+        "genre",
+        "P136"
+    ],
+    [
+        "1998'], ['Unplugged No. 2.0','release",
+        "no-wikiID"
+    ],
+    [
+        "2013",
+        "no-wikiID"
+    ],
+    [
+        "August 2016 is a date.'] 3. Think about the potential relations between these entities: ['founded by",
+        "no-wikiID"
+    ],
+    [
+        "Kyle Chandler'], ['The Midnight Sky','star",
+        "no-wikiID"
+    ],
+    [
+        "named after",
+        "P138"
+    ],
+    [
+        "2001 is a/an date.'] 3. Potential relations: ['renamed'] 4. Draft triples: [['Swissair Group','renamed",
+        "no-wikiID"
+    ],
+    [
+        "1994",
+        "no-wikiID"
+    ],
+    [
+        "river flows into",
+        "no-wikiID"
+    ],
+    [
+        "Place",
+        "P276"
+    ],
+    [
+        "Regards','summum bonum']] 6. Final triples after filtering out incorrect triples: [['On Liberty",
+        "no-wikiID"
+    ],
+    [
+        "carried into",
+        "no-wikiID"
+    ],
+    [
+        "Sorbia",
+        "no-wikiID"
+    ],
+    [
+        "Adobe Systems",
+        "no-wikiID"
+    ],
+    [
+        "IAAF",
+        "P1146"
+    ],
+    [
+        "took over",
+        "no-wikiID"
+    ],
+    [
+        "North America",
+        "P5944"
+    ],
+    [
+        "words",
+        "P5187"
+    ],
+    [
+        "Iberian Peninsula is a/an region.",
+        "no-wikiID"
+    ],
+    [
+        "2011 D-league attendance record']] 4. The following triples seem to be incorrect: [['Iowa Wolves",
+        "no-wikiID"
+    ],
+    [
+        "Eliminated",
+        "P2443"
+    ],
+    [
+        "can receive",
+        "no-wikiID"
+    ],
+    [
+        "winner'] Let's make a draft of the triples. [['2011 Rugby World Cup",
+        "no-wikiID"
+    ],
+    [
+        "Period of success",
+        "no-wikiID"
+    ],
+    [
+        "Type','sailboat'],...]  Please provide your answer in the format of the following:  [['Lapworth 24",
+        "no-wikiID"
+    ],
+    [
+        "The relation - date - does not hold between Bellator 269 and Moscow, Russia.'] Therefore, final triples should be: [['Bellator 269",
+        "no-wikiID"
+    ],
+    [
+        "1980s','music",
+        "no-wikiID"
+    ],
+    [
+        "gave",
+        "P7904"
+    ],
+    [
+        "Ephraim is a/an tribe.",
+        "no-wikiID"
+    ],
+    [
+        "RAGE Technology Group",
+        "no-wikiID"
+    ],
+    [
+        "Brothers Grimm",
+        "no-wikiID"
+    ],
+    [
+        "alternative of",
+        "no-wikiID"
+    ],
+    [
+        "Sumer is a/an place.",
+        "no-wikiID"
+    ],
+    [
+        "Sumer",
+        "no-wikiID"
+    ],
+    [
+        "Amber Valletta'], ['The Spy Next Door','starring",
+        "no-wikiID"
+    ],
+    [
+        "Capital",
+        "P36"
+    ],
+    [
+        "Scotland'], ['James VI",
+        "no-wikiID"
+    ],
+    [
+        "competes with",
+        "no-wikiID"
+    ],
+    [
+        "Eszter Balint'], ['Stranger Than Paradise",
+        "no-wikiID"
+    ],
+    [
+        "H. P. Lovecraft is a/an person.",
+        "no-wikiID"
+    ],
+    [
+        "MS. Found in a Bottle is a/an short story.",
+        "no-wikiID"
+    ],
+    [
+        "Albuquerque'], ['Better Call Saul','set in",
+        "no-wikiID"
+    ],
+    [
+        "Producer",
+        "P162"
+    ],
+    [
+        "river flows out of",
+        "no-wikiID"
+    ],
+    [
+        "Destroyer'], ['Vulgate",
+        "no-wikiID"
+    ],
+    [
+        "genre','science fiction'], ['science fiction",
+        "no-wikiID"
+    ],
+    [
+        "published by','released in",
+        "no-wikiID"
+    ],
+    [
+        "located near",
+        "no-wikiID"
+    ],
+    [
+        "gameplay focuses on",
+        "no-wikiID"
+    ],
+    [
+        "The relation - nominated_for - does not hold between Academy Award and Best Supporting Actress.'] 5. Therefore, final triples should be: [['Everybody's Ruby",
+        "no-wikiID"
+    ],
+    [
+        "The relation - corresponds to - does not hold between Samaria and biblical allotments of the tribe of Ephraim.",
+        "no-wikiID"
+    ],
+    [
+        "Bremen",
+        "P4246"
+    ],
+    [
+        "Japan'], ['Wii Sports Resort','released in",
+        "no-wikiID"
+    ],
+    [
+        "Trapezuntine Empire",
+        "no-wikiID"
+    ],
+    [
+        "The relation - Analyzes - does not hold between The Origins of Totalitarianism and Stalinism.",
+        "no-wikiID"
+    ],
+    [
+        "husband",
+        "P26"
+    ],
+    [
+        "2020 Coppa Italia Serie C Final'],...]  Please include your answer in the following format: [['Ternana','relation",
+        "no-wikiID"
+    ],
+    [
+        "Thiruvananthapuram is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "November 20",
+        "no-wikiID"
+    ],
+    [
+        "Johannesburg is a/an location.'] Now we think about the potential relations between these entities: ['located in'] Let's make a draft of the triples. [['University of the Witwatersrand",
+        "no-wikiID"
+    ],
+    [
+        "The relation - sequel - does not hold between Murders in the Rue Morgue and The Mystery of Marie Rogêt.",
+        "no-wikiID"
+    ],
+    [
+        "Headquartered in",
+        "no-wikiID"
+    ],
+    [
+        "organize'] Let's make a draft of the triples. [['2021 European Athletics Championships",
+        "no-wikiID"
+    ],
+    [
+        "Pleistocene",
+        "no-wikiID"
+    ],
+    [
+        "Originated from",
+        "P9072"
+    ],
+    [
+        "Cuba is a/an location.'] Now we think about the potential relations between these entities: ['founded in",
+        "no-wikiID"
+    ],
+    [
+        "Los Cabos Open is a/an event.",
+        "no-wikiID"
+    ],
+    [
+        "Penn\\'s Woods']] 5. Filter out incorrect triples. The following triples seem to be incorrect: [['William Penn",
+        "no-wikiID"
+    ],
+    [
+        "artist",
+        "P175"
+    ],
+    [
+        "The tomb was initiated for the burial of Ramesses XI but it is likely that its construction was abandoned and that it was never used for Ramesses's interment.'], ['KV4 is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "is a part of",
+        "no-wikiID"
+    ],
+    [
+        "The relation - announced at - does not hold between Wii Sports Resort and E3 2008.'] 6. Therefore, final triples should be: [['Wii Sports Resort",
+        "no-wikiID"
+    ],
+    [
+        "Apple Inc.",
+        "no-wikiID"
+    ],
+    [
+        "Stars",
+        "P25"
+    ],
+    [
+        "EA Los Angeles']] 5. Filter out incorrect triples. The following triples seem to be incorrect: [['Westwood Studios','merged with",
+        "no-wikiID"
+    ],
+    [
+        "The relation - same fictional universe - does not hold between The Man Who Was Thursday and The novel.'] Therefore, final triples should be: [['The novel",
+        "no-wikiID"
+    ],
+    [
+        "writer",
+        "P50"
+    ],
+    [
+        "Words is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "buried by",
+        "no-wikiID"
+    ],
+    [
+        "killed",
+        "P20"
+    ],
+    [
+        "Replace','some rights reserved']]. Here is the reason why I think these triples are incorrect: ['The relation - Explain - does not hold between rights and explanation.",
+        "no-wikiID"
+    ],
+    [
+        "purchased",
+        "P7888"
+    ],
+    [
+        "part of'] 4. Draft of triples: [['Normal Sheeple",
+        "no-wikiID"
+    ],
+    [
+        "Toyota iQ']] 5. Final triples: [['Toyota iQ','manufactured by",
+        "no-wikiID"
+    ],
+    [
+        "Music",
+        "P1433"
+    ],
+    [
+        "Paluxy River",
+        "no-wikiID"
+    ],
+    [
+        "Merge Records'], ['Dark in Here",
+        "no-wikiID"
+    ],
+    [
+        "From",
+        "P580"
+    ],
+    [
+        "Better Call Saul'], ['Jimmy McGill",
+        "no-wikiID"
+    ],
+    [
+        "language",
+        "P407"
+    ],
+    [
+        "Panther",
+        "no-wikiID"
+    ],
+    [
+        "Boeing']] 5. Filtering out incorrect triples: [['Lockheed L-1011','manufacturer",
+        "no-wikiID"
+    ],
+    [
+        "Netherlands']]. Here is the reason why I think these triples are incorrect: ['The relation - participated in - does not hold between Maartje Keuning and 2020 Summer Olympics.",
+        "no-wikiID"
+    ],
+    [
+        "edition of",
+        "P629"
+    ],
+    [
+        "Pacific Ocean is a/an region.",
+        "no-wikiID"
+    ],
+    [
+        "nominated_for",
+        "P1411"
+    ],
+    [
+        "centers on",
+        "no-wikiID"
+    ],
+    [
+        "charted at",
+        "no-wikiID"
+    ],
+    [
+        "Auxiliary Services Department'], ['Los Angeles Memorial Coliseum",
+        "no-wikiID"
+    ],
+    [
+        "28",
+        "no-wikiID"
+    ],
+    [
+        "ice hockey",
+        "no-wikiID"
+    ],
+    [
+        "Njörðr']]. Here is the reason why I think these triples are incorrect: ['The relation - family - does not hold between Freyr and Njörðr.",
+        "no-wikiID"
+    ],
+    [
+        "Ashwood",
+        "no-wikiID"
+    ],
+    [
+        "produced",
+        "P162"
+    ],
+    [
+        "Tiffany Boone'], ['The Midnight Sky','star",
+        "no-wikiID"
+    ],
+    [
+        "2006–07'], ['Korona Kielce','season",
+        "no-wikiID"
+    ],
+    [
+        "played on",
+        "no-wikiID"
+    ],
+    [
+        "Plays in",
+        "P1303"
+    ],
+    [
+        "USC Trojans",
+        "no-wikiID"
+    ],
+    [
+        "attracts','millions of visitors each year'], 'The city is a major tourist destination, attracting millions of visitors each year.', ['Paris','millions of visitors each year",
+        "no-wikiID"
+    ],
+    [
+        "Markets",
+        "P7845"
+    ],
+    [
+        "event",
+        "P793"
+    ],
+    [
+        "Witness",
+        "no-wikiID"
+    ],
+    [
+        "Company founders is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Amonute",
+        "no-wikiID"
+    ],
+    [
+        "play at",
+        "no-wikiID"
+    ],
+    [
+        "ceased operations",
+        "no-wikiID"
+    ],
+    [
+        "originates from",
+        "P495"
+    ],
+    [
+        "The relation - Starred - does not hold between Idiocracy and Dax Shepard.'] Therefore, final triples should be: [['Idiocracy",
+        "no-wikiID"
+    ],
+    [
+        "Paul Howard",
+        "no-wikiID"
+    ],
+    [
+        "Head coach",
+        "P286"
+    ],
+    [
+        "Game Boy Pocket']] 6. [['Game Boy','redesign",
+        "no-wikiID"
+    ],
+    [
+        "2014",
+        "P6953"
+    ],
+    [
+        "exceeded by",
+        "no-wikiID"
+    ],
+    [
+        "notable work'] Let's make a draft of the triples. [['German literature",
+        "no-wikiID"
+    ],
+    [
+        "Son",
+        "P40"
+    ],
+    [
+        "part of','stagecoach stopover']] 5. Filter out incorrect triples if there is any. The following triples seem to be incorrect: [['The Hateful Eight",
+        "no-wikiID"
+    ],
+    [
+        "Entity2',...]  Please provide the list of entities with a brief description of what you know about the entities.  Please provide the list of potential relations between the entities in the text.  Please provide the draft of the triples and the reasoning for filtering out incorrect triples.  Please provide the final triples.  Please provide the reasoning for the final triples.  Please provide the answer in the following format:  Text:...  Entities: ['Entity1",
+        "no-wikiID"
+    ],
+    [
+        "Is the world's largest by",
+        "no-wikiID"
+    ],
+    [
+        "The relation - is - does not hold between Lockheed AC-130 gunship and night.'] Therefore, final triples should be: [['C-130 Hercules",
+        "no-wikiID"
+    ],
+    [
+        "founded",
+        "P571"
+    ],
+    [
+        "2020','mockumentary comedy film",
+        "no-wikiID"
+    ],
+    [
+        "USA – Land of Opportunities'], ['USA – Land of Opportunities','released on",
+        "no-wikiID"
+    ],
+    [
+        "4,094 passing yards'], ['Neil Lomax','record",
+        "no-wikiID"
+    ],
+    [
+        "DreamWorks SKG",
+        "no-wikiID"
+    ],
+    [
+        "Publication",
+        "P577"
+    ],
+    [
+        "Boeing Commercial Airplanes",
+        "no-wikiID"
+    ],
+    [
+        "Analyzes",
+        "P3176"
+    ],
+    [
+        "compete with",
+        "no-wikiID"
+    ],
+    [
+        "Roch Siffredi'], ['Alain Delon",
+        "no-wikiID"
+    ],
+    [
+        "Sold to",
+        "no-wikiID"
+    ],
+    [
+        "The relation - alternative of - does not hold between GNU IceCat and GNU IceWeasel.'] Therefore, final triples should be: [['GNU IceCat",
+        "no-wikiID"
+    ],
+    [
+        "accessed by",
+        "no-wikiID"
+    ],
+    [
+        "1905 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "consolidated",
+        "P3390"
+    ],
+    [
+        "American Football League",
+        "no-wikiID"
+    ],
+    [
+        "Winner",
+        "P1346"
+    ],
+    [
+        "divided into",
+        "P150"
+    ],
+    [
+        "Made",
+        "P571"
+    ],
+    [
+        "in",
+        "P131"
+    ],
+    [
+        "Voice Actor",
+        "P725"
+    ],
+    [
+        "United States Hockey Hall of Fame",
+        "no-wikiID"
+    ],
+    [
+        "March 1992 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "football'], ['Campeonato Brasileiro Série A','sport",
+        "no-wikiID"
+    ],
+    [
+        "investigate",
+        "P1840"
+    ],
+    [
+        "debuted at",
+        "no-wikiID"
+    ],
+    [
+        "Tottenham",
+        "no-wikiID"
+    ],
+    [
+        "country",
+        "P17"
+    ],
+    [
+        "built",
+        "P571"
+    ],
+    [
+        "founded from",
+        "no-wikiID"
+    ],
+    [
+        "John Luther Long",
+        "no-wikiID"
+    ],
+    [
+        "ARM is a/an architecture.",
+        "no-wikiID"
+    ],
+    [
+        "New Zealand is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "owned by'] 4. Make a draft of the triples. [['Baidu",
+        "no-wikiID"
+    ],
+    [
+        "time",
+        "P585"
+    ],
+    [
+        "Charles Laughton",
+        "no-wikiID"
+    ],
+    [
+        "Avid Technology is a/an company.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - flight date - does not hold between Saab 2000 and March 1992.",
+        "no-wikiID"
+    ],
+    [
+        "advocate for','religious freedom'], ['William Penn",
+        "no-wikiID"
+    ],
+    [
+        "raster graphics'], ['Shockwave','supports",
+        "no-wikiID"
+    ],
+    [
+        "bankrupted",
+        "no-wikiID"
+    ],
+    [
+        "family','marriage",
+        "no-wikiID"
+    ],
+    [
+        "Japan'], ['Wii Sports Resort','required",
+        "no-wikiID"
+    ],
+    [
+        "exploited','resources'], ['French",
+        "no-wikiID"
+    ],
+    [
+        "John Calvin','systematic theology",
+        "no-wikiID"
+    ],
+    [
+        "The relation - produced in - does not hold between Fokker 100 and Netherlands.']  Therefore, final triples should be: [['Fokker 100",
+        "no-wikiID"
+    ],
+    [
+        "October 26, 2013",
+        "no-wikiID"
+    ],
+    [
+        "portrayed by",
+        "P175"
+    ],
+    [
+        "The relation - based on - holds between Nanchang Q-5 and Shenyang J-6.",
+        "no-wikiID"
+    ],
+    [
+        "2002–08'], ['Korona Kielce','season",
+        "no-wikiID"
+    ],
+    [
+        "few weeks']] 18. [['Game Boy','release",
+        "no-wikiID"
+    ],
+    [
+        "follows",
+        "P155"
+    ],
+    [
+        "Bjarne Stroustrup",
+        "no-wikiID"
+    ],
+    [
+        "EU is a/an abbreviation.",
+        "no-wikiID"
+    ],
+    [
+        "French",
+        "P6671"
+    ],
+    [
+        "Melbourne Football Club is a/an club.",
+        "no-wikiID"
+    ],
+    [
+        "position','midfielder']]. 7. Check the validity of the triples. The triples seem to be valid. 8. Therefore, the final answer is: [['Beijing Guoan",
+        "no-wikiID"
+    ],
+    [
+        "Release Date",
+        "P577"
+    ],
+    [
+        "28 is a/an number.'] Now we think about the potential relations between these entities: ['instance of','member of",
+        "no-wikiID"
+    ],
+    [
+        "Inspired by",
+        "P144"
+    ],
+    [
+        "1913 college football season is a/an event.",
+        "no-wikiID"
+    ],
+    [
+        "American football is a/an concept.'] 3. Think about the potential relations between these entities: ['played by','record'] 4. Make a draft of the triples: [['1910 Vermont Green and Gold",
+        "no-wikiID"
+    ],
+    [
+        "The relation - part of - does not hold between The Red Tree and Shaun Tan.",
+        "no-wikiID"
+    ],
+    [
+        "home of','seating capacity'] Let's make a draft of the triples. [['Melbourne",
+        "no-wikiID"
+    ],
+    [
+        "facing",
+        "P560"
+    ],
+    [
+        "coach",
+        "P286"
+    ],
+    [
+        "Employer",
+        "P108"
+    ],
+    [
+        "Ranked by",
+        "no-wikiID"
+    ],
+    [
+        "number of Nobel laureates",
+        "no-wikiID"
+    ],
+    [
+        "1946 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "AlphaGo",
+        "no-wikiID"
+    ],
+    [
+        "child",
+        "P40"
+    ],
+    [
+        "Xbox 360'], ['Table Tennis','released by",
+        "no-wikiID"
+    ],
+    [
+        "developed by'] 3. Make a draft of the triples. [['Microsoft Edge','released on",
+        "no-wikiID"
+    ],
+    [
+        "Between the Buried and Me",
+        "no-wikiID"
+    ],
+    [
+        "Notebooks is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "inspiration",
+        "P941"
+    ],
+    [
+        "growth','maritime traffic'], ['Punta Arenas",
+        "no-wikiID"
+    ],
+    [
+        "author",
+        "P50"
+    ],
+    [
+        "2017'], ['The Hunting Party",
+        "no-wikiID"
+    ],
+    [
+        "at war with",
+        "no-wikiID"
+    ],
+    [
+        "The relation - location - does not hold between South Australian outback and Australia.'] 6. Therefore, final triples should be: [['Central Australia Railway",
+        "no-wikiID"
+    ],
+    [
+        "800 meters'], ['Djamel Sejati",
+        "no-wikiID"
+    ],
+    [
+        "Paris is a/an location.'] 3. Think about the potential relations between these entities: ['director",
+        "no-wikiID"
+    ],
+    [
+        "England is a/an country.",
+        "no-wikiID"
+    ],
+    [
+        "2004 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Rank",
+        "P1545"
+    ],
+    [
+        "principal activity of",
+        "no-wikiID"
+    ],
+    [
+        "Home location",
+        "no-wikiID"
+    ],
+    [
+        "Swissair Group'], ['SAirServices",
+        "no-wikiID"
+    ],
+    [
+        "developed by",
+        "P61"
+    ],
+    [
+        "charged with",
+        "P1595"
+    ],
+    [
+        "The relation - broadcast - does not hold between Nashville Predators and WPRT-FM.'] Therefore, final triples should be: [['Nashville Predators",
+        "no-wikiID"
+    ],
+    [
+        "Swissair Group'], ['Swissair Group",
+        "no-wikiID"
+    ],
+    [
+        "published by','released in','required",
+        "no-wikiID"
+    ],
+    [
+        "builder",
+        "P176"
+    ],
+    [
+        "based in",
+        "P276"
+    ],
+    [
+        "Kawasaki Heavy Industries'], ['Kawasaki T-4",
+        "no-wikiID"
+    ],
+    [
+        "enrobed in','milk chocolate'], ['annual global sales",
+        "no-wikiID"
+    ],
+    [
+        "Andriy Melnyk is a/an person.",
+        "no-wikiID"
+    ],
+    [
+        "produced by",
+        "P162"
+    ],
+    [
+        "influence",
+        "P737"
+    ],
+    [
+        "Occupation",
+        "P106"
+    ],
+    [
+        "1890s is a/an decade.",
+        "no-wikiID"
+    ],
+    [
+        "Virginia",
+        "P7618"
+    ],
+    [
+        "Participate",
+        "P1344"
+    ],
+    [
+        "Iberian Peninsula",
+        "no-wikiID"
+    ],
+    [
+        "competitor",
+        "P710"
+    ],
+    [
+        "used','reinforcement learning'], ['DeepMind','made significant advances",
+        "no-wikiID"
+    ],
+    [
+        "belonged to",
+        "P127"
+    ],
+    [
+        "1993",
+        "no-wikiID"
+    ],
+    [
+        "influences",
+        "no-wikiID"
+    ],
+    [
+        "notable work",
+        "P800"
+    ],
+    [
+        "Released",
+        "P577"
+    ],
+    [
+        "Influenced by",
+        "P737"
+    ],
+    [
+        "cooperate with",
+        "no-wikiID"
+    ],
+    [
+        "Founded by",
+        "P112"
+    ],
+    [
+        "International Space Station is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - continued to be - does not hold between Panzer IV and German armoured formations.",
+        "no-wikiID"
+    ],
+    [
+        "goal",
+        "P3712"
+    ],
+    [
+        "The relation - location - does not hold between Xcel Energy Center and Minnesota Wild.'] 6. Final triples: [['Minnesota Wild','sport",
+        "no-wikiID"
+    ],
+    [
+        "NBA G League is a/an league.",
+        "no-wikiID"
+    ],
+    [
+        "Developed",
+        "P61"
+    ],
+    [
+        "Devoted to",
+        "no-wikiID"
+    ],
+    [
+        "Party",
+        "P102"
+    ],
+    [
+        "home ground",
+        "P115"
+    ],
+    [
+        "Licensed by",
+        "no-wikiID"
+    ],
+    [
+        "Joined",
+        "P580"
+    ],
+    [
+        "prequel','sequel','set in",
+        "no-wikiID"
+    ],
+    [
+        "certification date",
+        "no-wikiID"
+    ],
+    [
+        "email clients'], ['Gmail','supports",
+        "no-wikiID"
+    ],
+    [
+        "genus",
+        "P21"
+    ],
+    [
+        "child','successor",
+        "no-wikiID"
+    ],
+    [
+        "continued to be",
+        "no-wikiID"
+    ],
+    [
+        "Genre','silent film'], ['Poor Mrs. Jones",
+        "no-wikiID"
+    ],
+    [
+        "Premiered at",
+        "P4647"
+    ],
+    [
+        "Open Content Project",
+        "no-wikiID"
+    ],
+    [
+        "owned",
+        "P127"
+    ],
+    [
+        "Alina Foley'], ['The Spy Next Door','starring",
+        "no-wikiID"
+    ],
+    [
+        "Instance of",
+        "P31"
+    ],
+    [
+        "Screenwriter",
+        "P58"
+    ],
+    [
+        "AFL is a/an competition.'] 3. Think about the potential relations between these entities: ['instance of",
+        "no-wikiID"
+    ],
+    [
+        "November 2021 is a/an date.'] 3. Potential relations between entities: ['location','sport'] 4. Draft of the triples: [['Pala Alpitour",
+        "no-wikiID"
+    ],
+    [
+        "Oxford",
+        "P1415"
+    ],
+    [
+        "association','seafaring'], ['Njörðr",
+        "no-wikiID"
+    ],
+    [
+        "film distribution label",
+        "no-wikiID"
+    ],
+    [
+        "is a implementation of",
+        "no-wikiID"
+    ],
+    [
+        "The relation - released for - holds between Microsoft Edge and Xbox One.",
+        "no-wikiID"
+    ],
+    [
+        "Compatible with','macOS'], ['GNU IceCat",
+        "no-wikiID"
+    ],
+    [
+        "does not run on",
+        "no-wikiID"
+    ],
+    [
+        "winner",
+        "P1346"
+    ],
+    [
+        "Algeria",
+        "P12572"
+    ],
+    [
+        "file archiver",
+        "no-wikiID"
+    ],
+    [
+        "Kansas City Scouts",
+        "no-wikiID"
+    ],
+    [
+        "Operational headquarters in",
+        "no-wikiID"
+    ],
+    [
+        "affiliated with",
+        "P1416"
+    ],
+    [
+        "petitioned",
+        "no-wikiID"
+    ],
+    [
+        "number of aircraft",
+        "no-wikiID"
+    ],
+    [
+        "Genre','satire']]. Here is the reason why I think these triples are incorrect: ['The relation - plot - does not hold between MS. Found in a Bottle and sea.",
+        "no-wikiID"
+    ],
+    [
+        "nickname",
+        "P1449"
+    ],
+    [
+        "partially succeeded by",
+        "no-wikiID"
+    ],
+    [
+        "The relation - location - does not hold between Don Carlo II di Tocco Cantelmo Stuart and Kingdom of Naples.",
+        "no-wikiID"
+    ],
+    [
+        "Indian is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "rugby league'], ['rugby union','sport",
+        "no-wikiID"
+    ],
+    [
+        "owns",
+        "P355"
+    ],
+    [
+        "Croke Park is a location in Ireland.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - sold - does not hold between Gears of War 2 and two million.",
+        "no-wikiID"
+    ],
+    [
+        "The Prisoner of Heaven']]. Here is the reason why I think these triples are incorrect: ['The relation - prequel - does not hold between The Shadow of the Wind and The Angel\\'s Game.",
+        "no-wikiID"
+    ],
+    [
+        "date of",
+        "P813"
+    ],
+    [
+        "Preds",
+        "P161"
+    ],
+    [
+        "Origin",
+        "P248"
+    ],
+    [
+        "headquarters located in",
+        "no-wikiID"
+    ],
+    [
+        "aired on",
+        "P449"
+    ],
+    [
+        "part",
+        "P1107"
+    ],
+    [
+        "Archean Eon",
+        "no-wikiID"
+    ],
+    [
+        "The relation - language - does not hold between Lycia and Turkish.'] 5. Therefore, final triples should be: [['Lycia",
+        "no-wikiID"
+    ],
+    [
+        "Windows 10'], ['Microsoft Edge','released for",
+        "no-wikiID"
+    ],
+    [
+        "Washington Irving",
+        "no-wikiID"
+    ],
+    [
+        "basketball'], ['New York Knicks",
+        "no-wikiID"
+    ],
+    [
+        "Kingfisher Sky",
+        "no-wikiID"
+    ],
+    [
+        "The relation - Year - does not hold between 2021 and NCAA Division I FCS football season.']  Please let me know if you have any questions or need further clarification.  I will be happy to help you with your task.  Please provide your answer in the following format: [['Subject",
+        "no-wikiID"
+    ],
+    [
+        "Mars, Incorporated",
+        "no-wikiID"
+    ],
+    [
+        "The relation - used by - does not hold between Rockstar San Diego and Rockstar Games.",
+        "no-wikiID"
+    ],
+    [
+        "Main product line",
+        "no-wikiID"
+    ],
+    [
+        "Netherlands women's national water polo team'], ['Maartje Keuning','member of",
+        "no-wikiID"
+    ],
+    [
+        "The relation - founded by - does not hold between Digital Equipment Corporation and Harlan Anderson.'] 6. Therefore, final triples should be: [['Ken Olsen",
+        "no-wikiID"
+    ],
+    [
+        "formed by",
+        "no-wikiID"
+    ],
+    [
+        "cited",
+        "P248"
+    ],
+    [
+        "Written by",
+        "P50"
+    ],
+    [
+        "Virgin America'], ['Virgin America",
+        "no-wikiID"
+    ],
+    [
+        "declared",
+        "P2218"
+    ],
+    [
+        "Battlefield 2 is a/an game.",
+        "no-wikiID"
+    ],
+    [
+        "headquartered",
+        "no-wikiID"
+    ],
+    [
+        "Ubisoft Montreal is a/an company.",
+        "no-wikiID"
+    ],
+    [
+        "alias of",
+        "no-wikiID"
+    ],
+    [
+        "kiosk is a/an technology.",
+        "no-wikiID"
+    ],
+    [
+        "instrumental in",
+        "no-wikiID"
+    ],
+    [
+        "1998'], ['Florida Panthers",
+        "no-wikiID"
+    ],
+    [
+        "Sogndal IL is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Influence",
+        "P737"
+    ],
+    [
+        "basketball'], ['TD Garden",
+        "no-wikiID"
+    ],
+    [
+        "birth place",
+        "P19"
+    ],
+    [
+        "2 July 1897",
+        "no-wikiID"
+    ],
+    [
+        "Recognized by",
+        "P3680"
+    ],
+    [
+        "Sherlock Holmes",
+        "no-wikiID"
+    ],
+    [
+        "threatens",
+        "no-wikiID"
+    ],
+    [
+        "1926",
+        "no-wikiID"
+    ],
+    [
+        "one million']] 16. [['Game Boy','sales",
+        "no-wikiID"
+    ],
+    [
+        "Devon Allman",
+        "no-wikiID"
+    ],
+    [
+        "published'] 4. Draft triples: [['Pentamerone",
+        "no-wikiID"
+    ],
+    [
+        "used by','released by'] 4. Draft of the triples: [['RAGE Technology Group",
+        "no-wikiID"
+    ],
+    [
+        "Novel",
+        "P2567"
+    ],
+    [
+        "Juventus U23'],...]  Please include your answer in the following format: [['Ternana','relation",
+        "no-wikiID"
+    ],
+    [
+        "Inherits from",
+        "P144"
+    ],
+    [
+        "instance of",
+        "P31"
+    ],
+    [
+        "position','midfielder']] 5. Filter out incorrect triples if there is any. The following triples seem to be incorrect: [['Zhou Wenfeng",
+        "no-wikiID"
+    ],
+    [
+        "played in",
+        "no-wikiID"
+    ],
+    [
+        "Predicate",
+        "P9970"
+    ],
+    [
+        "Brooklyn Nine-Nine is a/an television series.",
+        "no-wikiID"
+    ],
+    [
+        "Used by",
+        "P2341"
+    ],
+    [
+        "Father",
+        "P22"
+    ],
+    [
+        "George Clooney",
+        "no-wikiID"
+    ],
+    [
+        "American film production company is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "Has Coach",
+        "no-wikiID"
+    ],
+    [
+        "Mass media is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "public research university is a/an concept.'] Now we think about the potential relations between these entities: ['located in",
+        "no-wikiID"
+    ],
+    [
+        "2014 is a/an year.",
+        "no-wikiID"
+    ],
+    [
+        "comprises",
+        "P2635"
+    ],
+    [
+        "Mehmet Bozdağ is a/an creator.",
+        "no-wikiID"
+    ],
+    [
+        "Event",
+        "P793"
+    ],
+    [
+        "Human Development Index",
+        "P1081"
+    ],
+    [
+        "Sepp Blatter",
+        "no-wikiID"
+    ],
+    [
+        "inspired by",
+        "P144"
+    ],
+    [
+        "held in",
+        "no-wikiID"
+    ],
+    [
+        "team nickname",
+        "no-wikiID"
+    ],
+    [
+        "home of','stadium'], ['stadium",
+        "no-wikiID"
+    ],
+    [
+        "feature",
+        "P1552"
+    ],
+    [
+        "1931 is a/an date.'] 3. Think about the potential relations between these entities: ['author",
+        "no-wikiID"
+    ],
+    [
+        "Dutch",
+        "P1006"
+    ],
+    [
+        "1984 is a/an year.','multi-platinum is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Premiere",
+        "P1191"
+    ],
+    [
+        "Breaking Bad is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Toyota iQ'], ['Aston Martin Cygnet','rebuilt as",
+        "no-wikiID"
+    ],
+    [
+        "credited with",
+        "no-wikiID"
+    ],
+    [
+        "William Faulkner",
+        "no-wikiID"
+    ],
+    [
+        "1898 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "destroyed by",
+        "P770"
+    ],
+    [
+        "head of",
+        "P2389"
+    ],
+    [
+        "The relation - related to - does not hold between Dissolution of the Monasteries and Henry VIII of England.'] 6. What are the final triples? [['Institutes of the Christian Religion",
+        "no-wikiID"
+    ],
+    [
+        "Lake Garda",
+        "no-wikiID"
+    ],
+    [
+        "The relation - precedes - holds between Pleistocene and Holocene.",
+        "no-wikiID"
+    ],
+    [
+        "Mount Baker-Snoqualmie National Forest'], ['Dip Top Peak','situated north of",
+        "no-wikiID"
+    ],
+    [
+        "Lockheed'], ['Douglas DC-10','manufacturer",
+        "no-wikiID"
+    ],
+    [
+        "organization",
+        "P108"
+    ],
+    [
+        "is','military']]. 6. Final triples after filtering out incorrect triples. [['C-130 Hercules",
+        "no-wikiID"
+    ],
+    [
+        "influenced by",
+        "P737"
+    ],
+    [
+        "assist",
+        "P767"
+    ],
+    [
+        "The relation - born after - does not hold between Boetius and Odoacer.",
+        "no-wikiID"
+    ],
+    [
+        "iPod Touch'], ['Fruit Ninja','released for",
+        "no-wikiID"
+    ],
+    [
+        "Suggests','standards for the relationship between authority and liberty'], ['On Liberty",
+        "no-wikiID"
+    ],
+    [
+        "Headquarters location",
+        "P159"
+    ],
+    [
+        "Kansas City Scouts is a/an team.",
+        "no-wikiID"
+    ],
+    [
+        "has",
+        "P31"
+    ],
+    [
+        "Borgward is a/an brand.",
+        "no-wikiID"
+    ],
+    [
+        "1–5–1'], ['Edward Joseph Slavin','record",
+        "no-wikiID"
+    ],
+    [
+        "3D graphics'], ['Shockwave','supports",
+        "no-wikiID"
+    ],
+    [
+        "Signed with",
+        "no-wikiID"
+    ],
+    [
+        "contributed",
+        "P3919"
+    ],
+    [
+        "adopted",
+        "no-wikiID"
+    ],
+    [
+        "Describes",
+        "P921"
+    ],
+    [
+        "Westwood Studios']]. 6. What do you think about the triples? The triples seem to be correct. They describe the founding of Westwood Studios, its renaming, and its mergers. 7. Are there any other triples you could extract? No, these triples seem to capture all the relevant information about Westwood Studios. 8. What do you know about the entities now? ['Westwood Studios, Inc.",
+        "no-wikiID"
+    ],
+    [
+        "CD-ROM",
+        "no-wikiID"
+    ],
+    [
+        "played",
+        "P54"
+    ],
+    [
+        "Agatha Christie",
+        "no-wikiID"
+    ],
+    [
+        "Replace','some rights reserved']] 5. Filtering out incorrect triples. The following triples seem to be incorrect: [['rights",
+        "no-wikiID"
+    ],
+    [
+        "Melbourne",
+        "P9304"
+    ],
+    [
+        "notable work'] 3. Draft triples: [['The Clue of the Silver Key",
+        "no-wikiID"
+    ],
+    [
+        "Germany is a location.'] Now we think about the potential relations between these entities: ['location'] Let's make a draft of the triples. [['company",
+        "no-wikiID"
+    ],
+    [
+        "Role",
+        "P3831"
+    ],
+    [
+        "founded by",
+        "P112"
+    ],
+    [
+        "followed by'] 4. Make a draft of the triples: [['Gears of War 2','released",
+        "no-wikiID"
+    ],
+    [
+        "Foo Fighters is a/an band.",
+        "no-wikiID"
+    ],
+    [
+        "founding'] Let's make a draft of the triples. [['University of Oxford",
+        "no-wikiID"
+    ],
+    [
+        "November 2010'], ['The group",
+        "no-wikiID"
+    ],
+    [
+        "1989",
+        "no-wikiID"
+    ],
+    [
+        "includes','southbridge'], ['Tegra",
+        "no-wikiID"
+    ],
+    [
+        "American",
+        "P9097"
+    ],
+    [
+        "University of California",
+        "no-wikiID"
+    ],
+    [
+        "Intended to",
+        "P3349"
+    ],
+    [
+        "beat','subject','made significant advances'] 3. Triples: [['DeepMind','made headlines",
+        "no-wikiID"
+    ],
+    [
+        "June 25, 2021'], ['Dark in Here','released",
+        "no-wikiID"
+    ],
+    [
+        "Alexios Komnenos'], ['Alexios Komnenos",
+        "no-wikiID"
+    ],
+    [
+        "Genre','short story'], ['MS. Found in a Bottle",
+        "no-wikiID"
+    ],
+    [
+        "India",
+        "P131"
+    ],
+    [
+        "Replaces",
+        "P1365"
+    ],
+    [
+        "actor",
+        "P175"
+    ],
+    [
+        "Alternative of",
+        "no-wikiID"
+    ],
+    [
+        "is a",
+        "P31"
+    ],
+    [
+        "carries",
+        "P2505"
+    ],
+    [
+        "The relation - held in - does not hold between Amstelveen Women\\'s Open and Netherlands.'] Therefore, final triples should be: [['Amstelveen Women\\'s Open",
+        "no-wikiID"
+    ],
+    [
+        "engineered",
+        "no-wikiID"
+    ],
+    [
+        "public research university",
+        "no-wikiID"
+    ],
+    [
+        "fronted by",
+        "no-wikiID"
+    ],
+    [
+        "Video editing is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "father",
+        "P22"
+    ],
+    [
+        "Designed by",
+        "P287"
+    ],
+    [
+        "Person",
+        "P735"
+    ],
+    [
+        "National Hockey League'], ['Vancouver Canucks",
+        "no-wikiID"
+    ],
+    [
+        "genre','science fiction'], ['The Midnight Sky",
+        "no-wikiID"
+    ],
+    [
+        "jazz musician is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "1998",
+        "no-wikiID"
+    ],
+    [
+        "football is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "American comedy streaming television series",
+        "no-wikiID"
+    ],
+    [
+        "C++-coded client'], ['RuneScape','recognised by",
+        "no-wikiID"
+    ],
+    [
+        "king",
+        "P35"
+    ],
+    [
+        "The relation - location - does not hold between Sorbs and Lusatia.'] Therefore, final triples should be: [['Lusatia",
+        "no-wikiID"
+    ],
+    [
+        "Replace",
+        "P1366"
+    ],
+    [
+        "advocate for",
+        "no-wikiID"
+    ],
+    [
+        "river flows through",
+        "no-wikiID"
+    ],
+    [
+        "The relation - manufacturer - does not hold between Douglas DC-10 and Douglas.",
+        "no-wikiID"
+    ],
+    [
+        "Scott Adams is a/an author.",
+        "no-wikiID"
+    ],
+    [
+        "Associated with",
+        "P1416"
+    ],
+    [
+        "RNK Split",
+        "no-wikiID"
+    ],
+    [
+        "Iceland",
+        "no-wikiID"
+    ],
+    [
+        "France is a/an country.'] 3. Think about potential relations between these entities: ['capital'] 4. Make a draft of the triples. [['Paris",
+        "no-wikiID"
+    ],
+    [
+        "Giacomo Puccini",
+        "no-wikiID"
+    ],
+    [
+        "colonists'], ['colonists",
+        "no-wikiID"
+    ],
+    [
+        "ranked",
+        "no-wikiID"
+    ],
+    [
+        "treaty with",
+        "no-wikiID"
+    ],
+    [
+        "Sogndal IL",
+        "no-wikiID"
+    ],
+    [
+        "Considered as",
+        "no-wikiID"
+    ],
+    [
+        "owned by','market share','member of'] 3. Draft of the triples: [['Final Cut Pro",
+        "no-wikiID"
+    ],
+    [
+        "FIFA",
+        "P1469"
+    ],
+    [
+        "rivalry",
+        "no-wikiID"
+    ],
+    [
+        "Album",
+        "P1433"
+    ],
+    [
+        "facing'] 4. Make a draft of the triples. [['Apsley House",
+        "no-wikiID"
+    ],
+    [
+        "Pumice is a/an material.",
+        "no-wikiID"
+    ],
+    [
+        "part of','sequel of'] 4. Draft of triples: [['Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+        "no-wikiID"
+    ],
+    [
+        "influenced",
+        "P737"
+    ],
+    [
+        "Genre",
+        "P136"
+    ],
+    [
+        "Illustrator",
+        "P110"
+    ],
+    [
+        "The relation - Engine type - does not hold between Ferrari 488 and V8.'] Therefore, final triples should be: [['Ferrari 488",
+        "no-wikiID"
+    ],
+    [
+        "Conqueror",
+        "no-wikiID"
+    ],
+    [
+        "association','sea'], ['Njörðr",
+        "no-wikiID"
+    ],
+    [
+        "CAF",
+        "P9819"
+    ],
+    [
+        "Walt Disney World is a/an alias.",
+        "no-wikiID"
+    ],
+    [
+        "conception",
+        "P2515"
+    ],
+    [
+        "followed by",
+        "P156"
+    ],
+    [
+        "Pete Travis is a/an director.",
+        "no-wikiID"
+    ],
+    [
+        "ancestor",
+        "P1038"
+    ],
+    [
+        "New York City is a/an city.",
+        "no-wikiID"
+    ],
+    [
+        "bundled with",
+        "no-wikiID"
+    ],
+    [
+        "1541 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - instance of - does not hold between Sogndal IL and Norwegian sports club.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - growth - does not hold between Punta Arenas and maritime traffic.",
+        "no-wikiID"
+    ],
+    [
+        "left",
+        "P582"
+    ],
+    [
+        "Place of graduation",
+        "no-wikiID"
+    ],
+    [
+        "Story",
+        "P58"
+    ],
+    [
+        "Date",
+        "P585"
+    ],
+    [
+        "has','mountains'], ['United States",
+        "no-wikiID"
+    ],
+    [
+        "Xbox 360 is a/an console.",
+        "no-wikiID"
+    ],
+    [
+        "comic books'], ['Star Wars','related to",
+        "no-wikiID"
+    ],
+    [
+        "Major League Baseball",
+        "P3541"
+    ],
+    [
+        "1922",
+        "no-wikiID"
+    ],
+    [
+        "competition','sport'] 3. Draft triples: [['UEFA Champions League",
+        "no-wikiID"
+    ],
+    [
+        "interactions",
+        "no-wikiID"
+    ],
+    [
+        "defeating",
+        "no-wikiID"
+    ],
+    [
+        "origin",
+        "P248"
+    ],
+    [
+        "observer",
+        "no-wikiID"
+    ],
+    [
+        "opened on",
+        "no-wikiID"
+    ],
+    [
+        "The relation - Located in - does not hold between Veii and Rome.",
+        "no-wikiID"
+    ],
+    [
+        "Intended to','minimize unsold inventory for publishers']]  Final answer:  [['DoubleClick",
+        "no-wikiID"
+    ],
+    [
+        "1998 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Scotland",
+        "no-wikiID"
+    ],
+    [
+        "Idriss Déby is a/an person.",
+        "no-wikiID"
+    ],
+    [
+        "Date of death",
+        "P570"
+    ],
+    [
+        "2015",
+        "no-wikiID"
+    ],
+    [
+        "Played in",
+        "no-wikiID"
+    ],
+    [
+        "Used in",
+        "P366"
+    ],
+    [
+        "Apple",
+        "P9586"
+    ],
+    [
+        "Game & Watch is a/an concept.",
+        "P57"
+    ],
+    [
+        "Bristol Aeroplane Company",
+        "no-wikiID"
+    ],
+    [
+        "Capital of",
+        "P1376"
+    ],
+    [
+        "Tony Award",
+        "no-wikiID"
+    ],
+    [
+        "1880s",
+        "no-wikiID"
+    ],
+    [
+        "gained",
+        "P7903"
+    ],
+    [
+        "The relation - event - does not hold between ladies and FIS Ski Jumping Grand Prix.'] Therefore, final triples should be: [['2021",
+        "no-wikiID"
+    ],
+    [
+        "birthplace",
+        "P19"
+    ],
+    [
+        "finished",
+        "no-wikiID"
+    ],
+    [
+        "Nashville is a/an city.",
+        "no-wikiID"
+    ],
+    [
+        "Position",
+        "P625"
+    ],
+    [
+        "delivery date",
+        "no-wikiID"
+    ],
+    [
+        "1960",
+        "no-wikiID"
+    ],
+    [
+        "Boeing'], ['747-8','manufacturer",
+        "no-wikiID"
+    ],
+    [
+        "Mary Magdalena is a/an character.",
+        "no-wikiID"
+    ],
+    [
+        "football']] 4. Filtering: No incorrect triples. 5. Final triples: [['UEFA Champions League",
+        "no-wikiID"
+    ],
+    [
+        "The relation - founded by - does not hold between Baidu, Inc. and Eric Xu.'] Therefore, final triples should be: [['Baidu, Inc.",
+        "no-wikiID"
+    ],
+    [
+        "Contains",
+        "P527"
+    ],
+    [
+        "Dickey Betts'], ['Berry Duane Oakley','son of",
+        "no-wikiID"
+    ],
+    [
+        "producer",
+        "P162"
+    ],
+    [
+        "Starred",
+        "no-wikiID"
+    ],
+    [
+        "The relation - location - does not hold between China and Tajikistan.",
+        "no-wikiID"
+    ],
+    [
+        "Shockwave Player'], ['2005",
+        "no-wikiID"
+    ],
+    [
+        "Australia, New Zealand, United States Security Treaty'], ['New Zealand','member of",
+        "no-wikiID"
+    ],
+    [
+        "genre'] Let's make a draft of the triples. [['To Zion','release",
+        "no-wikiID"
+    ],
+    [
+        "Android'], ['Microsoft Edge','released for",
+        "no-wikiID"
+    ],
+    [
+        "used as base",
+        "no-wikiID"
+    ],
+    [
+        "born'] 4. Make a draft of the triples. [['Sean Rea",
+        "no-wikiID"
+    ],
+    [
+        "Greek is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "cover",
+        "P4969"
+    ],
+    [
+        "took",
+        "P1344"
+    ],
+    [
+        "1984",
+        "no-wikiID"
+    ],
+    [
+        "Lenovo",
+        "no-wikiID"
+    ],
+    [
+        "died",
+        "P570"
+    ],
+    [
+        "John Lurie'], ['Stranger Than Paradise','starring",
+        "no-wikiID"
+    ],
+    [
+        "747-8",
+        "no-wikiID"
+    ],
+    [
+        "Reached",
+        "no-wikiID"
+    ],
+    [
+        "Fosroc Super 6",
+        "no-wikiID"
+    ],
+    [
+        "headquarters",
+        "P159"
+    ],
+    [
+        "location','sport",
+        "no-wikiID"
+    ],
+    [
+        "Edgar Allan Poe",
+        "no-wikiID"
+    ],
+    [
+        "plays for",
+        "P54"
+    ],
+    [
+        "Language",
+        "P407"
+    ],
+    [
+        "The relation - place of birth - does not hold between Law Ho Yin and Hong Kong.'] 6. Final triples: [['Law Ho Yin",
+        "no-wikiID"
+    ],
+    [
+        "Berkeley Lab",
+        "no-wikiID"
+    ],
+    [
+        "organize",
+        "P664"
+    ],
+    [
+        "University of Virginia",
+        "no-wikiID"
+    ],
+    [
+        "American football",
+        "no-wikiID"
+    ],
+    [
+        "Runs",
+        "P2389"
+    ],
+    [
+        "Ingmar Bergman",
+        "no-wikiID"
+    ],
+    [
+        "Comprises",
+        "P2635"
+    ],
+    [
+        "Leading financial hub of",
+        "no-wikiID"
+    ],
+    [
+        "association",
+        "P1416"
+    ],
+    [
+        "announced at",
+        "P9731"
+    ],
+    [
+        "directed by",
+        "P57"
+    ],
+    [
+        "The relation - part of - does not hold between Automata II and Between the Buried and Me.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - released for - does not hold between Microsoft Edge and Linux.'] 5. What are your final triples? [['Microsoft Edge','released for",
+        "no-wikiID"
+    ],
+    [
+        "The relation - Located in - does not hold between Lawrence Berkeley National Laboratory and California.'] Therefore, final triples should be: [['University of California, Berkeley",
+        "no-wikiID"
+    ],
+    [
+        "Cambridge is a place.",
+        "no-wikiID"
+    ],
+    [
+        "influence','sport'], ['2018",
+        "no-wikiID"
+    ],
+    [
+        "Formation",
+        "P571"
+    ],
+    [
+        "Film adaptation",
+        "no-wikiID"
+    ],
+    [
+        "University of Vermont'], ['Vermont Green and Gold",
+        "no-wikiID"
+    ],
+    [
+        "Women's Twenty20']] 5. Filtering out incorrect triples: The following triples seem to be incorrect: [['Ireland",
+        "no-wikiID"
+    ],
+    [
+        "2009",
+        "no-wikiID"
+    ],
+    [
+        "Roch Siffredi",
+        "no-wikiID"
+    ],
+    [
+        "event occurred in",
+        "no-wikiID"
+    ],
+    [
+        "known for",
+        "P793"
+    ],
+    [
+        "Alabama'], ['Dark in Here','released",
+        "no-wikiID"
+    ],
+    [
+        "England",
+        "P6331"
+    ],
+    [
+        "A340'], ['Airbus','manufacturer",
+        "no-wikiID"
+    ],
+    [
+        "targeted",
+        "no-wikiID"
+    ],
+    [
+        "April 8, 2010 is a date.",
+        "no-wikiID"
+    ],
+    [
+        "League",
+        "P118"
+    ],
+    [
+        "lost to",
+        "no-wikiID"
+    ],
+    [
+        "exported to",
+        "no-wikiID"
+    ],
+    [
+        "occupation of",
+        "P3095"
+    ],
+    [
+        "Major League Baseball is a/an league.",
+        "no-wikiID"
+    ],
+    [
+        "Jaguar Land Rover Limited",
+        "no-wikiID"
+    ],
+    [
+        "1999 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Belarus",
+        "P2488"
+    ],
+    [
+        "Wits",
+        "no-wikiID"
+    ],
+    [
+        "Fosroc Super 6 is a/an competition.",
+        "no-wikiID"
+    ],
+    [
+        "Game Boy Advance'], ['Nintendo','marketed",
+        "no-wikiID"
+    ],
+    [
+        "United Nations is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "debut",
+        "P2031"
+    ],
+    [
+        "year of",
+        "P577"
+    ],
+    [
+        "is credited to",
+        "no-wikiID"
+    ],
+    [
+        "river is navigable from",
+        "no-wikiID"
+    ],
+    [
+        "came to prominence",
+        "no-wikiID"
+    ],
+    [
+        "The relation - location - does not hold between Dobruja and Romania.'] 6. Therefore, final triples should be: [['Balkans",
+        "no-wikiID"
+    ],
+    [
+        "power",
+        "P2109"
+    ],
+    [
+        "border with",
+        "no-wikiID"
+    ],
+    [
+        "Portrayed by",
+        "P175"
+    ],
+    [
+        "Collection",
+        "P195"
+    ],
+    [
+        "league'] 4. Draft of the triples: [['Kerala Police Football Team",
+        "no-wikiID"
+    ],
+    [
+        "Founded in",
+        "P571"
+    ],
+    [
+        "1904",
+        "no-wikiID"
+    ],
+    [
+        "Persians",
+        "no-wikiID"
+    ],
+    [
+        "Pala Alpitour",
+        "no-wikiID"
+    ],
+    [
+        "The relation - Ended - does not hold between Polish Workers' Party and 1948.",
+        "no-wikiID"
+    ],
+    [
+        "head coach",
+        "P286"
+    ],
+    [
+        "Described by",
+        "P405"
+    ],
+    [
+        "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan']] 5. Filter out incorrect triples: No incorrect triples found. Final triples: [['Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+        "no-wikiID"
+    ],
+    [
+        "2020 Coppa Italia Serie C Final'], ['2020 Coppa Italia Serie C Final','relation",
+        "no-wikiID"
+    ],
+    [
+        "American baseball is a concept.'] 3. Potential relations: ['place of birth'] 4. Draft triples: [['Colson Montgomery",
+        "no-wikiID"
+    ],
+    [
+        "Co-writer",
+        "no-wikiID"
+    ],
+    [
+        "Home",
+        "P263"
+    ],
+    [
+        "participate",
+        "P1344"
+    ],
+    [
+        "1903 college football season']] 5. Filter out incorrect triples: None. 6. Final triples: [['1903 Vermont Green and Gold football team",
+        "no-wikiID"
+    ],
+    [
+        "Uplandme'], ['Upland",
+        "no-wikiID"
+    ],
+    [
+        "illustrator",
+        "P110"
+    ],
+    [
+        "team",
+        "P54"
+    ],
+    [
+        "Schiphol",
+        "no-wikiID"
+    ],
+    [
+        "Mancha",
+        "no-wikiID"
+    ],
+    [
+        "8-3'], ['Portland State Vikings','record",
+        "no-wikiID"
+    ],
+    [
+        "NeXTSTEP",
+        "no-wikiID"
+    ],
+    [
+        "announcer",
+        "no-wikiID"
+    ],
+    [
+        "Baidu Maps",
+        "no-wikiID"
+    ],
+    [
+        "is made by",
+        "no-wikiID"
+    ],
+    [
+        "led by",
+        "P286"
+    ],
+    [
+        "The relation - date of birth - does not hold between Allan Johns and 1925.'] Therefore, final triples should be: [['Allan Johns",
+        "no-wikiID"
+    ],
+    [
+        "The relation - platform - does not hold between Shockwave and interactive multimedia.'] 6. Final triples: [['Shockwave",
+        "no-wikiID"
+    ],
+    [
+        "2013 is a/an date.'] 3. Think about the potential relations between these entities: ['director",
+        "no-wikiID"
+    ],
+    [
+        "franchise','series",
+        "no-wikiID"
+    ],
+    [
+        "two million'], ['Gears of War 2','sold",
+        "no-wikiID"
+    ],
+    [
+        "Condé']]. Here is the reason why I think these triples are incorrect: ['The relation - head of - does not hold between Idriss Déby and African Union.",
+        "no-wikiID"
+    ],
+    [
+        "Developed from",
+        "P3094"
+    ],
+    [
+        "Minsk is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "date of birth",
+        "P569"
+    ],
+    [
+        "The relation - league - does not hold between Sioux Falls Skyforce and National Basketball Association.'] Therefore, final triples should be: [['Sioux Falls Skyforce",
+        "no-wikiID"
+    ],
+    [
+        "George Lucas",
+        "no-wikiID"
+    ],
+    [
+        "FAME Studios'], ['Dark in Here','released",
+        "no-wikiID"
+    ],
+    [
+        "leader of",
+        "P2389"
+    ],
+    [
+        "The relation - location - does not hold between Lycia and Achaemenid Empire.",
+        "no-wikiID"
+    ],
+    [
+        "North America is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "Japan Air Self-Defense Force is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "Halfbrick",
+        "no-wikiID"
+    ],
+    [
+        "Provided",
+        "P137"
+    ],
+    [
+        "Prophet",
+        "no-wikiID"
+    ],
+    [
+        "was led by",
+        "no-wikiID"
+    ],
+    [
+        "26 March 2004']]. Here is the reason why I think these triples are incorrect: ['The relation - part of - does not hold between Manderlay and Wasington.",
+        "no-wikiID"
+    ],
+    [
+        "director','star",
+        "no-wikiID"
+    ],
+    [
+        "HCE",
+        "P12613"
+    ],
+    [
+        "H. P. Lovecraft",
+        "no-wikiID"
+    ],
+    [
+        "2011']] 5. Filter out incorrect triples if there is any. The following triples seem to be incorrect: [['Gears of War 2','released",
+        "no-wikiID"
+    ],
+    [
+        "footballer is a/an profession.','midfielder is a/an position.'] 3. Think about the potential relations between these entities: ['location",
+        "no-wikiID"
+    ],
+    [
+        "7,291-foot-elevation",
+        "no-wikiID"
+    ],
+    [
+        "Enact','sweeping religious reforms'], ['Hezekiah",
+        "no-wikiID"
+    ],
+    [
+        "Mentions",
+        "no-wikiID"
+    ],
+    [
+        "librettist'] Let's make a draft of the triples. [['Madama Butterfly",
+        "no-wikiID"
+    ],
+    [
+        "Related to",
+        "no-wikiID"
+    ],
+    [
+        "Nikon Corporation'], ['Nikon D200','released in",
+        "no-wikiID"
+    ],
+    [
+        "Game Boy Color'], ['Nintendo",
+        "no-wikiID"
+    ],
+    [
+        "filmed in",
+        "P915"
+    ],
+    [
+        "Regards','summum bonum'] 4. Filtering out incorrect triples: None 5. Final triples: [['On Liberty",
+        "no-wikiID"
+    ],
+    [
+        "Length",
+        "P2043"
+    ],
+    [
+        "Lockheed AC-130 gunship is a/an aircraft.",
+        "no-wikiID"
+    ],
+    [
+        "Game Boy'], ['Game Boy','released in",
+        "no-wikiID"
+    ],
+    [
+        "owner",
+        "P127"
+    ],
+    [
+        "The Door in the Wall",
+        "no-wikiID"
+    ],
+    [
+        "Israel",
+        "P8189"
+    ],
+    [
+        "The relation - predicate - does not hold between subject and object.']  Please provide your answer in a single line, without any spaces. [['Columbia Lions",
+        "no-wikiID"
+    ],
+    [
+        "dethroned by",
+        "no-wikiID"
+    ],
+    [
+        "Relation",
+        "P1038"
+    ],
+    [
+        "Warner Bros.",
+        "no-wikiID"
+    ],
+    [
+        "Skaði'], ['Odin','spouse",
+        "no-wikiID"
+    ],
+    [
+        "Windows Live OneCare'] 8. ['Microsoft Security Essentials','replaces",
+        "no-wikiID"
+    ],
+    [
+        "general manager",
+        "P1037"
+    ],
+    [
+        "created",
+        "P571"
+    ],
+    [
+        "capital",
+        "P36"
+    ],
+    [
+        "The relation - location - does not hold between Foxboro and New England Patriots.'] Therefore, final triples should be: [['American Football League",
+        "no-wikiID"
+    ],
+    [
+        "Place of birth",
+        "P19"
+    ],
+    [
+        "Joint venture",
+        "no-wikiID"
+    ],
+    [
+        "Type of','mid-engine sports car'], ['Ferrari 488",
+        "no-wikiID"
+    ],
+    [
+        "designed by'] 4. Make a draft of the triples. [['Nintendo",
+        "no-wikiID"
+    ],
+    [
+        "Country of citizenship",
+        "P27"
+    ],
+    [
+        "DEC",
+        "P6258"
+    ],
+    [
+        "Propaganda",
+        "P2813"
+    ],
+    [
+        "produced in",
+        "no-wikiID"
+    ],
+    [
+        "has member",
+        "P527"
+    ],
+    [
+        "The relation - home arena - does not hold between Arizona Coyotes and Gila River Arena.",
+        "no-wikiID"
+    ],
+    [
+        "Participates in",
+        "no-wikiID"
+    ],
+    [
+        "host",
+        "P371"
+    ],
+    [
+        "2008 Summer Olympics'], ['Han Meilin",
+        "no-wikiID"
+    ],
+    [
+        "King's College is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "Byzantine Empire'], ['Trebizond",
+        "no-wikiID"
+    ],
+    [
+        "location",
+        "P625"
+    ],
+    [
+        "is free-of-charge",
+        "no-wikiID"
+    ],
+    [
+        "Friendlies is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "1868 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Ralph Macchio'], ['Cobra Kai','stars",
+        "no-wikiID"
+    ],
+    [
+        "has coach','record'] 4. Make a draft of the triples: [['1913 Vermont Green and Gold football team",
+        "no-wikiID"
+    ],
+    [
+        "formed",
+        "P571"
+    ],
+    [
+        "The relation - part of - does not hold between African tectonic plate and North American/Eurasian plates.'] Therefore, final triples should be: [['Portugal",
+        "no-wikiID"
+    ],
+    [
+        "premiered",
+        "P4647"
+    ],
+    [
+        "graduated_from",
+        "P69"
+    ],
+    [
+        "led",
+        "P286"
+    ],
+    [
+        "2021",
+        "no-wikiID"
+    ],
+    [
+        "2003 is a/an date.'] Now we think about the potential relations between these entities: ['held in",
+        "no-wikiID"
+    ],
+    [
+        "The relation - has - does not hold between Battlefield 2142 and Conquest.'] Therefore, final triples should be: [['Battlefield 2142",
+        "no-wikiID"
+    ],
+    [
+        "Fosroc'], ['Scotland",
+        "no-wikiID"
+    ],
+    [
+        "The relation - took place - does not hold between 2010 FIFA World Cup and July 2010.'] Therefore, final triples should be: [['2010 FIFA World Cup",
+        "no-wikiID"
+    ],
+    [
+        "providing statistical information'], ['Eurostat','responsible for",
+        "no-wikiID"
+    ],
+    [
+        "country of citizenship",
+        "P27"
+    ],
+    [
+        "United States']] 5. Filter out incorrect triples if there is any. The following triples seem to be incorrect: [['Boeing 747','manufactured in",
+        "no-wikiID"
+    ],
+    [
+        "1993–94 nhl season is a/an media.'] 3. What potential relations between these entities do you think exist? ['sport",
+        "no-wikiID"
+    ],
+    [
+        "Instance of','manga series'], ['anime series",
+        "no-wikiID"
+    ],
+    [
+        "introduced to counter",
+        "no-wikiID"
+    ],
+    [
+        "constituted",
+        "no-wikiID"
+    ],
+    [
+        "1924",
+        "no-wikiID"
+    ],
+    [
+        "Japan'], ['Game Boy Advance','released in",
+        "no-wikiID"
+    ],
+    [
+        "Segunda División is a/an concept.'] 3. What potential relations between these entities can you think of? ['instance of",
+        "no-wikiID"
+    ],
+    [
+        "Proposes",
+        "no-wikiID"
+    ],
+    [
+        "Released on",
+        "no-wikiID"
+    ],
+    [
+        "border",
+        "P47"
+    ],
+    [
+        "affected by",
+        "no-wikiID"
+    ],
+    [
+        "river is located in",
+        "no-wikiID"
+    ],
+    [
+        "is based on",
+        "no-wikiID"
+    ],
+    [
+        "carries','rely",
+        "no-wikiID"
+    ],
+    [
+        "producer','starring",
+        "no-wikiID"
+    ],
+    [
+        "Ghana is a/an location.'] 3. Think about the potential relations between these entities: ['location",
+        "no-wikiID"
+    ],
+    [
+        "football']] 4. Filtering: No incorrect triples. 5. Final triples: [['RNK Split",
+        "no-wikiID"
+    ],
+    [
+        "player",
+        "P710"
+    ],
+    [
+        "Published",
+        "P577"
+    ],
+    [
+        "Home of",
+        "P7563"
+    ],
+    [
+        "played by",
+        "P175"
+    ],
+    [
+        "2022",
+        "P5471"
+    ],
+    [
+        "The relation - Premiere - does not hold between Madame Butterfly and London.'] Therefore, final triples should be: [['Madame Butterfly",
+        "no-wikiID"
+    ],
+    [
+        "Battle of Veii is a/an event.",
+        "no-wikiID"
+    ],
+    [
+        "Date of birth",
+        "P569"
+    ],
+    [
+        "Plot','sea'], ['MS. Found in a Bottle",
+        "no-wikiID"
+    ],
+    [
+        "The Odyssey",
+        "no-wikiID"
+    ],
+    [
+        "1593 is a/an date.'] 3. What potential relations between these entities do you think of? ['used",
+        "no-wikiID"
+    ],
+    [
+        "1000'], ['Panoramio",
+        "no-wikiID"
+    ],
+    [
+        "In alliance with",
+        "no-wikiID"
+    ],
+    [
+        "Sequel to",
+        "no-wikiID"
+    ],
+    [
+        "Madeline Carroll'], ['The Spy Next Door','starring",
+        "no-wikiID"
+    ],
+    [
+        "is owned by",
+        "P127"
+    ],
+    [
+        "PNC Arena is a/an arena.'] 3. What potential relations do you think exist between the entities? ['sport",
+        "no-wikiID"
+    ],
+    [
+        "video games'], ['Star Wars','related to",
+        "no-wikiID"
+    ],
+    [
+        "1682 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "acquired",
+        "P7888"
+    ],
+    [
+        "The relation - character - does not hold between Odysseus, Penelope and Telemachus and The Odyssey.'] Therefore, final triples should be: [['The Odyssey",
+        "no-wikiID"
+    ],
+    [
+        "Coach",
+        "P286"
+    ],
+    [
+        "Swiss",
+        "P8691"
+    ],
+    [
+        "Most populous city of",
+        "no-wikiID"
+    ],
+    [
+        "Hudson River is a/an watercourse.",
+        "no-wikiID"
+    ],
+    [
+        "CAF is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "Noted scholar",
+        "no-wikiID"
+    ],
+    [
+        "operates",
+        "P121"
+    ],
+    [
+        "Netherlands'], ['firm','serves",
+        "no-wikiID"
+    ],
+    [
+        "1880s is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "University of Vermont']]. 6. Final triples: [['University of Vermont",
+        "no-wikiID"
+    ],
+    [
+        "March 2020'], ['Dark in Here",
+        "no-wikiID"
+    ],
+    [
+        "produces",
+        "P1056"
+    ],
+    [
+        "2016 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Participated in",
+        "P1344"
+    ],
+    [
+        "The relation - played a role in - does not hold between Aaron Swartz and Creative Commons.",
+        "no-wikiID"
+    ],
+    [
+        "cost",
+        "P2130"
+    ],
+    [
+        "Cochinchina",
+        "no-wikiID"
+    ],
+    [
+        "botanists'], ['The Green Guerillas','member of",
+        "no-wikiID"
+    ],
+    [
+        "hosted by",
+        "P371"
+    ],
+    [
+        "Sanford Pentagon is a/an place.",
+        "no-wikiID"
+    ],
+    [
+        "based on",
+        "P144"
+    ],
+    [
+        "The relation - part of - does not hold between Louisiana Tech Bulldogs and Louisiana Tech University.'] Therefore, final triples should be: [['Louisiana Tech Bulldogs",
+        "no-wikiID"
+    ],
+    [
+        "PlayStation 4'], ['Fruit Ninja HD','released for",
+        "no-wikiID"
+    ],
+    [
+        "Los Angeles",
+        "P4611"
+    ],
+    [
+        "Degree",
+        "P512"
+    ],
+    [
+        "root office at",
+        "no-wikiID"
+    ],
+    [
+        "Set",
+        "P527"
+    ],
+    [
+        "Pakistan",
+        "P6785"
+    ],
+    [
+        "European System of Central Banks is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "good-luck dolls",
+        "no-wikiID"
+    ],
+    [
+        "500 is a/an number.",
+        "no-wikiID"
+    ],
+    [
+        "headquartered in",
+        "no-wikiID"
+    ],
+    [
+        "location'] 4. Make a draft of the triples. [['Central Australia Railway",
+        "no-wikiID"
+    ],
+    [
+        "Ruled",
+        "no-wikiID"
+    ],
+    [
+        "Jennifer Jason Leigh'], ['The Hateful Eight','stars",
+        "no-wikiID"
+    ],
+    [
+        "Degree','master\\'s degree in computer science'], ['Herman Cain",
+        "no-wikiID"
+    ],
+    [
+        "Seine River",
+        "no-wikiID"
+    ],
+    [
+        "introduced in",
+        "P10695"
+    ],
+    [
+        "operated by",
+        "P137"
+    ],
+    [
+        "Hudson River",
+        "no-wikiID"
+    ],
+    [
+        "Band",
+        "P463"
+    ],
+    [
+        "rival of",
+        "no-wikiID"
+    ],
+    [
+        "death metal",
+        "no-wikiID"
+    ],
+    [
+        "Conducted by",
+        "P3300"
+    ],
+    [
+        "Purpose",
+        "P366"
+    ],
+    [
+        "The relation - location - does not hold between Atlético Mineiro and Belo Horizonte.'] 7. Final triples: [['Belo Horizonte",
+        "no-wikiID"
+    ],
+    [
+        "University of California is a/an system.'] Now we think about the potential relations between these entities: ['instance of",
+        "no-wikiID"
+    ],
+    [
+        "Women's Twenty20'], ['Pakistan','sport",
+        "no-wikiID"
+    ],
+    [
+        "The relation - host - does not hold between International Champions Cup and United States.",
+        "no-wikiID"
+    ],
+    [
+        "Sweden",
+        "P778"
+    ],
+    [
+        "Gila River Arena is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "presented in",
+        "P5072"
+    ],
+    [
+        "The relation - author - does not hold between Andrew Wyeth and Christina's World.'] Therefore, final triples should be: [['Christina's World",
+        "no-wikiID"
+    ],
+    [
+        "Ed Wood'], ['Plan 9 from Outer Space",
+        "no-wikiID"
+    ],
+    [
+        "1954",
+        "no-wikiID"
+    ],
+    [
+        "Founded",
+        "P571"
+    ],
+    [
+        "Carlton Theatre'], ['Plan 9 from Outer Space','released as",
+        "no-wikiID"
+    ],
+    [
+        "12,228'], ['Geoffrey Alexander Campbell",
+        "no-wikiID"
+    ],
+    [
+        "Ranked as",
+        "no-wikiID"
+    ],
+    [
+        "The relation - actor - does not hold between Bedardi and Naseeruddin Shah.",
+        "no-wikiID"
+    ],
+    [
+        "Panther is a/an tank.",
+        "no-wikiID"
+    ],
+    [
+        "1,000 is a/an number.",
+        "no-wikiID"
+    ],
+    [
+        "Thomas Mann",
+        "no-wikiID"
+    ],
+    [
+        "acquired by",
+        "P7888"
+    ],
+    [
+        "United States",
+        "P1225"
+    ],
+    [
+        "Table Tennis'], ['Table Tennis','released by",
+        "no-wikiID"
+    ],
+    [
+        "1946",
+        "no-wikiID"
+    ],
+    [
+        "Award",
+        "P166"
+    ],
+    [
+        "Vancouver is a/an city.",
+        "no-wikiID"
+    ],
+    [
+        "Saab",
+        "no-wikiID"
+    ],
+    [
+        "2009'], ['Gears of War 3",
+        "no-wikiID"
+    ],
+    [
+        "Russia'], ['firm','serves",
+        "no-wikiID"
+    ],
+    [
+        "The relation - part of - does not hold between Orlando Magic and NBA.",
+        "no-wikiID"
+    ],
+    [
+        "United Nations",
+        "P1937"
+    ],
+    [
+        "Korona is a/an football club.",
+        "no-wikiID"
+    ],
+    [
+        "ancestor'] 4. Draft of triples: [['Napoleon Bonaparte",
+        "no-wikiID"
+    ],
+    [
+        "Wii is a/an console.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - produced by - does not hold between Fokker 100 and Netherlands.']  Therefore, final triples should be: [['Fokker 100",
+        "no-wikiID"
+    ],
+    [
+        "Nominated for",
+        "P1411"
+    ],
+    [
+        "40 million'], ['Rumours",
+        "no-wikiID"
+    ],
+    [
+        "American','mass media",
+        "no-wikiID"
+    ],
+    [
+        "Karl Marx",
+        "no-wikiID"
+    ],
+    [
+        "Lower Delaware'], ['Delaware','split off",
+        "no-wikiID"
+    ],
+    [
+        "Windows Phone'], ['Fruit Ninja','released for",
+        "no-wikiID"
+    ],
+    [
+        "The relation - has member - does not hold between SAirServices and SAirLogistics.",
+        "no-wikiID"
+    ],
+    [
+        "inducted into",
+        "no-wikiID"
+    ],
+    [
+        "consist of",
+        "P5238"
+    ],
+    [
+        "Australian rules football",
+        "no-wikiID"
+    ],
+    [
+        "Used",
+        "P2283"
+    ],
+    [
+        "Arms of Morpheus'], ['Arms of Morpheus",
+        "no-wikiID"
+    ],
+    [
+        "classic is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "born after",
+        "no-wikiID"
+    ],
+    [
+        "The relation - number - does not hold between 56 and Vanier Cup.'] 6. Final triples: [['Vanier Cup','sport",
+        "no-wikiID"
+    ],
+    [
+        "Peromyscus gambelii is a/an name.",
+        "no-wikiID"
+    ],
+    [
+        "December 1913 is a/an date.'] 3. What potential relations between these entities can you think of? ['ruled by'] 4. Make a draft of the triples. [['Minoan civilization",
+        "no-wikiID"
+    ],
+    [
+        "written by",
+        "P50"
+    ],
+    [
+        "Etruscan city",
+        "no-wikiID"
+    ],
+    [
+        "The relation - exceeded by - does not hold between Panzer IV and StuG III.'] Therefore, final triples should be: [['Panzer IV",
+        "no-wikiID"
+    ],
+    [
+        "native",
+        "P1705"
+    ],
+    [
+        "King",
+        "P35"
+    ],
+    [
+        "National Hockey League'] is a valid triple because the Canucks are indeed a member of the NHL.', [['Vancouver Canucks",
+        "no-wikiID"
+    ],
+    [
+        "Westwood Studios'], ['Westwood Studios','merged with",
+        "no-wikiID"
+    ],
+    [
+        "New York",
+        "P3221"
+    ],
+    [
+        "The relation - located in or next to body of water - does not hold between Paluxy River and Glen Rose.'] Therefore, the final triples are [['Chalk Mountain",
+        "no-wikiID"
+    ],
+    [
+        "Captured by",
+        "no-wikiID"
+    ],
+    [
+        "played at",
+        "no-wikiID"
+    ],
+    [
+        "football'], ['UEFA",
+        "no-wikiID"
+    ],
+    [
+        "Buster Keaton'], ['Sherlock Jr.",
+        "no-wikiID"
+    ],
+    [
+        "author','mentions','structured by",
+        "no-wikiID"
+    ],
+    [
+        "iOS'], ['Microsoft Edge','released for','macOS'], ['Microsoft Edge",
+        "no-wikiID"
+    ],
+    [
+        "Mehmet Bozdağ",
+        "no-wikiID"
+    ],
+    [
+        "Gorno-Badakhshan Autonomous Oblast",
+        "no-wikiID"
+    ],
+    [
+        "transverse engined",
+        "no-wikiID"
+    ],
+    [
+        "accessed by','mobile app'], ['Gmail','supports",
+        "no-wikiID"
+    ],
+    [
+        "Bosnia and Herzegovina",
+        "no-wikiID"
+    ],
+    [
+        "operated as','specialty film division of Paramount Pictures'], ['Paramount Vantage",
+        "no-wikiID"
+    ],
+    [
+        "Identified as",
+        "no-wikiID"
+    ],
+    [
+        "Korona",
+        "no-wikiID"
+    ],
+    [
+        "appeared in",
+        "P1441"
+    ],
+    [
+        "Njörðr'], ['Skaði','spouse",
+        "no-wikiID"
+    ],
+    [
+        "work in",
+        "P6379"
+    ],
+    [
+        "candidate for",
+        "no-wikiID"
+    ],
+    [
+        "Head office located in",
+        "no-wikiID"
+    ],
+    [
+        "Iraq",
+        "no-wikiID"
+    ],
+    [
+        "Successor to",
+        "P155"
+    ],
+    [
+        "bought by",
+        "P7888"
+    ],
+    [
+        "novel",
+        "P2567"
+    ],
+    [
+        "Nvidia",
+        "no-wikiID"
+    ],
+    [
+        "Brooklyn Nine-Nine",
+        "no-wikiID"
+    ],
+    [
+        "broke",
+        "P571"
+    ],
+    [
+        "date",
+        "P585"
+    ],
+    [
+        "ruled",
+        "no-wikiID"
+    ],
+    [
+        "has'] 4. Make a draft of the triples. [['firm','registered in",
+        "no-wikiID"
+    ],
+    [
+        "Toyota'], ['Toyota iQ','marketed in",
+        "no-wikiID"
+    ],
+    [
+        "new wave",
+        "no-wikiID"
+    ],
+    [
+        "debut'] 4. Draft of the triples: [['Pakistan",
+        "no-wikiID"
+    ],
+    [
+        "name written as",
+        "no-wikiID"
+    ],
+    [
+        "football'], ['Belarusian Premier League",
+        "no-wikiID"
+    ],
+    [
+        "Replaced by",
+        "P1366"
+    ],
+    [
+        "Brett Sperry",
+        "no-wikiID"
+    ],
+    [
+        "football'], ['Libertad','sport",
+        "no-wikiID"
+    ],
+    [
+        "Douglas'], ['MD-11','manufacturer",
+        "no-wikiID"
+    ],
+    [
+        "Rodent is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "wrote','major hits for other artists'], ['The Bee Gees','signature sound",
+        "no-wikiID"
+    ],
+    [
+        "Medium",
+        "P186"
+    ],
+    [
+        "Swissair Group",
+        "no-wikiID"
+    ],
+    [
+        "inception','member of'] 4. Draft triples: [['University of Vermont",
+        "no-wikiID"
+    ],
+    [
+        "type of",
+        "P279"
+    ],
+    [
+        "Commonwealth of Independent States'], ['firm",
+        "no-wikiID"
+    ],
+    [
+        "Xcel Energy Center is a/an location.'] 3. What potential relations do you think exist between these entities? ['sport",
+        "no-wikiID"
+    ],
+    [
+        "notable work','subject'] 4. Make a draft of the triples: [['Oscar Wilde",
+        "no-wikiID"
+    ],
+    [
+        "Nikon D40 is a/an camera.",
+        "no-wikiID"
+    ],
+    [
+        "Inspired",
+        "P144"
+    ],
+    [
+        "The relation - part of - does not hold between IHF and Egypt.'] 6. Final triples: [['IHF",
+        "no-wikiID"
+    ],
+    [
+        "January 2001'], ['RuneScape",
+        "no-wikiID"
+    ],
+    [
+        "Jade Lake'], ['East Fork Foss River",
+        "no-wikiID"
+    ],
+    [
+        "American professional basketball team",
+        "no-wikiID"
+    ],
+    [
+        "flight date",
+        "no-wikiID"
+    ],
+    [
+        "holding company of",
+        "no-wikiID"
+    ],
+    [
+        "overthrew",
+        "no-wikiID"
+    ],
+    [
+        "UNESCO'], ['Carnival of Barranquilla",
+        "no-wikiID"
+    ],
+    [
+        "Ajacciennes",
+        "no-wikiID"
+    ],
+    [
+        "Location",
+        "P625"
+    ],
+    [
+        "Wii MotionPlus'], ['Wii Sports Resort",
+        "no-wikiID"
+    ],
+    [
+        "Publication date",
+        "P577"
+    ],
+    [
+        "Follows",
+        "P155"
+    ],
+    [
+        "American romantic comedy film is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Stirling is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "publisher",
+        "P123"
+    ],
+    [
+        "Washington is a/an city.",
+        "no-wikiID"
+    ],
+    [
+        "Idriss Déby",
+        "no-wikiID"
+    ],
+    [
+        "broke out",
+        "no-wikiID"
+    ],
+    [
+        "Player of",
+        "P54"
+    ],
+    [
+        "located in or next to body of water",
+        "P206"
+    ],
+    [
+        "2004']] Now it is time to think and filter out incorrect triples if there is any. The following triples seem to be incorrect: [['The Miseducation of Lauryn Hill','release",
+        "no-wikiID"
+    ],
+    [
+        "2000",
+        "no-wikiID"
+    ],
+    [
+        "Dutch is a country.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - part of - does not hold between In League with Dragons and 2019.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - operator - does not hold between Japan Air Self-Defense Force and Kawasaki T-4.'] Therefore, final triples should be: [['Kawasaki T-4",
+        "no-wikiID"
+    ],
+    [
+        "Prohibit','venerating other deities within the Temple of Jerusalem'], ['Isaiah",
+        "no-wikiID"
+    ],
+    [
+        "Operational center in",
+        "no-wikiID"
+    ],
+    [
+        "The relation - announcer - does not hold between National Society of Chinese Classic Literature Studies and Fuwa.'] 6. What are the final triples? [['Fuwa','mascot",
+        "no-wikiID"
+    ],
+    [
+        "Chinese multinational technology company",
+        "no-wikiID"
+    ],
+    [
+        "Assist is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Explain",
+        "P11641"
+    ],
+    [
+        "May 2009 is a/an date.'] 3. Potential relations between the entities: ['location','sport'] 4. Draft of the triples: [['Ireland",
+        "no-wikiID"
+    ],
+    [
+        "narrative",
+        "P840"
+    ],
+    [
+        "type of','semi-presidential republic'], ['Algeria",
+        "no-wikiID"
+    ],
+    [
+        "Bosnia and Herzegovina is a/an country.",
+        "no-wikiID"
+    ],
+    [
+        "affiliate of",
+        "P831"
+    ],
+    [
+        "American is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "21–10'], ['1992–93 Virginia Cavaliers men's basketball team','record",
+        "no-wikiID"
+    ],
+    [
+        "committee of foreign ministers']] 5. Filter out incorrect triples if there is any. The following triples seem to be incorrect: [['Australia, New Zealand, United States Security Treaty','related to",
+        "no-wikiID"
+    ],
+    [
+        "killing",
+        "no-wikiID"
+    ],
+    [
+        "Juventus U23'], ['Ternana','relation",
+        "no-wikiID"
+    ],
+    [
+        "The relation - founded by - does not hold between Real Oviedo and Real Stadium Club Ovetense, Real Club Deportivo Oviedo.'] Therefore, final triples should be: [['Real Oviedo",
+        "no-wikiID"
+    ],
+    [
+        "OpenStep is a/an standard.",
+        "no-wikiID"
+    ],
+    [
+        "was",
+        "P577"
+    ],
+    [
+        "part of','responsible for",
+        "no-wikiID"
+    ],
+    [
+        "American is a/an concept.'] Now we think about the potential relations between these entities: ['created",
+        "no-wikiID"
+    ],
+    [
+        "written",
+        "P50"
+    ],
+    [
+        "directed",
+        "P57"
+    ],
+    [
+        "Director",
+        "P57"
+    ],
+    [
+        "Baidu Maps is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "nationality",
+        "no-wikiID"
+    ],
+    [
+        "Chilean government",
+        "no-wikiID"
+    ],
+    [
+        "headquarters location",
+        "P159"
+    ],
+    [
+        "List",
+        "P2354"
+    ],
+    [
+        "birth",
+        "P569"
+    ],
+    [
+        "funded by",
+        "P8324"
+    ],
+    [
+        "2015'], ['Microsoft Edge','released for",
+        "no-wikiID"
+    ],
+    [
+        "Battlefield 2",
+        "no-wikiID"
+    ],
+    [
+        "clocking a personal best",
+        "no-wikiID"
+    ],
+    [
+        "The relation - team - does not hold between FC Minsk and Belarusian Premier League.'] 6. Final triples: [['FC Minsk",
+        "no-wikiID"
+    ],
+    [
+        "home of','stadium'], ['1959 World Series",
+        "no-wikiID"
+    ],
+    [
+        "football'], ['Vanier Cup",
+        "no-wikiID"
+    ],
+    [
+        "The relation - date - does not hold between 2021 and Los Cabos Open.'] 6. Therefore, final triples should be: [['Los Cabos Open",
+        "no-wikiID"
+    ],
+    [
+        "passed into",
+        "no-wikiID"
+    ],
+    [
+        "Use",
+        "P366"
+    ],
+    [
+        "located in",
+        "P276"
+    ],
+    [
+        "directors",
+        "no-wikiID"
+    ],
+    [
+        "June 25, 2009'], ['Wii Sports Resort",
+        "no-wikiID"
+    ],
+    [
+        "Europe'], ['Toyota iQ','marketed in",
+        "no-wikiID"
+    ],
+    [
+        "North America'], ['Game Boy','released in",
+        "no-wikiID"
+    ],
+    [
+        "cup",
+        "P7112"
+    ],
+    [
+        "first appeared",
+        "P10695"
+    ],
+    [
+        "Paul Kagame'], ['Idriss Déby','succeeded by",
+        "no-wikiID"
+    ],
+    [
+        "The Fifth Element",
+        "no-wikiID"
+    ],
+    [
+        "top twenty of the United Kingdom and Australian national charts'], ['Rewrite the Stars",
+        "no-wikiID"
+    ],
+    [
+        "The relation - based on - does not hold between Dracula and Vlad III.",
+        "no-wikiID"
+    ],
+    [
+        "Poetic Edda",
+        "no-wikiID"
+    ],
+    [
+        "Olympic Games is a/an event.'] Now we think about the potential relations between these entities: ['instance of','responsible for'] Let's make a draft of the triples. [['IOC",
+        "no-wikiID"
+    ],
+    [
+        "located",
+        "P276"
+    ],
+    [
+        "award",
+        "P166"
+    ],
+    [
+        "Character",
+        "P1552"
+    ],
+    [
+        "Ancient Greek",
+        "no-wikiID"
+    ],
+    [
+        "country','sport'] 3. Draft triples: [['RNK Split",
+        "no-wikiID"
+    ],
+    [
+        "1957",
+        "no-wikiID"
+    ],
+    [
+        "contain",
+        "P527"
+    ],
+    [
+        "title",
+        "P1476"
+    ],
+    [
+        "Structured by",
+        "no-wikiID"
+    ],
+    [
+        "1951",
+        "no-wikiID"
+    ],
+    [
+        "Recruited by",
+        "no-wikiID"
+    ],
+    [
+        "The relation - location - does not hold between Kerala and India.'] 6. Final triples: [['Kerala Police Football Team",
+        "no-wikiID"
+    ],
+    [
+        "Co-written",
+        "no-wikiID"
+    ],
+    [
+        "platform",
+        "P400"
+    ],
+    [
+        "Athletics is a/an sport.'] Now we think about the potential relations between these entities: ['instance of','responsible for'] Let's make a draft of the triples. [['IAAF",
+        "no-wikiID"
+    ],
+    [
+        "documentary film'], ['AlphaZero",
+        "no-wikiID"
+    ],
+    [
+        "plays at','marching band'], ['Washington Football Team",
+        "no-wikiID"
+    ],
+    [
+        "1843 is a/an year.",
+        "no-wikiID"
+    ],
+    [
+        "Boeing Commercial Airplanes is a/an company.",
+        "no-wikiID"
+    ],
+    [
+        "co-operate on",
+        "no-wikiID"
+    ],
+    [
+        "partner",
+        "P451"
+    ],
+    [
+        "Borat Sagdiyev'], ['Maria Bakalova','starred as",
+        "no-wikiID"
+    ],
+    [
+        "KV4 is notable for being the last royal tomb that was quarried in the Valley and because it has been interpreted as being a workshop used during the official dismantling of the royal necropolis in the early Third Intermediate Period.'], ['KV4 is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "Department of Energy is a government agency.",
+        "no-wikiID"
+    ],
+    [
+        "created by",
+        "P170"
+    ],
+    [
+        "The relation - dealt with - does not hold between Edinburgh merchants and France.'] Therefore, final triples should be: [['Jérôme Groslot','sent",
+        "no-wikiID"
+    ],
+    [
+        "The relation - head coach - does not hold between Travis Green and Vancouver Canucks.",
+        "no-wikiID"
+    ],
+    [
+        "Publisher",
+        "P123"
+    ],
+    [
+        "euro is a/an currency.",
+        "no-wikiID"
+    ],
+    [
+        "Crete",
+        "no-wikiID"
+    ],
+    [
+        "I Care a Lot is a/an film.",
+        "no-wikiID"
+    ],
+    [
+        "ranking",
+        "P1352"
+    ],
+    [
+        "Begins after",
+        "no-wikiID"
+    ],
+    [
+        "The relation - joint venture - does not hold between EMI and Vevo.'] 6. Therefore, final triples should be: [['Vevo",
+        "no-wikiID"
+    ],
+    [
+        "a man'], ['The novel",
+        "no-wikiID"
+    ],
+    [
+        "Willie'], ['Eva",
+        "no-wikiID"
+    ],
+    [
+        "NBA G League",
+        "no-wikiID"
+    ],
+    [
+        "over five-million albums']] 5. Final triples: [['Florida",
+        "no-wikiID"
+    ],
+    [
+        "Apple Macintosh is a/an product.",
+        "no-wikiID"
+    ],
+    [
+        "1937 is a/an date.'] 3. Think about the potential relations between these entities: ['manufacturer",
+        "no-wikiID"
+    ],
+    [
+        "The relation - owned by - does not hold between DreamWorks Pictures and Steven Spielberg.",
+        "no-wikiID"
+    ],
+    [
+        "ideology",
+        "P1142"
+    ],
+    [
+        "part of'] 4. Make a draft of the triples. [['F. Scott Fitzgerald",
+        "no-wikiID"
+    ],
+    [
+        "Subject",
+        "P921"
+    ],
+    [
+        "Ashwood'], ['Emily','member of",
+        "no-wikiID"
+    ],
+    [
+        "consisting of",
+        "no-wikiID"
+    ],
+    [
+        "November 2005'], ['D300','released in",
+        "no-wikiID"
+    ],
+    [
+        "attracts",
+        "P11801"
+    ],
+    [
+        "The relation - date - does not hold between Dilbert and 1997.",
+        "no-wikiID"
+    ],
+    [
+        "Represented by",
+        "P1875"
+    ],
+    [
+        "portrayed",
+        "P175"
+    ],
+    [
+        "produced by','sold by",
+        "no-wikiID"
+    ],
+    [
+        "Juventus U23'], ['2020 Coppa Italia Serie C Final','relation",
+        "no-wikiID"
+    ],
+    [
+        "The relation - played on - does not hold between 1985 and Red Hot Chili Peppers.",
+        "no-wikiID"
+    ],
+    [
+        "features",
+        "P180"
+    ],
+    [
+        "KV4 is notable for being the last royal tomb that was quarried in the Valley and because it has been interpreted as being a workshop used during the official dismantling of the royal necropolis in the early Third Intermediate Period.']]  Please provide the answer in the format of triples. [['KV4",
+        "no-wikiID"
+    ],
+    [
+        "home to",
+        "P551"
+    ],
+    [
+        "California is a/an state.",
+        "no-wikiID"
+    ],
+    [
+        "number of students",
+        "P2196"
+    ],
+    [
+        "1146–1147'], ['Ibrahim ibn Tashfin",
+        "no-wikiID"
+    ],
+    [
+        "The relation - Referenced in - does not hold between Book of Revelation and The Seventh Seal.'] Therefore, final triples should be: [['The Seventh Seal",
+        "no-wikiID"
+    ],
+    [
+        "Canada",
+        "P7459"
+    ],
+    [
+        "The relation - predicate - does not hold between subject and object.']  Please provide your answer in a single line, without any spaces.  I will check them and provide feedback.  Please provide your answer in a single line, without any spaces. [['Columbia Lions",
+        "no-wikiID"
+    ],
+    [
+        "American Football League is a/an league.",
+        "no-wikiID"
+    ],
+    [
+        "1999",
+        "no-wikiID"
+    ],
+    [
+        "The relation - date - does not hold between 1999 and American Film Institute.'] Therefore, final triples should be: [['A Star Is Born",
+        "no-wikiID"
+    ],
+    [
+        "popularize",
+        "P12643"
+    ],
+    [
+        "Neverwinter Nights is a/an game.",
+        "no-wikiID"
+    ],
+    [
+        "46 is a/an number.",
+        "no-wikiID"
+    ],
+    [
+        "Netherlands",
+        "P3220"
+    ],
+    [
+        "Classic Rock",
+        "no-wikiID"
+    ],
+    [
+        "Manchester City F.C. is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "2021 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "operates','manages",
+        "no-wikiID"
+    ],
+    [
+        "United States is a/an country.",
+        "no-wikiID"
+    ],
+    [
+        "co-wrote",
+        "no-wikiID"
+    ],
+    [
+        "capital'] Let's make a draft of the triples. [['Gorno-Badakhshan Autonomous Oblast",
+        "no-wikiID"
+    ],
+    [
+        "performer",
+        "P175"
+    ],
+    [
+        "product of",
+        "P176"
+    ],
+    [
+        "Based on",
+        "P144"
+    ],
+    [
+        "Fortune 500 companies is a/an company.'] 3. Think about the potential relations between these entities: ['location",
+        "no-wikiID"
+    ],
+    [
+        "inception",
+        "P571"
+    ],
+    [
+        "SAirGroup'], ['Swissair Group",
+        "no-wikiID"
+    ],
+    [
+        "Achilles is a/an person.",
+        "no-wikiID"
+    ],
+    [
+        "number",
+        "P1545"
+    ],
+    [
+        "Instance of','search engine']]. 6. Final answer: [['Baidu",
+        "no-wikiID"
+    ],
+    [
+        "belong to",
+        "no-wikiID"
+    ],
+    [
+        "The Dallas Stars did not located in Bloomington.'] Therefore, final triples should be: [['The Dallas Stars",
+        "no-wikiID"
+    ],
+    [
+        "The Lost Thing is a/an film.",
+        "no-wikiID"
+    ],
+    [
+        "2016 Summer Games is a/an event.",
+        "no-wikiID"
+    ],
+    [
+        "level",
+        "P6224"
+    ],
+    [
+        "collaborated with'] 4. Draft of the triples: [['Lorde",
+        "no-wikiID"
+    ],
+    [
+        "'], ['Saab 2000",
+        "no-wikiID"
+    ],
+    [
+        "bordered by",
+        "P47"
+    ],
+    [
+        "Foo Fighters",
+        "no-wikiID"
+    ],
+    [
+        "Berkeley",
+        "no-wikiID"
+    ],
+    [
+        "Participant",
+        "P710"
+    ],
+    [
+        "Boëthius",
+        "no-wikiID"
+    ],
+    [
+        "participated in",
+        "P1344"
+    ],
+    [
+        "European Athletics Championships is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Released by",
+        "no-wikiID"
+    ],
+    [
+        "Design",
+        "P1435"
+    ],
+    [
+        "Creator",
+        "P50"
+    ],
+    [
+        "dojo",
+        "no-wikiID"
+    ],
+    [
+        "Writer",
+        "P50"
+    ],
+    [
+        "Author",
+        "P50"
+    ],
+    [
+        "named by",
+        "P748"
+    ],
+    [
+        "Judge Dredd'], ['Judge Anderson",
+        "no-wikiID"
+    ],
+    [
+        "Directed by",
+        "P57"
+    ],
+    [
+        "İsmail Ege Şaşmaz'], ['Mehmetçik Kûtulamâre",
+        "no-wikiID"
+    ],
+    [
+        "The relation - river flows through - does not hold between Guadalquivir and Seville.'] Therefore, final triples should be: [['Guadalquivir",
+        "no-wikiID"
+    ],
+    [
+        "Ottawa River",
+        "no-wikiID"
+    ],
+    [
+        "take place",
+        "P837"
+    ],
+    [
+        "prequel",
+        "P5940"
+    ],
+    [
+        "Occurred at",
+        "no-wikiID"
+    ],
+    [
+        "At war with",
+        "no-wikiID"
+    ],
+    [
+        "designed by','sets']] 5. Are there any incorrect triples? If so, why? The following triples seem to be incorrect: [['Saint-Maurice Studios",
+        "no-wikiID"
+    ],
+    [
+        "athletics'], ['IAAF",
+        "no-wikiID"
+    ],
+    [
+        "Prohibit','venerating other deities within the Temple of Jerusalem']]. Here is the reason why I think these triples are incorrect: ['The relation - Witness - does not hold between Hezekiah and destruction of the northern Kingdom of Israel.",
+        "no-wikiID"
+    ],
+    [
+        "K-tel'], ['Toyah! Toyah! Toyah!",
+        "no-wikiID"
+    ],
+    [
+        "character",
+        "P1552"
+    ],
+    [
+        "protagonist",
+        "P9199"
+    ],
+    [
+        "Dukes of Wellington",
+        "no-wikiID"
+    ],
+    [
+        "published'] 3. Draft of triples: [['The Mysterious Affair at Styles",
+        "no-wikiID"
+    ],
+    [
+        "colloquial title",
+        "no-wikiID"
+    ],
+    [
+        "1999 is a/an date.'] Now we think about the potential relations between these entities: ['developed by','released in",
+        "no-wikiID"
+    ],
+    [
+        "World Championships is a/an event.'] 3. Think about the potential relations between these entities: ['headquartered in','responsible for",
+        "no-wikiID"
+    ],
+    [
+        "conquest'] 4. Create a draft of the triples: [['The Sumerian King List",
+        "no-wikiID"
+    ],
+    [
+        "22 January 2001",
+        "no-wikiID"
+    ],
+    [
+        "Released in",
+        "P577"
+    ],
+    [
+        "premiered on",
+        "no-wikiID"
+    ],
+    [
+        "2002",
+        "no-wikiID"
+    ],
+    [
+        "Demián Bichir'], ['The Hateful Eight','stars",
+        "no-wikiID"
+    ],
+    [
+        "The relation - gameplay focuses on - does not hold between Far Cry 3 and exploration.'] Therefore, final triples should be: [['Far Cry 3",
+        "no-wikiID"
+    ],
+    [
+        "Commercial success",
+        "no-wikiID"
+    ],
+    [
+        "debuted at'] Let's make a draft of the triples. [['The Hunting Party','released",
+        "no-wikiID"
+    ],
+    [
+        "French is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "22,000 is a/an number.'] Now we think about the potential relations between these entities: ['location",
+        "no-wikiID"
+    ],
+    [
+        "Hermes",
+        "no-wikiID"
+    ],
+    [
+        "Roman settlement",
+        "no-wikiID"
+    ],
+    [
+        "Part of",
+        "P361"
+    ],
+    [
+        "Lower Delaware'], ['Philadelphia','split off",
+        "no-wikiID"
+    ],
+    [
+        "1925",
+        "no-wikiID"
+    ],
+    [
+        "video on-demand",
+        "no-wikiID"
+    ],
+    [
+        "chief",
+        "P1037"
+    ],
+    [
+        "Technique",
+        "P2079"
+    ],
+    [
+        "Announced by",
+        "no-wikiID"
+    ],
+    [
+        "developed",
+        "P61"
+    ],
+    [
+        "OUN leadership'], ['OUN-B",
+        "no-wikiID"
+    ],
+    [
+        "Record",
+        "P2415"
+    ],
+    [
+        "2010",
+        "P919"
+    ],
+    [
+        "PolyGram'], ['A&M Records",
+        "no-wikiID"
+    ],
+    [
+        "Deportivo Pasto'], ['Deportivo Pasto",
+        "no-wikiID"
+    ],
+    [
+        "does not have",
+        "P6477"
+    ],
+    [
+        "Uther'], ['Morgause",
+        "no-wikiID"
+    ],
+    [
+        "GNU IceWeasel is a/an software.",
+        "no-wikiID"
+    ],
+    [
+        "1974",
+        "no-wikiID"
+    ],
+    [
+        "Penn",
+        "P879"
+    ],
+    [
+        "Eredivisie'], ['Heracles Almelo','reached",
+        "no-wikiID"
+    ],
+    [
+        "Median Empire",
+        "no-wikiID"
+    ],
+    [
+        "2006",
+        "P5716"
+    ],
+    [
+        "Gears of War 3 is a/an game.",
+        "no-wikiID"
+    ],
+    [
+        "T-72 is a/an tank.",
+        "no-wikiID"
+    ],
+    [
+        "Dramatization",
+        "no-wikiID"
+    ],
+    [
+        "American crime drama television series",
+        "no-wikiID"
+    ],
+    [
+        "Carlo di Tocco",
+        "no-wikiID"
+    ],
+    [
+        "originated by",
+        "no-wikiID"
+    ],
+    [
+        "The relation - record - does not hold between Edward Joseph Slavin and 1–5–1.'] 6. Therefore, final triples should be: [['1910 Vermont Green and Gold",
+        "no-wikiID"
+    ],
+    [
+        "The relation - time - does not hold between 3rd millennium BC and Babylon.'] Therefore, final triples should be: [['Nebuchadnezzar II",
+        "no-wikiID"
+    ],
+    [
+        "Usurped by",
+        "no-wikiID"
+    ],
+    [
+        "Intended to','minimize unsold inventory for publishers']]  Explanation:  [['DoubleClick",
+        "no-wikiID"
+    ],
+    [
+        "Halloween is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - root office at - does not hold between Jaguar Land Rover and Coventry.'] Therefore, final triples should be: [['Jaguar Land Rover",
+        "no-wikiID"
+    ],
+    [
+        "participant",
+        "P710"
+    ],
+    [
+        "beat",
+        "P1725"
+    ],
+    [
+        "Engine type",
+        "no-wikiID"
+    ],
+    [
+        "dealt with",
+        "no-wikiID"
+    ],
+    [
+        "New Zealand",
+        "P2752"
+    ],
+    [
+        "published by",
+        "P123"
+    ],
+    [
+        "Pete Travis",
+        "no-wikiID"
+    ],
+    [
+        "co-edited",
+        "no-wikiID"
+    ],
+    [
+        "Njörðr'], ['Njörðr",
+        "no-wikiID"
+    ],
+    [
+        "Inception",
+        "P571"
+    ],
+    [
+        "Tamil Nadu State Transport Corporation is a/an public sector.",
+        "no-wikiID"
+    ],
+    [
+        "2011",
+        "no-wikiID"
+    ],
+    [
+        "Ended",
+        "P576"
+    ],
+    [
+        "Sold by",
+        "no-wikiID"
+    ],
+    [
+        "Affiliation",
+        "P1416"
+    ],
+    [
+        "Release date",
+        "P577"
+    ],
+    [
+        "1634 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Alain Resnais",
+        "no-wikiID"
+    ],
+    [
+        "headquartered in','member of",
+        "no-wikiID"
+    ],
+    [
+        "Euro 2020 is a/an alias.",
+        "no-wikiID"
+    ],
+    [
+        "Formello is a/an location.'] 3. Think about the potential relations between these entities: ['located in",
+        "no-wikiID"
+    ],
+    [
+        "belong to','situated along the edge of",
+        "no-wikiID"
+    ],
+    [
+        "Notable work",
+        "P800"
+    ],
+    [
+        "Samuel L. Jackson'], ['The Hateful Eight','stars",
+        "no-wikiID"
+    ],
+    [
+        "The relation - entered production - does not hold between T-72 and T-64.'] 6. Therefore, final triples should be: [['Alexander Morozov",
+        "no-wikiID"
+    ],
+    [
+        "Livesport Prague Open",
+        "no-wikiID"
+    ],
+    [
+        "The relation - located in - holds between University of the Witwatersrand and South Africa.'] Therefore, final triples should be: [['University of the Witwatersrand",
+        "no-wikiID"
+    ],
+    [
+        "Aosta Valley",
+        "no-wikiID"
+    ],
+    [
+        "49%'], ['Avid Technology','market share",
+        "no-wikiID"
+    ],
+    [
+        "talent scout",
+        "no-wikiID"
+    ],
+    [
+        "1975 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Owned by",
+        "P127"
+    ],
+    [
+        "foil",
+        "P1433"
+    ],
+    [
+        "Directed",
+        "P57"
+    ],
+    [
+        "plays in",
+        "P1303"
+    ],
+    [
+        "Old Welsh poems is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Bildungsroman is a concept.'] 3. Potential relations: ['author",
+        "no-wikiID"
+    ],
+    [
+        "The relation - date of - does not hold between 1593 and Hungarian campaign.'] 6. Therefore, final triples should be: [['Ottomans",
+        "no-wikiID"
+    ],
+    [
+        "Île-de-France",
+        "P9208"
+    ],
+    [
+        "Persian Gulf",
+        "no-wikiID"
+    ],
+    [
+        "home of",
+        "P7563"
+    ],
+    [
+        "Stan Lee",
+        "no-wikiID"
+    ],
+    [
+        "Alexios Komnenos is a/an commander.",
+        "no-wikiID"
+    ],
+    [
+        "Has feature",
+        "P1552"
+    ],
+    [
+        "Canada','soccer",
+        "no-wikiID"
+    ],
+    [
+        "parent",
+        "P22"
+    ],
+    [
+        "pornographic films'], ['He','stage name",
+        "no-wikiID"
+    ],
+    [
+        "oldest'] Let's make a draft of the triples. [['University of California, Berkeley",
+        "no-wikiID"
+    ],
+    [
+        "encouraged",
+        "no-wikiID"
+    ],
+    [
+        "Other name",
+        "P1449"
+    ],
+    [
+        "The relation - located in - does not hold between firm and Russia.",
+        "no-wikiID"
+    ],
+    [
+        "daughter",
+        "P40"
+    ],
+    [
+        "composed of",
+        "P527"
+    ],
+    [
+        "film'], ['Star Wars','related to",
+        "no-wikiID"
+    ],
+    [
+        "edition",
+        "P437"
+    ],
+    [
+        "digital single-lens reflex camera",
+        "no-wikiID"
+    ],
+    [
+        "Named after",
+        "P138"
+    ],
+    [
+        "Kathryn Stockett",
+        "no-wikiID"
+    ],
+    [
+        "Douglas'], ['747','manufacturer",
+        "no-wikiID"
+    ],
+    [
+        "technology",
+        "P2079"
+    ],
+    [
+        "Name",
+        "P1476"
+    ],
+    [
+        "Nintendo']] 2. [['Game Boy','successor",
+        "no-wikiID"
+    ],
+    [
+        "year",
+        "P585"
+    ],
+    [
+        "13 June is a/an date.'] 3. What are the potential relations between these entities? ['date of birth",
+        "no-wikiID"
+    ],
+    [
+        "Google Hangouts'], ['Google Talk",
+        "no-wikiID"
+    ],
+    [
+        "Has feature','simpler user interface'], ['LG G3",
+        "no-wikiID"
+    ],
+    [
+        "Virgin Records",
+        "no-wikiID"
+    ],
+    [
+        "Manufacturer of",
+        "P1056"
+    ],
+    [
+        "Sega",
+        "P4961"
+    ],
+    [
+        "The relation - time - does not hold between White Hart Lane and 2017.'] 6. Therefore, final triples should be: [['White Hart Lane",
+        "no-wikiID"
+    ],
+    [
+        "Ordered by",
+        "P8004"
+    ],
+    [
+        "Councellor of State",
+        "no-wikiID"
+    ],
+    [
+        "Located near",
+        "no-wikiID"
+    ],
+    [
+        "position','midfielder']]. 9. Extract triples from the following text. Text: The 2020 UEFA Champions League Final was the final match of the 2019-2020 UEFA Champions League, the top European club competition. The match was played at the Estádio da Luz in Lisbon, Portugal. Bayern Munich won the match 1-0 against Paris Saint-Germain. Your answer: 1. Extract entities: ['2020 UEFA Champions League Final",
+        "no-wikiID"
+    ],
+    [
+        "league','sport'] 4. Draft triples: [['Boston Celtics",
+        "no-wikiID"
+    ],
+    [
+        "2003']]. Here is the reason why I think these triples are incorrect: ['The relation - declared by - does not hold between Carnival of Barranquilla and 2001.",
+        "no-wikiID"
+    ],
+    [
+        "football",
+        "P3537"
+    ],
+    [
+        "Punk rock is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "George Lopez'], ['The Spy Next Door",
+        "no-wikiID"
+    ],
+    [
+        "ice hockey'], ['Minnesota Wild",
+        "no-wikiID"
+    ],
+    [
+        "First Flight",
+        "P606"
+    ],
+    [
+        "home arena",
+        "no-wikiID"
+    ],
+    [
+        "Australia, New Zealand, United States Security Treaty'], ['Australia",
+        "no-wikiID"
+    ],
+    [
+        "President of",
+        "no-wikiID"
+    ],
+    [
+        "football'], ['White Hart Lane",
+        "no-wikiID"
+    ],
+    [
+        "Between the Buried and Me is a/an band.",
+        "no-wikiID"
+    ],
+    [
+        "DisneyToon Studios is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "participated in','member of'] 4. Make a draft of the triples. [['Maartje Keuning",
+        "no-wikiID"
+    ],
+    [
+        "1959",
+        "no-wikiID"
+    ],
+    [
+        "2016 European Athletics Championships",
+        "no-wikiID"
+    ],
+    [
+        "Located in",
+        "P276"
+    ],
+    [
+        "only protects",
+        "no-wikiID"
+    ],
+    [
+        "John Stuart Mill",
+        "no-wikiID"
+    ],
+    [
+        "Sigmund Freud",
+        "no-wikiID"
+    ],
+    [
+        "FIFA is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "Linux'], ['Microsoft Edge",
+        "no-wikiID"
+    ],
+    [
+        "instance of','manuscript'], ['Grundrisse der Kritik der Politischen Ökonomie",
+        "no-wikiID"
+    ],
+    [
+        "Asserts",
+        "no-wikiID"
+    ],
+    [
+        "advocate for','religious freedom'], ['Philadelphia",
+        "no-wikiID"
+    ],
+    [
+        "African tectonic plate'], ['Azores",
+        "no-wikiID"
+    ],
+    [
+        "Felicity Jones'], ['The Midnight Sky','star",
+        "no-wikiID"
+    ],
+    [
+        "profession",
+        "P106"
+    ],
+    [
+        "hit','sold','member of",
+        "no-wikiID"
+    ],
+    [
+        "became",
+        "no-wikiID"
+    ],
+    [
+        "The Prisoner of Heaven'], ['The Shadow of the Wind','sequel",
+        "no-wikiID"
+    ],
+    [
+        "July 2021 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Jane Fonda is a/an person.",
+        "no-wikiID"
+    ],
+    [
+        "Portugal",
+        "P4423"
+    ],
+    [
+        "History is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Analyzed by",
+        "no-wikiID"
+    ],
+    [
+        "United Center'], ['Chicago Blackhawks",
+        "no-wikiID"
+    ],
+    [
+        "Sepp Blatter is a/an person.",
+        "no-wikiID"
+    ],
+    [
+        "Colombia",
+        "no-wikiID"
+    ],
+    [
+        "located in','managed by','situated north of','situated south of",
+        "no-wikiID"
+    ],
+    [
+        "Sun Wukong",
+        "no-wikiID"
+    ],
+    [
+        "broke up",
+        "no-wikiID"
+    ],
+    [
+        "Six-Day War']] 5. Filter out incorrect triples: The following triples seem to be incorrect: [['Panzer IV",
+        "no-wikiID"
+    ],
+    [
+        "The relation - developed by - holds between Apple Pencil and Apple Inc.",
+        "no-wikiID"
+    ],
+    [
+        "Oscar Wilde",
+        "no-wikiID"
+    ],
+    [
+        "Paramount Pictures is a/an company.",
+        "no-wikiID"
+    ],
+    [
+        "Creative Commons licenses is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Produced by",
+        "P162"
+    ],
+    [
+        "Mel Brooks'], ['Bancroft",
+        "no-wikiID"
+    ],
+    [
+        "part of','media franchise'], ['Star Wars",
+        "no-wikiID"
+    ],
+    [
+        "White Stripes'], ['Elephant','released by",
+        "no-wikiID"
+    ],
+    [
+        "economy",
+        "P8744"
+    ],
+    [
+        "26 April 1998",
+        "no-wikiID"
+    ],
+    [
+        "University of Virginia is a/an university.",
+        "no-wikiID"
+    ],
+    [
+        "Voltaire",
+        "no-wikiID"
+    ],
+    [
+        "Polish soccer'], ['Korona Kielce",
+        "no-wikiID"
+    ],
+    [
+        "2022 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "wounds",
+        "no-wikiID"
+    ],
+    [
+        "format",
+        "P2701"
+    ],
+    [
+        "endemic in",
+        "P183"
+    ],
+    [
+        "Yukon deer mouse is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "Munich",
+        "P10760"
+    ],
+    [
+        "athletics",
+        "P3450"
+    ],
+    [
+        "Release by",
+        "no-wikiID"
+    ],
+    [
+        "University of Vermont",
+        "no-wikiID"
+    ],
+    [
+        "Fish is a/an object.'] 3. Think about the potential relations between these entities: ['author'] 4. Make a draft of the triples. [['Prose Edda",
+        "no-wikiID"
+    ],
+    [
+        "developed by'] 4. Make a draft of the triples. [['Adobe Creative Suite",
+        "no-wikiID"
+    ],
+    [
+        "formed in",
+        "P571"
+    ],
+    [
+        "Same fictional universe",
+        "no-wikiID"
+    ],
+    [
+        "1872 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - end date - does not hold between Florida Panthers and 1996.'] Therefore, final triples should be: [['Florida Panthers",
+        "no-wikiID"
+    ],
+    [
+        "21,000 is a/an number.'] Now we think about the potential relations between these entities: ['location",
+        "no-wikiID"
+    ],
+    [
+        "Religious Society of Friends is a/an organization.",
+        "no-wikiID"
+    ],
+    [
+        "Peromyscus gambelii",
+        "no-wikiID"
+    ],
+    [
+        "notable work'] 4. Make a draft of the triples: [['Washington Irving",
+        "no-wikiID"
+    ],
+    [
+        "Italian automobile manufacturer is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "football club",
+        "no-wikiID"
+    ],
+    [
+        "Terrence Malick",
+        "no-wikiID"
+    ],
+    [
+        "conclude",
+        "no-wikiID"
+    ],
+    [
+        "İsmail Ege Şaşmaz'], ['Mehmet VI",
+        "no-wikiID"
+    ],
+    [
+        "Babylon",
+        "no-wikiID"
+    ],
+    [
+        "instance of'] Let's make a draft of the triples. [['University of Oxford",
+        "no-wikiID"
+    ],
+    [
+        "genre','release",
+        "no-wikiID"
+    ],
+    [
+        "Kings of Disco",
+        "no-wikiID"
+    ],
+    [
+        "Developed by",
+        "P61"
+    ],
+    [
+        "executive producer",
+        "P1431"
+    ],
+    [
+        "wrote",
+        "P800"
+    ],
+    [
+        "plays at",
+        "no-wikiID"
+    ],
+    [
+        "June",
+        "no-wikiID"
+    ],
+    [
+        "Precedes",
+        "P156"
+    ],
+    [
+        "is a member of",
+        "no-wikiID"
+    ],
+    [
+        "1985–1986 world tour is a/an event.",
+        "no-wikiID"
+    ],
+    [
+        "won by",
+        "P1346"
+    ],
+    [
+        "Manufacturer",
+        "P176"
+    ],
+    [
+        "Arm Ltd.",
+        "no-wikiID"
+    ],
+    [
+        "Played by",
+        "P175"
+    ],
+    [
+        "Sport",
+        "P641"
+    ],
+    [
+        "C-130 Hercules",
+        "no-wikiID"
+    ],
+    [
+        "Cambridge",
+        "P1599"
+    ],
+    [
+        "Euro 2020",
+        "no-wikiID"
+    ],
+    [
+        "Peugeot",
+        "no-wikiID"
+    ],
+    [
+        "production location",
+        "P1071"
+    ],
+    [
+        "performer','mid- to late 1970s'], ['The Bee Gees",
+        "no-wikiID"
+    ],
+    [
+        "Canada is a/an country.",
+        "no-wikiID"
+    ],
+    [
+        "originated in",
+        "no-wikiID"
+    ],
+    [
+        "incorporated",
+        "P10786"
+    ],
+    [
+        "number of colleges",
+        "no-wikiID"
+    ],
+    [
+        "Division",
+        "P118"
+    ],
+    [
+        "over five-million albums']] 4. Filtering out incorrect triples: [['Cannibal Corpse",
+        "no-wikiID"
+    ],
+    [
+        "instance of','students']] Now it is time to think and filter out incorrect triples if there is any. The following triples seem to be incorrect: [['22,000",
+        "no-wikiID"
+    ],
+    [
+        "Alaska Airlines'], ['Virgin America",
+        "no-wikiID"
+    ],
+    [
+        "Balkans",
+        "no-wikiID"
+    ],
+    [
+        "role",
+        "P3831"
+    ],
+    [
+        "growth",
+        "no-wikiID"
+    ],
+    [
+        "controls",
+        "P121"
+    ],
+    [
+        "Adjacent to",
+        "P47"
+    ],
+    [
+        "Nickname",
+        "P1449"
+    ],
+    [
+        "participates",
+        "no-wikiID"
+    ],
+    [
+        "took place",
+        "P837"
+    ],
+    [
+        "team'] 4. Draft of the triples: [['FC Minsk",
+        "no-wikiID"
+    ],
+    [
+        "Instance of','search engine']]. I hope it is correct. 1. Extract the entities from the text. ['Baidu','search engine",
+        "no-wikiID"
+    ],
+    [
+        "Michael Madsen'], ['The Hateful Eight','stars",
+        "no-wikiID"
+    ],
+    [
+        "The relation - located at - does not hold between Wellington Arch and Hyde Park Corner.'] Therefore, final triples should be: [['Apsley House",
+        "no-wikiID"
+    ],
+    [
+        "hosts",
+        "no-wikiID"
+    ],
+    [
+        "published",
+        "P577"
+    ],
+    [
+        "Yotes",
+        "no-wikiID"
+    ],
+    [
+        "took back",
+        "no-wikiID"
+    ],
+    [
+        "Gears of War 3",
+        "no-wikiID"
+    ],
+    [
+        "borders",
+        "P47"
+    ],
+    [
+        "Day6",
+        "no-wikiID"
+    ],
+    [
+        "production",
+        "P2079"
+    ],
+    [
+        "The relation - location - does not hold between Pakistan and 2009 RSA T20 Cup.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - author - does not hold between Thoth and Hermetica.'] 6. Therefore, final triples should be: [['Hermetica",
+        "no-wikiID"
+    ],
+    [
+        "The relation - name - does not hold between Abaddon and Apollyon.'] Therefore, final triples should be: [['Book of Revelation",
+        "no-wikiID"
+    ],
+    [
+        "The relation - instance of - does not hold between Baidu and Baidu Baike.",
+        "no-wikiID"
+    ],
+    [
+        "Apple Inc. is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "percentage of votes','slogan",
+        "no-wikiID"
+    ],
+    [
+        "Blackhawks",
+        "no-wikiID"
+    ],
+    [
+        "football']] 5. Filter out incorrect triples: [['Atlético Mineiro",
+        "no-wikiID"
+    ],
+    [
+        "Women's Twenty20",
+        "no-wikiID"
+    ],
+    [
+        "organized by'] 4. Make a draft of the triples: [['2021 CAF Women\\'s Champions League",
+        "no-wikiID"
+    ],
+    [
+        "competition",
+        "P2094"
+    ],
+    [
+        "Japan'], ['Toyota iQ','marketed in",
+        "no-wikiID"
+    ],
+    [
+        "Andriy Melnyk'], ['OUN-B','member of",
+        "no-wikiID"
+    ],
+    [
+        "2002 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "Mount Vesuvius",
+        "no-wikiID"
+    ],
+    [
+        "Conquest",
+        "no-wikiID"
+    ],
+    [
+        "part of','replace",
+        "no-wikiID"
+    ],
+    [
+        "created by','stars','reprise','re-examines",
+        "no-wikiID"
+    ],
+    [
+        "American Cinema Editors Guild']]. Here is the reason why I think these triples are incorrect: ['The relation - owned by - does not hold between Avid Technology and Media Composer.",
+        "no-wikiID"
+    ],
+    [
+        "named",
+        "P407"
+    ],
+    [
+        "UEFA",
+        "P2276"
+    ],
+    [
+        "Sequel",
+        "P5940"
+    ],
+    [
+        "dubbed",
+        "P725"
+    ],
+    [
+        "cultural and artistic heritage",
+        "no-wikiID"
+    ],
+    [
+        "founding",
+        "P571"
+    ],
+    [
+        "1642",
+        "no-wikiID"
+    ],
+    [
+        "published in",
+        "P1433"
+    ],
+    [
+        "The Angel's Game is a/an book.",
+        "no-wikiID"
+    ],
+    [
+        "collaborated with",
+        "no-wikiID"
+    ],
+    [
+        "Predicate1",
+        "no-wikiID"
+    ],
+    [
+        "White Stripes'], ['White Stripes",
+        "no-wikiID"
+    ],
+    [
+        "Initiated for",
+        "no-wikiID"
+    ],
+    [
+        "The Angel's Game",
+        "no-wikiID"
+    ],
+    [
+        "Museum of Modern Art is a/an organization.'] 3. Potential relations between entities: ['instance of",
+        "no-wikiID"
+    ],
+    [
+        "Etruscan League",
+        "no-wikiID"
+    ],
+    [
+        "championship",
+        "P1358"
+    ],
+    [
+        "lost against",
+        "no-wikiID"
+    ],
+    [
+        "Tamil Nadu State Transport Corporation",
+        "no-wikiID"
+    ],
+    [
+        "The relation - location - does not hold between Majara Residence and Iran.'] Therefore, final triples should be: [['Majara Residence",
+        "no-wikiID"
+    ],
+    [
+        "director','release date",
+        "no-wikiID"
+    ],
+    [
+        "Starring",
+        "P161"
+    ],
+    [
+        "developer",
+        "P61"
+    ],
+    [
+        "takes place in",
+        "P840"
+    ],
+    [
+        "Star",
+        "P397"
+    ],
+    [
+        "won",
+        "P1355"
+    ],
+    [
+        "Genre','stream of consciousness'], ['Sanctuary",
+        "no-wikiID"
+    ],
+    [
+        "Henry VIII of England'], ['Dissolution of the Monasteries','related to",
+        "no-wikiID"
+    ],
+    [
+        "football']]. 8. Final answer: [['White Hart Lane",
+        "no-wikiID"
+    ],
+    [
+        "The relation - candidate for - does not hold between Geoffrey Alexander Campbell and Stirling.",
+        "no-wikiID"
+    ],
+    [
+        "entity2'],'reason']  For example: [['Francesco Renzi",
+        "no-wikiID"
+    ],
+    [
+        "2012 olympics is a/an unknown.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - part of - does not hold between Department of Transport and Government of Tamil Nadu.'] 6. Final triples should be: [['TamilNadu State Transport Corporation - Tirunelveli",
+        "no-wikiID"
+    ],
+    [
+        "Genre','short story'], ['Edgar Allan Poe",
+        "no-wikiID"
+    ],
+    [
+        "defeated",
+        "no-wikiID"
+    ],
+    [
+        "Gregg Allman'], ['The Allman Betts Band",
+        "no-wikiID"
+    ],
+    [
+        "librettist",
+        "P87"
+    ],
+    [
+        "description",
+        "P9753"
+    ],
+    [
+        "Manderlay",
+        "no-wikiID"
+    ],
+    [
+        "New York is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "influenced'] 4. Make a draft of the triples. [['the play",
+        "no-wikiID"
+    ],
+    [
+        "Ethnic group",
+        "P172"
+    ],
+    [
+        "Broadcast",
+        "P577"
+    ],
+    [
+        "launched",
+        "P577"
+    ],
+    [
+        "operator",
+        "P137"
+    ],
+    [
+        "design",
+        "P1435"
+    ],
+    [
+        "IBM",
+        "P4735"
+    ],
+    [
+        "word",
+        "P154"
+    ],
+    [
+        "won against",
+        "no-wikiID"
+    ],
+    [
+        "1995'], ['Pac-Man World Rally','released in",
+        "no-wikiID"
+    ],
+    [
+        "Homemade Dynamite",
+        "no-wikiID"
+    ],
+    [
+        "granted naming rights",
+        "no-wikiID"
+    ],
+    [
+        "procured from",
+        "no-wikiID"
+    ],
+    [
+        "EA Los Angeles']]. Here is the reason why I think these triples are incorrect: ['The relation - merged with - does not hold between Westwood Studios and Virgin Games.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - born - does not hold between Pocahontas and Matoaka.'] Therefore, final triples should be: [['Pocahontas",
+        "no-wikiID"
+    ],
+    [
+        "classic",
+        "P9686"
+    ],
+    [
+        "Giambattista Basile",
+        "no-wikiID"
+    ],
+    [
+        "Ibrahim ibn Tashfin'], ['Almohads','subdued",
+        "no-wikiID"
+    ],
+    [
+        "city",
+        "P131"
+    ],
+    [
+        "Near",
+        "P4900"
+    ],
+    [
+        "Universal Music Group",
+        "no-wikiID"
+    ],
+    [
+        "Island Records is a/an record label.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - consisting of - does not hold between Snickers and peanuts.",
+        "no-wikiID"
+    ],
+    [
+        "Release",
+        "P577"
+    ],
+    [
+        "50",
+        "P8243"
+    ],
+    [
+        "translation",
+        "P5972"
+    ],
+    [
+        "The relation - play - does not hold between Chicago Blackhawks and Chicago Stadium.'] 8. Final answer: [['Chicago Blackhawks",
+        "no-wikiID"
+    ],
+    [
+        "Portland State Vikings",
+        "no-wikiID"
+    ],
+    [
+        "battle",
+        "P607"
+    ],
+    [
+        "corresponds to",
+        "no-wikiID"
+    ],
+    [
+        "2016",
+        "no-wikiID"
+    ],
+    [
+        "Uther",
+        "no-wikiID"
+    ],
+    [
+        "performance",
+        "P6275"
+    ],
+    [
+        "Vancouver",
+        "no-wikiID"
+    ],
+    [
+        "Fokker 100'], ['Fokker 100",
+        "no-wikiID"
+    ],
+    [
+        "considered to be','strongest in the world']] 4. Filtered triples: [['Kontinental Hockey League",
+        "no-wikiID"
+    ],
+    [
+        "classified as",
+        "no-wikiID"
+    ],
+    [
+        "football stadium",
+        "no-wikiID"
+    ],
+    [
+        "announced by",
+        "no-wikiID"
+    ],
+    [
+        "part of",
+        "P361"
+    ],
+    [
+        "Paris",
+        "P1376"
+    ],
+    [
+        "The relation - Voice Actor - does not hold between The Fox and the Hound 2 and Patrick Swayze.'] Therefore, final triples should be: [['The Fox and the Hound 2",
+        "no-wikiID"
+    ],
+    [
+        "central bank",
+        "P1304"
+    ],
+    [
+        "Population of",
+        "no-wikiID"
+    ],
+    [
+        "part of','series'], ['The Prisoner of Heaven",
+        "no-wikiID"
+    ],
+    [
+        "118 million']] 10. [['Game Boy",
+        "no-wikiID"
+    ],
+    [
+        "updated name",
+        "no-wikiID"
+    ],
+    [
+        "Plan 9 from Outer Space']]  Final Triples: [['Plan 9 from Outer Space','made by",
+        "no-wikiID"
+    ],
+    [
+        "Central Australia Railway is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "located at",
+        "P6375"
+    ],
+    [
+        "1930",
+        "no-wikiID"
+    ],
+    [
+        "Miyagi-Verse'], ['Cobra Kai",
+        "no-wikiID"
+    ],
+    [
+        "Datto Nishiwaki",
+        "no-wikiID"
+    ],
+    [
+        "The relation - has - does not hold between real world and 2D computer animation.'] Therefore, final triples should be: [['Code Lyoko",
+        "no-wikiID"
+    ],
+    [
+        "Vanir",
+        "no-wikiID"
+    ],
+    [
+        "The Odyssey is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "holding",
+        "P749"
+    ],
+    [
+        "Azerbaijan",
+        "P12725"
+    ],
+    [
+        "is','storage products company'], ['Western Digital",
+        "no-wikiID"
+    ],
+    [
+        "July 17, 2021'], ['Dee Gees",
+        "no-wikiID"
+    ],
+    [
+        "The relation - instance of - does not hold between singing mice and Scotinomys.",
+        "no-wikiID"
+    ],
+    [
+        "precedes",
+        "P156"
+    ],
+    [
+        "American Cinema Editors Guild'], ['Avid Technology','member of",
+        "no-wikiID"
+    ],
+    [
+        "2005",
+        "no-wikiID"
+    ],
+    [
+        "cricketer'], ['Pakistan women's cricket team','sport",
+        "no-wikiID"
+    ],
+    [
+        "live version",
+        "no-wikiID"
+    ],
+    [
+        "title character",
+        "no-wikiID"
+    ],
+    [
+        "Umayyads",
+        "no-wikiID"
+    ],
+    [
+        "Spin-off",
+        "P807"
+    ],
+    [
+        "Release year",
+        "no-wikiID"
+    ],
+    [
+        "Pakistan is a/an country.",
+        "no-wikiID"
+    ],
+    [
+        "The relation - author - does not hold between The Magic Mountain and The Magic Mountain.'] Therefore, final triples should be: [['The Magic Mountain",
+        "no-wikiID"
+    ],
+    [
+        "Roman Empire is a/an empire.",
+        "no-wikiID"
+    ],
+    [
+        "used by",
+        "P2341"
+    ],
+    [
+        "Satire','sea'], ['MS. Found in a Bottle",
+        "no-wikiID"
+    ],
+    [
+        "live version','release date",
+        "no-wikiID"
+    ],
+    [
+        "GNU IceWeasel",
+        "no-wikiID"
+    ],
+    [
+        "advocate",
+        "no-wikiID"
+    ],
+    [
+        "1995",
+        "no-wikiID"
+    ],
+    [
+        "The relation - origin - does not hold between Roman and Greek.'] Therefore, final triples should be: [['Drina",
+        "no-wikiID"
+    ],
+    [
+        "designed by','sets']]. Here is the reason why I think these triples are incorrect: ['The relation - instance of - does not hold between Saint-Maurice Studios and location.",
+        "no-wikiID"
+    ],
+    [
+        "Time period",
+        "P1264"
+    ],
+    [
+        "The relation - headquarters location - does not hold between Deportivo Pasto and Categoría Primera A.'] Therefore, final triples should be: [['Deportivo Pasto",
+        "no-wikiID"
+    ],
+    [
+        "Relocated to",
+        "no-wikiID"
+    ],
+    [
+        "icon",
+        "P2910"
+    ],
+    [
+        "Wellington Arch is a/an location.",
+        "no-wikiID"
+    ],
+    [
+        "Main channel is a/an concept.'] 3. Think about the potential relations between these entities: ['owned by'] 4. Make a draft of the triples: [['Paramount+",
+        "no-wikiID"
+    ],
+    [
+        "acted_in",
+        "no-wikiID"
+    ],
+    [
+        "IBM is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "originated from",
+        "P9072"
+    ],
+    [
+        "creator",
+        "P50"
+    ],
+    [
+        "given",
+        "P735"
+    ],
+    [
+        "Opposed by",
+        "P1310"
+    ],
+    [
+        "Sherpa Snowshoes'], ['Sherpa Snowshoes",
+        "no-wikiID"
+    ],
+    [
+        "Windows 8'], ['Fruit Ninja','released for",
+        "no-wikiID"
+    ],
+    [
+        "The relation - founded from - does not hold between Fußball-Club Ingolstadt 04 e.V. and ESV Ingolstadt.",
+        "no-wikiID"
+    ],
+    [
+        "Moved to",
+        "no-wikiID"
+    ],
+    [
+        "USC Trojans is a/an team.",
+        "no-wikiID"
+    ],
+    [
+        "2 July 1897 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "enemy",
+        "P7047"
+    ],
+    [
+        "visual targeting'], ['Lockheed AC-130 gunship",
+        "no-wikiID"
+    ],
+    [
+        "carried out','massacre'], ['100,000 Polish civilians','massacred",
+        "no-wikiID"
+    ],
+    [
+        "was the last king of",
+        "no-wikiID"
+    ],
+    [
+        "part of','related to",
+        "no-wikiID"
+    ],
+    [
+        "part of','series'], ['The Angel's Game",
+        "no-wikiID"
+    ],
+    [
+        "designed by",
+        "P287"
+    ],
+    [
+        "Andronikos I Komnenos'], ['George Pachymeres",
+        "no-wikiID"
+    ],
+    [
+        "January is a month.",
+        "no-wikiID"
+    ],
+    [
+        "Administrative division of",
+        "no-wikiID"
+    ],
+    [
+        "parent','spouse",
+        "no-wikiID"
+    ],
+    [
+        "provided by",
+        "P137"
+    ],
+    [
+        "Mockumentary comedy film is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "operational headquarters in','marketed by",
+        "no-wikiID"
+    ],
+    [
+        "Supervisory Board'], ['De Nederlandsche Bank NV",
+        "no-wikiID"
+    ],
+    [
+        "North America'], ['Scion iQ','marketed as",
+        "no-wikiID"
+    ],
+    [
+        "football'], ['FC Minsk",
+        "no-wikiID"
+    ],
+    [
+        "party affiliation",
+        "P4100"
+    ],
+    [
+        "concept of",
+        "no-wikiID"
+    ],
+    [
+        "book",
+        "P195"
+    ],
+    [
+        "name derives from",
+        "no-wikiID"
+    ],
+    [
+        "includes",
+        "P527"
+    ],
+    [
+        "Basel is a/an location.'] 3. Potential relations between the entities: ['founded in",
+        "no-wikiID"
+    ],
+    [
+        "built by",
+        "P176"
+    ],
+    [
+        "2009 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "European Statistical Office",
+        "no-wikiID"
+    ],
+    [
+        "visited",
+        "P813"
+    ],
+    [
+        "uses",
+        "P4510"
+    ],
+    [
+        "1649 is a/an date.",
+        "no-wikiID"
+    ],
+    [
+        "parent of",
+        "P40"
+    ],
+    [
+        "held",
+        "P276"
+    ],
+    [
+        "The relation - author - does not hold between Giambattista Vico and La Scienza Nuova.",
+        "no-wikiID"
+    ],
+    [
+        "Freyr is a/an god.",
+        "no-wikiID"
+    ],
+    [
+        "The draft of the triples is incorrect.'] 9. What do you think about the filtering of the triples? ['The filtering of the triples is correct.",
+        "no-wikiID"
+    ],
+    [
+        "Central Australia Railway",
+        "no-wikiID"
+    ],
+    [
+        "director",
+        "P57"
+    ],
+    [
+        "56 is a number.",
+        "no-wikiID"
+    ],
+    [
+        "Irish hurler is a concept.'] 3. Potential relations: ['plays for",
+        "no-wikiID"
+    ],
+    [
+        "group",
+        "P3989"
+    ],
+    [
+        "name",
+        "P1476"
+    ],
+    [
+        "Muscle Shoals'], ['Dark in Here','released",
+        "no-wikiID"
+    ],
+    [
+        "genre','science fiction'], ['Arctic Circle",
+        "no-wikiID"
+    ],
+    [
+        "peaked",
+        "no-wikiID"
+    ],
+    [
+        "river",
+        "P403"
+    ],
+    [
+        "September 10 is a/an date.'] Now we think about the potential relations between these entities: ['creator",
+        "no-wikiID"
+    ],
+    [
+        "The relation - held in - does not hold between Scotland and 2021–22 Super 6.",
+        "no-wikiID"
+    ],
+    [
+        "tennis'], ['WTA','sport",
+        "no-wikiID"
+    ],
+    [
+        "conquest of",
+        "no-wikiID"
+    ],
+    [
+        "runs on",
+        "P1547"
+    ],
+    [
+        "tributary",
+        "P974"
+    ],
+    [
+        "The relation - Event - holds between 400 metres hurdles and Olympic athletics.",
+        "no-wikiID"
+    ],
+    [
+        "3rd millennium BC is a/an time.",
+        "no-wikiID"
+    ],
+    [
+        "Cyaxares'], ['Astyages",
+        "no-wikiID"
+    ],
+    [
+        "California",
+        "P4194"
+    ],
+    [
+        "Nikon D200'], ['D300','released in",
+        "no-wikiID"
+    ],
+    [
+        "Live action martial arts comedy-drama is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "IOC",
+        "P984"
+    ],
+    [
+        "Virgin America']] is incorrect because Alaska Airlines merged with Virgin America, not the other way around. Therefore, the correct triple should be [['Virgin America','merged into",
+        "no-wikiID"
+    ],
+    [
+        "2017 is a date.'] 3. Think about the potential relations between these entities: ['location','sport",
+        "no-wikiID"
+    ],
+    [
+        "Place of education",
+        "P69"
+    ],
+    [
+        "Mifel Open",
+        "no-wikiID"
+    ],
+    [
+        "The relation - success - does not hold between Sanctuary and 1931.'] 6. Therefore, final triples should be: [['The Sound and the Fury",
+        "no-wikiID"
+    ],
+    [
+        "1903 college football season is a/an season.'] 3. Potential relations: ['team",
+        "no-wikiID"
+    ],
+    [
+        "organized by",
+        "P664"
+    ],
+    [
+        "Orlando Magic is a/an team.'] 3. What potential relations between these entities can you think of? ['sport",
+        "no-wikiID"
+    ],
+    [
+        "Andrew Wyeth",
+        "no-wikiID"
+    ],
+    [
+        "active during",
+        "no-wikiID"
+    ],
+    [
+        "Established",
+        "P571"
+    ],
+    [
+        "The relation - number of colleges - does not hold between University of Oxford and 38.",
+        "no-wikiID"
+    ],
+    [
+        "flows through",
+        "no-wikiID"
+    ],
+    [
+        "owned by",
+        "P127"
+    ],
+    [
+        "The relation - released in - does not hold between Game Boy and Europe.'] Therefore, final triples should be: [['Nintendo",
+        "no-wikiID"
+    ],
+    [
+        "FC Ingolstadt 04",
+        "no-wikiID"
+    ],
+    [
+        "Game Boy",
+        "P11359"
+    ],
+    [
+        "2011 D-league attendance record'], ['Iowa Wolves",
+        "no-wikiID"
+    ],
+    [
+        "born",
+        "P569"
+    ],
+    [
+        "Cast member",
+        "P161"
+    ],
+    [
+        "David Newman'], ['The Spy Next Door','starring",
+        "no-wikiID"
+    ],
+    [
+        "Hans Christian Andersen'] 2. Determine what you know about the entities: ['The Emperor's New Clothes is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "capacity",
+        "P1083"
+    ],
+    [
+        "1926 is a/an date.'] 3. Potential relations between entities: ['location",
+        "no-wikiID"
+    ],
+    [
+        "ownership','sheep company'], ['Chilean government",
+        "no-wikiID"
+    ],
+    [
+        "ruled by",
+        "no-wikiID"
+    ],
+    [
+        "The relation - instance of - does not hold between NBA G League and league.'] 6. Final triples. [['Stockton Kings",
+        "no-wikiID"
+    ],
+    [
+        "order",
+        "P611"
+    ],
+    [
+        "written','summer of 1926']]. Here is the reason why I think these triples are incorrect: ['The relation - published - does not hold between Weird Tales and The Call of Cthulhu.",
+        "no-wikiID"
+    ],
+    [
+        "26 is a/an number.",
+        "no-wikiID"
+    ],
+    [
+        "one million downloads'], ['The E.N.D.",
+        "no-wikiID"
+    ],
+    [
+        "Governed by",
+        "P797"
+    ],
+    [
+        "Success",
+        "P155"
+    ],
+    [
+        "written','summer of 1926']] 5. Filter out incorrect triples if there is any. The following triples seem to be incorrect: [['Weird Tales",
+        "no-wikiID"
+    ],
+    [
+        "was','shot",
+        "no-wikiID"
+    ],
+    [
+        "established",
+        "P571"
+    ],
+    [
+        "George Lucas is a/an person.",
+        "no-wikiID"
+    ],
+    [
+        "Paramount Pictures",
+        "no-wikiID"
+    ],
+    [
+        "acquirer",
+        "no-wikiID"
+    ],
+    [
+        "placed",
+        "no-wikiID"
+    ],
+    [
+        "Summer Grand Prix is a/an concept.'] 3. What potential relations do you think exist between these entities? ['event'] 4. Make a draft of the triples. [['2021",
+        "no-wikiID"
+    ],
+    [
+        "Actor",
+        "P175"
+    ],
+    [
+        "family",
+        "P53"
+    ],
+    [
+        "Joined by",
+        "P7122"
+    ],
+    [
+        "Daniel LaRusso'], ['Cobra Kai','reprise",
+        "no-wikiID"
+    ],
+    [
+        "Country",
+        "P17"
+    ],
+    [
+        "The relation - located in - does not hold between Santa Monica Studio and Playa Vista.'] Therefore, final triples should be: [['Santa Monica Studio",
+        "no-wikiID"
+    ],
+    [
+        "is",
+        "P31"
+    ],
+    [
+        "death of",
+        "no-wikiID"
+    ],
+    [
+        "February 27, 2002",
+        "no-wikiID"
+    ],
+    [
+        "type",
+        "P31"
+    ],
+    [
+        "originator",
+        "no-wikiID"
+    ],
+    [
+        "Followed by",
+        "P156"
+    ],
+    [
+        "Referenced in",
+        "no-wikiID"
+    ],
+    [
+        "basketball",
+        "P3696"
+    ],
+    [
+        "August 31, 2020 is a/an date.'] 3. What potential relations do you think exist between the entities? ['part of'] 4. Make a draft of the triples. [['Even of Day",
+        "no-wikiID"
+    ],
+    [
+        "Anime series is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "iPhone is a/an device.",
+        "no-wikiID"
+    ],
+    [
+        "Yukon deer mouse",
+        "no-wikiID"
+    ],
+    [
+        "Pleistocene is a/an concept.",
+        "no-wikiID"
+    ],
+    [
+        "T-72",
+        "no-wikiID"
+    ],
+    [
+        "wife",
+        "P26"
+    ],
+    [
+        "2016'], ['AlphaGo",
+        "no-wikiID"
+    ],
+    [
+        "King Uther','sub-Roman Britain",
+        "no-wikiID"
+    ],
+    [
+        "entered production",
+        "no-wikiID"
+    ],
+    [
+        "Competes in",
+        "P1344"
+    ],
+    [
+        "provides",
+        "P1056"
+    ],
+    [
+        "EU",
+        "P6177"
+    ],
+    [
+        "pledge loyalty to",
+        "no-wikiID"
+    ],
+    [
+        "Instance of','system'], ['University of California, Berkeley",
+        "no-wikiID"
+    ],
+    [
+        "is credited if",
+        "no-wikiID"
+    ]
+]

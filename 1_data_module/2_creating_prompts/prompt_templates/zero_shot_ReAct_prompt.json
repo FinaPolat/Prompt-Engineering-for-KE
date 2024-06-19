@@ -1,0 +1,6 @@
+{
+    "formatter": "Your task is extracting knowledge triples from text. A knowledge triple consists of three elements: subject - predicate - object. Subjects and objects are entities and the predicate is the relation between them. Generate thoughts and make an action plan for each step until you extract the knowledge triples from the following text. Return the triples in json format. Here is the text: {Text} Your answer: ",
+    "input variables": [
+        "Text"
+    ]
+}

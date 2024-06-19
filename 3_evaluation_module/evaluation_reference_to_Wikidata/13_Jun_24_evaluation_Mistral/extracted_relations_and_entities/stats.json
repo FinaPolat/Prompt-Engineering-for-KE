@@ -1,0 +1,206 @@
+[
+    {
+        "file": "entities_from_one_shot_CoT_prompts_test.json",
+        "all entities": 3920,
+        "linked entities": 2667,
+        "not linked entities": 1253
+    },
+    {
+        "file": "entities_from_one_shot_CoT_selfconsitency_prompts_test.json",
+        "all entities": 4277,
+        "linked entities": 2858,
+        "not linked entities": 1419
+    },
+    {
+        "file": "entities_from_one_shot_GenKnow_prompts_test.json",
+        "all entities": 3956,
+        "linked entities": 2593,
+        "not linked entities": 1363
+    },
+    {
+        "file": "entities_from_one_shot_RAG_prompts_test.json",
+        "all entities": 3093,
+        "linked entities": 2365,
+        "not linked entities": 728
+    },
+    {
+        "file": "entities_from_one_shot_ReAct_prompts_test.json",
+        "all entities": 4158,
+        "linked entities": 2348,
+        "not linked entities": 1810
+    },
+    {
+        "file": "entities_from_one_shot_prompts_test.json",
+        "all entities": 4174,
+        "linked entities": 2913,
+        "not linked entities": 1261
+    },
+    {
+        "file": "entities_from_three_shot_CoT_prompts_test.json",
+        "all entities": 3781,
+        "linked entities": 2419,
+        "not linked entities": 1362
+    },
+    {
+        "file": "entities_from_three_shot_CoT_selfconsitency_prompts_test.json",
+        "all entities": 4005,
+        "linked entities": 2887,
+        "not linked entities": 1118
+    },
+    {
+        "file": "entities_from_three_shot_GenKnow_prompts_test.json",
+        "all entities": 3620,
+        "linked entities": 2502,
+        "not linked entities": 1118
+    },
+    {
+        "file": "entities_from_three_shot_RAG_prompts_test.json",
+        "all entities": 2750,
+        "linked entities": 2198,
+        "not linked entities": 552
+    },
+    {
+        "file": "entities_from_three_shot_ReAct_prompts_test.json",
+        "all entities": 3351,
+        "linked entities": 2092,
+        "not linked entities": 1259
+    },
+    {
+        "file": "entities_from_three_shot_prompts_test.json",
+        "all entities": 3778,
+        "linked entities": 2712,
+        "not linked entities": 1066
+    },
+    {
+        "file": "entities_from_zero_shot_CoT_prompts_test.json",
+        "all entities": 3161,
+        "linked entities": 1276,
+        "not linked entities": 1885
+    },
+    {
+        "file": "entities_from_zero_shot_CoT_selfconsistency_prompts_test.json",
+        "all entities": 3188,
+        "linked entities": 1607,
+        "not linked entities": 1581
+    },
+    {
+        "file": "entities_from_zero_shot_GenKnow_prompts_test.json",
+        "all entities": 3071,
+        "linked entities": 1637,
+        "not linked entities": 1434
+    },
+    {
+        "file": "entities_from_zero_shot_ReAct_prompts_test.json",
+        "all entities": 2017,
+        "linked entities": 940,
+        "not linked entities": 1077
+    },
+    {
+        "file": "entities_from_zero_shot_prompts_test.json",
+        "all entities": 2745,
+        "linked entities": 1264,
+        "not linked entities": 1481
+    },
+    {
+        "file": "relations_from_one_shot_CoT_prompts_test.json",
+        "all relations": 1644,
+        "linked relations": 637,
+        "not linked relations": 1007
+    },
+    {
+        "file": "relations_from_one_shot_CoT_selfconsitency_prompts_test.json",
+        "all relations": 1851,
+        "linked relations": 757,
+        "not linked relations": 1094
+    },
+    {
+        "file": "relations_from_one_shot_GenKnow_prompts_test.json",
+        "all relations": 1474,
+        "linked relations": 541,
+        "not linked relations": 933
+    },
+    {
+        "file": "relations_from_one_shot_RAG_prompts_test.json",
+        "all relations": 1050,
+        "linked relations": 497,
+        "not linked relations": 553
+    },
+    {
+        "file": "relations_from_one_shot_ReAct_prompts_test.json",
+        "all relations": 1911,
+        "linked relations": 663,
+        "not linked relations": 1248
+    },
+    {
+        "file": "relations_from_one_shot_prompts_test.json",
+        "all relations": 1532,
+        "linked relations": 659,
+        "not linked relations": 873
+    },
+    {
+        "file": "relations_from_three_shot_CoT_prompts_test.json",
+        "all relations": 1638,
+        "linked relations": 658,
+        "not linked relations": 980
+    },
+    {
+        "file": "relations_from_three_shot_CoT_selfconsitency_prompts_test.json",
+        "all relations": 1664,
+        "linked relations": 772,
+        "not linked relations": 892
+    },
+    {
+        "file": "relations_from_three_shot_GenKnow_prompts_test.json",
+        "all relations": 1172,
+        "linked relations": 476,
+        "not linked relations": 696
+    },
+    {
+        "file": "relations_from_three_shot_RAG_prompts_test.json",
+        "all relations": 933,
+        "linked relations": 426,
+        "not linked relations": 507
+    },
+    {
+        "file": "relations_from_three_shot_ReAct_prompts_test.json",
+        "all relations": 1505,
+        "linked relations": 566,
+        "not linked relations": 939
+    },
+    {
+        "file": "relations_from_three_shot_prompts_test.json",
+        "all relations": 1334,
+        "linked relations": 594,
+        "not linked relations": 740
+    },
+    {
+        "file": "relations_from_zero_shot_CoT_prompts_test.json",
+        "all relations": 1410,
+        "linked relations": 253,
+        "not linked relations": 1157
+    },
+    {
+        "file": "relations_from_zero_shot_CoT_selfconsistency_prompts_test.json",
+        "all relations": 1525,
+        "linked relations": 325,
+        "not linked relations": 1200
+    },
+    {
+        "file": "relations_from_zero_shot_GenKnow_prompts_test.json",
+        "all relations": 1402,
+        "linked relations": 328,
+        "not linked relations": 1074
+    },
+    {
+        "file": "relations_from_zero_shot_ReAct_prompts_test.json",
+        "all relations": 944,
+        "linked relations": 241,
+        "not linked relations": 703
+    },
+    {
+        "file": "relations_from_zero_shot_prompts_test.json",
+        "all relations": 1289,
+        "linked relations": 294,
+        "not linked relations": 995
+    }
+]

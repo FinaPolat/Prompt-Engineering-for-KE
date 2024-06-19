@@ -1,0 +1,6 @@
+{
+    "formatter": "Your task is extracting knowledge triples from the text. Let's think step by step. A knowledge triple consists of three elements: subject - predicate - object. Subjects and objects are entities and the predicate is the relation between them. Consider entities and the relation between them before forming the triples. Extract the triples from the following text thinking step by step. Text: {Text} Your answer: ",
+    "input variables": [
+        "Text"
+    ]
+}

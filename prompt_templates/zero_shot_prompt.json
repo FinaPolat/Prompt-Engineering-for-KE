@@ -1,6 +1,0 @@
-{
-    "formatter": "Extract knowledge triples from the text. Return the triples in json format. Text: {Text} Your answer: ",
-    "input variables": [
-        "Text"
-    ]
-}

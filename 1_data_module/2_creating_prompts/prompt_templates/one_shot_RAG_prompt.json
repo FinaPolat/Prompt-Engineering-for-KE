@@ -1,0 +1,12 @@
+{
+    "prefix": "Extract knowledge triples from the text. Here is an example:",
+    "formatter": "Text: {Text} Triples: {Triples} ",
+    "example variables": [
+        "Text",
+        "Triples"
+    ],
+    "input variables": [
+        "Text"
+    ],
+    "suffix": "Example ends here. Text: {Text} Your answer: "
+}

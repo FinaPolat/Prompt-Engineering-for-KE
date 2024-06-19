@@ -1,0 +1,21 @@
+{
+    "Evaluated file": "post_processed_zero_shot_CoT_prompts_test.json",
+    "Evaluation time": "68.98 minutes",
+    "Number of extracted triples": 9644,
+    "Number of malformed triples": 756,
+    "Number of triples has domain&range in Wikidata": 1504,
+    "Number of triples with matching domain&range in Wikidata": 80,
+    "Number of triples with zero hop match": 10,
+    "Number of triples with one hop match": 15,
+    "Number of triples with two hop match": 17,
+    "Number of triples with three hop match": 38,
+    "Number of triples has domain&range in Wikidata and only subject has wikiID (obj=no-wikiID)": 1030,
+    "Number of triples has domain&range in Wikidata and only subject has wikiID (obj=no-wikiID) and the domain matches": 496,
+    "Number of triples has domain&range in Wikidata and only object has wikiID (sbj=no-wikiID)": 54,
+    "Number of triples has domain&range in Wikidata and only object has wikiID (sbj=no-wikiID) and range matches": 18,
+    "Number of triples has domain&range but subject and object both NOT found in Wikidata": 147,
+    "Number of triples has domain&range in Wikidata and both subject and object have wikiID": 273,
+    "Number of triples with all components in Wikidata": 1005,
+    "Number of triples with matching statement in Wikidata": 73,
+    "Number of triples with both statement and domain&range in Wikidata": 26
+}
