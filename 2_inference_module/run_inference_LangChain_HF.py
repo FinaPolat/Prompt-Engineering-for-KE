@@ -50,7 +50,7 @@ def main():
     llm = HuggingFaceEndpoint(
     repo_id=args.model_name, max_new_tokens=512, temperature=0.5, huggingfacehub_api_token=os.environ["HUGGINGFACEHUB_API_TOKEN"])
     
-    for file in file_names[16:]:
+    for file in file_names:
         prompt_file = f'{args.input_folder}/{file}'
         prompts = read_prompts(prompt_file)
         #prompts = prompts[:3]
