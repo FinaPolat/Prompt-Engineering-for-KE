@@ -4,6 +4,7 @@ pyproject-toml
 flash-attn===1.0.4 --no-build-isolation
 langchain
 langchain_huggingface
+langchain-ollama
 chromadb
 sentence-transformers
 InstructorEmbedding
@@ -11,4 +12,5 @@ datasets
 accelerate
 openai
 protobuf
+python-dotenv
 sentencepiece
