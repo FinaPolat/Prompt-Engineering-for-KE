@@ -1,0 +1,1 @@
+uv run python 2_inference_module/run_inference_LangChain_HF.py --input_folder "1_data_module/2_creating_prompts/data_with_prompts" --model_name "qwen3.5:4b" --out_dir "2_inference_module/output_generated_by_models/generated_by_qwen"
