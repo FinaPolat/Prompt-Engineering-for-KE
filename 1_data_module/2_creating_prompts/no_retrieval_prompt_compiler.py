@@ -1,6 +1,4 @@
-
-
-from langchain import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from tqdm import tqdm
 import json
 import os

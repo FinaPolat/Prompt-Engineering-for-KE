@@ -1326,6 +1326,19 @@ wheels = [
 ]
 
 [[package]]
+name = "langchain-ollama"
+version = "1.1.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "langchain-core" },
+    { name = "ollama" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/d4/9b/6641afe8a5bf807e454fd464eddfc7eb2f2df53cb0b29744381171f9c609/langchain_ollama-1.1.0.tar.gz", hash = "sha256:f776f56f6782ae4da7692579b94a6575906118318d1023b455d7207f9d059811", size = 133075, upload-time = "2026-04-07T02:48:00.873Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/2c/b2/c2acb076590a98bee2816ed5f285e00df162a34238f9e276e175e14ebc35/langchain_ollama-1.1.0-py3-none-any.whl", hash = "sha256:43ac83a6eacb0f43855810739794dd55019e0d9b17bdcf3ecb3b1991ac3b59dd", size = 31413, upload-time = "2026-04-07T02:47:59.642Z" },
+]
+
+[[package]]
 name = "langchain-protocol"
 version = "0.0.20"
 source = { registry = "https://pypi.org/simple" }
@@ -2099,6 +2112,19 @@ wheels = [
 ]
 
 [[package]]
+name = "ollama"
+version = "0.6.3"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "httpx" },
+    { name = "pydantic" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/b8/97/eeafe65594e4f4b25e443e068ef7d83aa3105b023e12e1c408c38669fc07/ollama-0.6.3.tar.gz", hash = "sha256:41fc49a8095c4a75939c4c1f8582e4d0671692fb6eac2a5a7ede8c9872b67096", size = 56868, upload-time = "2026-09-29T01:26:51.906Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/4d/64/87505d9e006461233c21c8e66dc1ecee49c996090584b216abd0dd4a8322/ollama-0.6.3-py3-none-any.whl", hash = "sha256:6a20bc42c1a5f889295d7ec490d35e5132fc31f339561530f43a8abd4dbfe508", size = 16603, upload-time = "2026-09-29T01:26:50.451Z" },
+]
+
+[[package]]
 name = "onnxruntime"
 version = "1.31.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2504,8 +2530,10 @@ dependencies = [
     { name = "instructorembedding" },
     { name = "langchain" },
     { name = "langchain-huggingface" },
+    { name = "langchain-ollama" },
     { name = "openai" },
     { name = "protobuf" },
+    { name = "python-dotenv" },
     { name = "retry" },
     { name = "sentence-transformers" },
     { name = "sentencepiece" },
@@ -2523,8 +2551,10 @@ requires-dist = [
     { name = "instructorembedding", specifier = ">=1.0.1" },
     { name = "langchain", specifier = ">=1.4.9" },
     { name = "langchain-huggingface", specifier = ">=1.2.3" },
+    { name = "langchain-ollama", specifier = ">=1.1.0" },
     { name = "openai", specifier = ">=3.46.0" },
     { name = "protobuf", specifier = ">=7.36.2" },
+    { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "retry", specifier = ">=0.9.2" },
     { name = "sentence-transformers", specifier = ">=6.2.0" },
     { name = "sentencepiece", specifier = ">=0.2.3" },
