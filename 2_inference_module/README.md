@@ -1,7 +1,7 @@
 # Inference Module
 ==============================
 
-This module contains scripts for running inference using the OpenAI API and LangChain Huggingface API.
+This module contains scripts for running inference using the OpenAI API and local Ollama models through LangChain.
 
 Overview
 --------
@@ -9,13 +9,13 @@ The data does not require further processing at this stage. The script reads pro
 
 API Keys
 --------
-Both OpenAI and LangChain Huggingface API calls require API keys. Ensure that you replace placeholder values with your own API keys.
+OpenAI inference requires an API key in the project `.env` file. Ollama inference runs locally and does not require an API key; ensure the Ollama application is running and the selected model is installed (for example, `ollama pull qwen3.5:4b`).
 
 Running Inference
 -----------------
-- Run inference with Huggingface LLMs:
+- Run inference with a local Ollama model:
 
-`python 2_inference_module/run_inference_LangChain_HF.py`
+`uv run python 2_inference_module/run_inference_LangChain_HF.py --input_folder "1_data_module/2_creating_prompts/data_with_prompts" --model_name "qwen3.5:4b" --out_dir "2_inference_module/output_generated_by_models/generated_by_Llama"`
 
 
 - Run inference with OpenAI models:
