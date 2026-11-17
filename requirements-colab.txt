@@ -1,0 +1,5 @@
+transformers
+accelerate
+bitsandbytes
+tqdm
+# torch ja vem instalado no Colab

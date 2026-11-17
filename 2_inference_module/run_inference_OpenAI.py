@@ -5,10 +5,18 @@ from retry import retry
 import argparse
 import logging
 import time
+from pathlib import Path
 from tqdm import tqdm
+from dotenv import load_dotenv
 
-os.environ["OPENAI_API_KEY"] = 'your_OpenAI_api_key'
-openai.api_key = os.environ["OPENAI_API_KEY"]
+BASE_DIR = Path(__file__).resolve().parents[1]
+load_dotenv(BASE_DIR / ".env")
+
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    raise RuntimeError("OPENAI_API_KEY not found in the environment or .env file.")
+
+openai.api_key = api_key
 
 
 def read_prompts(input_file): 

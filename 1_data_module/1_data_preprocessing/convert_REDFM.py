@@ -146,9 +146,9 @@ def convert_data(data):
 if __name__ == '__main__':
     
     parser = argparse.ArgumentParser()
-    parser.add_argument('--output_dir', type=str, default='data/RED-fm', help='Output directory')
-    parser.add_argument('--entity_types', type=str, default='data/entity_types.json', help='Entity types json file')
-    parser.add_argument('--relations', type=str, default='data/relations.json', help='Relations json file')
+    parser.add_argument('--output_dir', type=str, default='RED-fm', help='Output directory')
+    parser.add_argument('--entity_types', type=str, default='entity_types.json', help='Entity types json file')
+    parser.add_argument('--relations', type=str, default='relations.json', help='Relations json file')
     args = parser.parse_args()
     
     logging.info('Downloading RED-FM dataset from HuggingFace Datasets')
