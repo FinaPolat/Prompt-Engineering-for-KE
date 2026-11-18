@@ -1,6 +1,6 @@
 """Inference with a local Ollama model through LangChain, saving token log-probabilities.
 
-Based on run_inference_LangChain_HF.py (Luis' Ollama version). Same model call
+Based on run_inference_LangChain_HF.py. Same model call
 (ChatOllama, temperature=0, reasoning=False); differences:
   - asks Ollama for log-probabilities (logprobs=True, optional top_logprobs) and saves them;
   - --only selects the prompt files (default: the zero-shot baseline);
